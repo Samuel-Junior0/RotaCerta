@@ -69,16 +69,6 @@ Cada pasta em `data/` contém `cidades.csv` e `estradas.csv`:
 - `data/medio` — 300 cidades e 900 estradas;
 - `data/grande` — 5.000 cidades e 20.000 estradas.
 
-As instâncias média e grande são geradas por `scripts/gerar_instancias.py` com semente
-base fixa. Para recriá-las:
-
-```bash
-python3 scripts/gerar_instancias.py
-```
-
-O script valida contagens, conectividade, nomes únicos, ausência de arestas duplicadas e
-pesos positivos, e não altera a instância pequena.
-
 ```csv
 nome,latitude,longitude
 João Pessoa,-7.1195,-34.8450
@@ -98,8 +88,6 @@ Para usar outro conjunto, aponte `--dados` para outra pasta. Nenhuma alteração
 codigo/
 ├── pom.xml
 ├── data/                    # pequeno, medio e grande
-├── scripts/
-│   └── gerar_instancias.py  # gerador reproduzível das instâncias
 ├── src/main/java/...        # aplicação (graph, algorithm, io, cli, gui)
 └── src/test/java/...        # testes JUnit
 ```
