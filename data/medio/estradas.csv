@@ -1,0 +1,903 @@
+# Instância medio gerada por scripts/gerar_instancias.py
+# Grafo não direcionado, conectado, sem autolaços ou arestas duplicadas.
+origem,destino,distancia_km,tempo_min
+Nova Vida do Campo,Águas Belas do Campo,25.1,19.8
+Águas Belas do Campo,Cedro do Norte,17.7,13.4
+Cedro do Norte,Alagoa Grande do Sul,14.7,13.6
+Alagoa Grande do Sul,Palmeira da Lua,13.2,15.9
+Palmeira da Lua,Piedade,14.4,10.8
+Cedro do Norte,Santa Maria do Cariri,18.8,21.5
+Piedade,São Miguel do Leste,21.1,23.5
+Santa Maria do Cariri,Santa Luzia das Pedras,21.7,22.9
+Santa Luzia das Pedras,Água Branca do Bom Jesus,19.9,20.1
+Santa Luzia das Pedras,Alcantil do Cariri,21.4,25.9
+Água Branca do Bom Jesus,Caridade dos Montes,26.7,23.6
+Caridade dos Montes,São José do Sol,18.0,13.2
+São José do Sol,Águas Belas de Cima,16.8,21.6
+Águas Belas de Cima,São Miguel das Águas,23.2,21.6
+Águas Belas de Cima,Conceição do Triunfo,21.6,19.8
+Conceição do Triunfo,Riacho Fundo do Sul,20.8,27.5
+Riacho Fundo do Sul,Aliança de Santa Luzia,18.9,14.9
+Aliança de Santa Luzia,Riacho Fundo dos Montes,18.6,21.1
+Riacho Fundo dos Montes,Santa Fé das Pedras,17.8,12.7
+Santa Fé das Pedras,São Sebastião do Meio,9.0,7.2
+Aliança de Santa Luzia,Terra Nova da Serra Azul,18.6,24.6
+Terra Nova da Serra Azul,São Lourenço do Cariri,19.7,27.9
+São Lourenço do Cariri,Alagoa Nova do Norte,13.6,9.5
+Alagoa Nova do Norte,Alagoa Grande da Fazenda,17.8,12.5
+Alagoa Grande da Fazenda,Alto Bonito do Açude,12.3,8.5
+Alagoa Grande da Fazenda,Pedra Lavrada da Mata,14.6,12.0
+São Lourenço do Cariri,Floresta dos Ventos,19.3,21.1
+Floresta dos Ventos,Lagoa Seca das Pedras,17.6,12.8
+Lagoa Seca das Pedras,Bom Sucesso da Barra,19.0,17.1
+São Sebastião do Meio,Jardim da Paz,22.5,26.2
+Jardim da Paz,Glória do Cruzeiro,16.8,15.2
+Riacho Fundo dos Montes,Pilões da Serra,20.6,24.0
+Pilões da Serra,Santa Fé do Oeste,15.4,20.9
+Jardim da Paz,Barra do Rio do Triunfo,24.6,16.9
+Barra do Rio do Triunfo,Santa Helena do Sul,14.2,10.1
+Santa Helena do Sul,Fortaleza de Nazaré,21.9,26.2
+Fortaleza de Nazaré,São Braz do Riacho,16.4,14.2
+São Braz do Riacho,Mangabeira do Litoral,18.0,15.1
+São Braz do Riacho,Alto Branco do Horizonte,18.1,19.2
+Alto Branco do Horizonte,Misericórdia do Campo,22.2,20.0
+Misericórdia do Campo,Glória do Engenho,18.7,16.7
+Misericórdia do Campo,Salgadinho do Riacho,21.3,15.4
+Salgadinho do Riacho,Pedra Branca da Paz,14.0,15.0
+Pedra Branca da Paz,Santa Maria da Paz,13.6,14.6
+Pedra Branca da Paz,Pau Ferro do Curimataú,17.0,16.4
+Santa Maria da Paz,Graça da Várzea,22.3,21.4
+Graça da Várzea,São José de Santa Luzia,15.3,21.3
+São José de Santa Luzia,Barreira do Sul,15.0,12.6
+São José de Santa Luzia,Remígio da Fazenda,22.0,16.0
+Remígio da Fazenda,São Braz de Nazaré,19.7,15.2
+Glória do Engenho,Santa Fé de Nazaré,24.6,22.0
+Santa Fé de Nazaré,Riacho Verde dos Montes,13.7,17.9
+Riacho Verde dos Montes,Triunfo do Leste,21.3,19.4
+Riacho Verde dos Montes,Maravilha do Carmo,21.9,18.2
+Maravilha do Carmo,Graça do Carmo,23.0,16.0
+Graça do Carmo,Santa Cruz das Pedras,12.4,10.2
+Santa Cruz das Pedras,São Domingos dos Ventos,13.6,13.3
+São Domingos dos Ventos,Riacho Fundo da Esperança,14.9,14.8
+Riacho Fundo da Esperança,Aliança do Agreste,13.0,13.8
+Graça do Carmo,Lagoa Seca do Campo,17.5,15.4
+Lagoa Seca do Campo,São Bento do Leste,19.5,14.2
+São Bento do Leste,Bom Jesus de Nazaré,14.5,12.2
+Bom Jesus de Nazaré,Glória da Cruz,13.3,9.6
+Bom Jesus de Nazaré,Santo André do Triunfo,19.4,13.7
+Santa Fé de Nazaré,Glória dos Rios,24.8,32.3
+Glória dos Rios,Princesa da Serra,17.3,18.0
+Glória dos Rios,Santa Helena da Barra,22.4,28.0
+Santa Helena da Barra,Água Doce do Sul,11.4,12.5
+Princesa da Serra,Serra Verde do Horizonte,21.4,26.5
+Serra Verde do Horizonte,Flores do Sertão,15.8,15.2
+Serra Verde do Horizonte,Fortaleza do Brejo,23.9,22.6
+Fortaleza do Brejo,Santa Rosa da Serra Azul,21.1,15.3
+Santa Rosa da Serra Azul,Cristal da Lagoa,19.7,17.0
+Cristal da Lagoa,Rio Verde do Sertão,9.9,7.7
+Santa Rosa da Serra Azul,Serra Grande da Várzea,23.5,19.0
+Serra Grande da Várzea,Tabuleiro de Baixo,20.2,15.8
+Flores do Sertão,Cachoeira do Leste,24.6,30.7
+Cachoeira do Leste,Águas Belas das Flores,19.3,13.5
+Águas Belas das Flores,Tabuleiro do Cariri,9.7,12.9
+Tabuleiro do Cariri,Santa Helena do Leste,19.8,13.9
+Santa Helena do Leste,Estrela dos Ventos,20.3,14.6
+Estrela dos Ventos,Boa Esperança do Oeste,22.8,23.2
+Tabuleiro de Baixo,Tabuleiro do Sertão,24.7,21.1
+Tabuleiro do Sertão,Monte Alto de Fátima,17.2,21.5
+Princesa da Serra,São Vicente dos Ventos,23.7,31.3
+São Vicente dos Ventos,Maravilha do Litoral,12.7,10.0
+Maravilha do Litoral,Candeias do Sul,17.1,13.4
+Candeias do Sul,Nova Esperança da Estrela,11.4,12.0
+Nova Esperança da Estrela,Barra Clara da Fazenda,22.8,32.4
+Barra Clara da Fazenda,Água Branca do Engenho,9.8,8.6
+Água Branca do Engenho,Monte Alto das Águas,17.7,12.7
+Barra Clara da Fazenda,Nova Aurora das Águas,21.4,20.2
+Nova Aurora das Águas,Ipiranga do Litoral,14.3,13.7
+Monte Alto das Águas,Olho d'Água do Sítio,24.5,17.9
+Olho d'Água do Sítio,Boa Esperança das Águas,20.6,20.7
+Bom Sucesso da Barra,Tabuleiro da Esperança,25.0,20.2
+Tabuleiro da Esperança,Prata do Norte,14.4,10.4
+Prata do Norte,Alto Bonito da Conceição,16.9,16.0
+Tabuleiro da Esperança,Primavera do Curimataú,23.5,16.8
+Primavera do Curimataú,São Miguel do Sol,16.3,17.2
+São Miguel do Sol,São Bento de Nazaré,13.3,10.5
+São Bento de Nazaré,Terra Nova do Sul,17.3,16.9
+Terra Nova do Sul,Sossego de Baixo,18.5,16.3
+Sossego de Baixo,Graça da Conceição,11.8,9.3
+São Bento de Nazaré,Serra Azul do Sítio,17.9,12.9
+Terra Nova do Sul,Fortaleza do Cruzeiro,20.6,16.1
+Fortaleza do Cruzeiro,Varjota da Serra Azul,15.1,21.0
+São Miguel do Sol,Riacho Fundo dos Rios,24.8,17.6
+Riacho Fundo dos Rios,Conceição de Baixo,9.9,11.7
+Varjota da Serra Azul,Tabuleiro,22.3,21.1
+Tabuleiro,Vale Verde do Sítio,14.3,17.6
+Vale Verde do Sítio,São Lourenço do Litoral,22.3,22.0
+São Lourenço do Litoral,Alagoa Grande das Águas,14.4,11.4
+São Lourenço do Litoral,Alto do Cruzeiro do Bom Jesus,17.1,11.9
+Alto do Cruzeiro do Bom Jesus,Pedra Branca do Agreste,19.9,22.5
+Pedra Branca do Agreste,Remígio do Cruzeiro,18.5,19.9
+Pedra Branca do Agreste,Luzia da Lagoa,20.6,24.6
+Luzia da Lagoa,Barra Grande do Triunfo,20.9,16.8
+Barra Grande do Triunfo,Pau Ferro do Cruzeiro,15.8,12.7
+Pau Ferro do Cruzeiro,Barra do Rio da Esperança,21.5,25.1
+Luzia da Lagoa,São Braz do Cariri,21.1,25.6
+São Braz do Cariri,Triunfo do Oeste,18.4,25.8
+Triunfo do Oeste,Águas Belas da Paz,13.7,16.2
+Águas Belas da Paz,Monte Alto da Barra,14.7,11.6
+Monte Alto da Barra,Barra do Rio da Várzea,20.5,23.7
+Barra do Rio da Várzea,Ipiranga das Pedras,15.2,13.5
+Ipiranga das Pedras,Ipiranga do Cariri,19.9,21.3
+Ipiranga do Cariri,São Vicente da Cruz,20.3,20.8
+São Vicente da Cruz,Caridade da Cruz,16.8,16.0
+Caridade da Cruz,Primavera do Sol,17.5,14.2
+Caridade da Cruz,Palmeira do Campo,18.2,22.6
+Caridade da Cruz,Triunfo do Bom Jesus,18.8,13.4
+Ipiranga do Cariri,Pedra Branca do Meio,22.3,16.8
+Pedra Branca do Meio,Maravilha dos Ventos,18.2,14.1
+Pedra Branca do Meio,Campo Belo dos Rios,23.7,22.5
+Campo Belo dos Rios,Santa Cruz das Flores,21.9,20.8
+Santa Cruz das Flores,São Geraldo do Sítio,10.6,9.5
+São Geraldo do Sítio,Caridade do Norte,11.9,12.7
+Caridade do Norte,Alcantil do Meio,16.2,11.8
+Alcantil do Meio,Piedade dos Montes,15.7,16.1
+Caridade do Norte,Bom Sucesso do Horizonte,18.1,17.1
+Triunfo do Bom Jesus,Palmeira do Sertão,20.7,18.8
+Vale Verde do Sítio,Varjota do Engenho,23.3,16.0
+Barra Grande do Triunfo,Serra Verde do Agreste,24.2,27.4
+Serra Verde do Agreste,Triunfo da Mata,18.8,12.9
+Serra Verde do Agreste,Estrela da Lua,18.0,21.7
+Alagoa Grande das Águas,Salgadinho da Glória,24.1,19.4
+Salgadinho da Glória,Serra Branca da Fazenda,15.7,15.6
+Serra Branca da Fazenda,Triunfo da Fazenda,16.2,15.5
+Triunfo da Fazenda,Serra Azul do Carmo,21.1,27.0
+Serra Azul do Carmo,Nazaré do Sul,17.3,15.5
+Serra Azul do Carmo,Barra Clara do Açude,20.7,17.9
+Barra Clara do Açude,Serra Grande do Agreste,16.6,12.5
+Serra Grande do Agreste,São Sebastião dos Montes,15.1,14.0
+São Sebastião dos Montes,Redenção do Cariri,20.3,17.8
+São Sebastião dos Montes,Boa Esperança da Lua,21.7,28.5
+Boa Esperança da Lua,Alegria da Fazenda,21.1,20.9
+Alegria da Fazenda,Estrela de Santa Luzia,20.8,25.8
+Redenção do Cariri,Paraíso da Várzea,20.9,16.6
+Paraíso da Várzea,Santa Teresinha do Agreste,17.0,18.9
+Santa Teresinha do Agreste,Santa Rosa do Vale,17.3,12.0
+Santa Rosa do Vale,Horizonte de Santa Luzia,20.6,14.2
+Paraíso da Várzea,Canaã do Curimataú,23.3,19.0
+Canaã do Curimataú,Palmeira da Serra,13.1,14.8
+Palmeira da Serra,Alagoa Grande do Sítio,17.1,19.9
+Alagoa Grande do Sítio,Princesa do Sítio,11.8,9.3
+Horizonte de Santa Luzia,Riacho Fundo do Sertão,22.2,23.4
+Riacho Fundo do Sertão,Alto Branco do Riacho,15.5,12.0
+Alto Branco do Riacho,São Pedro do Engenho,15.2,15.2
+Riacho Fundo do Sertão,Água Branca do Açude,17.2,23.7
+São Pedro do Engenho,São Braz da Lagoa,21.4,15.6
+Alto Branco do Riacho,Triunfo do Sol,21.1,27.4
+Triunfo do Sol,Misericórdia da Serra Azul,17.5,15.7
+Água Branca do Açude,Alagoa Grande da Mata,21.6,20.5
+Alagoa Grande da Mata,Alto Branco do Alto,17.2,19.5
+Alto Branco do Alto,São Domingos da Lagoa,15.7,10.9
+Alagoa Grande da Mata,Rio Bonito do Oeste,17.6,13.8
+São Pedro do Engenho,Remígio da Estrela,19.8,20.3
+Remígio da Estrela,Vitória das Águas,20.8,28.8
+Rio Bonito do Oeste,Ventura do Carmo,21.7,17.9
+Ventura do Carmo,Conceição da Lua,9.3,8.4
+Conceição da Lua,Santa Maria do Curimataú,21.9,29.4
+Santa Maria do Curimataú,Bom Jesus do Riacho,20.2,25.6
+Bom Jesus do Riacho,Lagoa Seca da Lagoa,20.7,17.4
+Bom Jesus do Riacho,Alagoa Nova da Serra Azul,20.5,16.5
+Alagoa Nova da Serra Azul,Redenção da Estrela,17.2,19.1
+Redenção da Estrela,Monte Belo do Carmo,15.2,21.2
+Redenção da Estrela,Riacho Verde do Brejo,17.2,13.0
+Riacho Verde do Brejo,Riacho Fundo da Cruz,12.2,12.0
+Santa Maria do Curimataú,Alto Alegre do Oeste,19.5,13.6
+Alto Alegre do Oeste,Vale Verde de Santa Luzia,19.8,25.9
+Vale Verde de Santa Luzia,Monte Belo da Serra Azul,15.5,17.9
+Vale Verde de Santa Luzia,Nova Esperança do Alto,18.9,19.6
+Nova Esperança do Alto,Alegria do Litoral,15.8,14.1
+Nova Esperança do Alto,Alto da Serra da Mata,16.1,12.3
+Alto da Serra da Mata,União do Sul,14.3,17.6
+Alegria do Litoral,Graça de Santa Luzia,16.3,11.8
+Graça de Santa Luzia,Alcantil dos Montes,15.6,13.8
+Alegria do Litoral,Rio Claro da Fazenda,19.7,16.9
+Rio Claro da Fazenda,Alcantil do Triunfo,20.0,21.3
+Alcantil do Triunfo,Santa Rosa do Sul,20.9,14.5
+Santa Rosa do Sul,Barra Grande das Pedras,17.9,18.3
+Barra Grande das Pedras,Candeias do Bom Jesus,21.0,25.3
+Candeias do Bom Jesus,Alto Branco das Flores,19.5,15.0
+Barra Grande das Pedras,Baraúna da Serra Azul,20.3,22.6
+Riacho Fundo da Cruz,Baraúna de Santa Luzia,21.5,16.3
+Lagoa Seca da Lagoa,Palmeira de Fátima,21.2,28.1
+Palmeira de Fátima,Serra Azul do Vale,20.3,14.3
+Alcantil dos Montes,Mangabeira das Águas,24.0,18.6
+Mangabeira das Águas,Esperança da Lagoa,19.2,14.2
+Mangabeira das Águas,Bom Sucesso de Baixo,21.1,20.0
+Palmeira da Serra,Graça de Nazaré,24.2,17.5
+Graça de Nazaré,Terra Nova do Leste,13.4,9.7
+Vitória das Águas,Palmeira da Glória,24.8,20.1
+Palmeira da Glória,Santa Helena do Curimataú,14.8,19.3
+Santa Helena do Curimataú,Cruz do Meio do Norte,13.3,14.5
+Cruz do Meio do Norte,Rio Bonito da Paz,19.2,18.7
+Rio Bonito da Paz,Santa Rosa do Brejo,12.0,14.7
+Santa Rosa do Brejo,Santo André do Alto,17.4,14.8
+Santa Helena do Curimataú,Serra Verde da Cruz,20.6,18.8
+Rio Bonito da Paz,Flores da Cruz,21.5,21.2
+Flores da Cruz,Riacho Fundo das Pedras,18.0,12.8
+Riacho Fundo das Pedras,São Vicente do Agreste,13.3,17.1
+São Vicente do Agreste,Santa Luzia de Nazaré,19.2,24.3
+Riacho Fundo das Pedras,Santa Luzia da Lua,20.2,15.9
+Santa Luzia de Nazaré,Jardim da Lagoa,18.6,14.3
+Jardim da Lagoa,Caridade da Estrela,11.5,10.2
+Caridade da Estrela,Redenção do Agreste,15.1,17.3
+Redenção do Agreste,Serra Verde do Sítio,18.8,14.4
+Santa Luzia da Lua,Barra do Rio,21.8,31.1
+Serra Verde do Sítio,Riacho Fundo do Meio,21.0,29.1
+Alagoa Grande da Fazenda,Água Branca das Flores,25.9,22.2
+Água Branca das Flores,Flores da Esperança,20.9,17.2
+Mangabeira do Litoral,Pilões do Curimataú,26.5,28.9
+Pilões do Curimataú,Santo Antônio do Engenho,21.7,20.0
+Santo Antônio do Engenho,Alto Branco da Mata,18.2,14.4
+Alto Branco da Mata,Aroeira do Sítio,18.7,13.6
+Aroeira do Sítio,Baraúna dos Rios,15.4,15.0
+Santo Antônio do Engenho,Prata do Brejo,19.5,26.6
+Aroeira do Sítio,Canaã do Vale,21.6,26.1
+Princesa do Sítio,Rio Verde do Carmo,22.8,20.0
+Rio Verde do Carmo,São Paulo das Águas,11.4,9.1
+São Paulo das Águas,Santa Teresinha do Alto,21.0,23.9
+Santa Teresinha do Alto,Horizonte de Nazaré,20.2,27.1
+Horizonte de Nazaré,Santo Antônio da Lagoa,18.4,24.2
+Horizonte de Nazaré,Água Branca do Riacho,20.9,29.2
+Água Branca do Riacho,Mangabeira de Fátima,24.7,20.7
+Água Branca do Bom Jesus,Água Branca do Norte,23.0,17.9
+Água Branca do Norte,Jerusalém da Serra,13.6,14.6
+Jerusalém da Serra,Salgadinho da Conceição,19.2,17.8
+Salgadinho da Conceição,Esperança do Sul,15.0,14.1
+Esperança do Sul,Alto do Cruzeiro da Conceição,15.2,10.9
+Alto do Cruzeiro da Conceição,Fortaleza do Sul,17.3,19.6
+Fortaleza do Sul,São Braz do Sertão,17.2,19.7
+Fortaleza do Sul,Cachoeira do Engenho,20.8,23.2
+São Braz do Sertão,São José da Lua,21.7,18.0
+Salgadinho da Conceição,Piedade do Sol,23.6,31.4
+Piedade do Sol,Alcantil da Barra,15.6,15.3
+São Braz do Sertão,Pedra Lavrada da Conceição,24.7,19.8
+Pedra Lavrada da Conceição,Lagoa Seca do Cariri,12.6,8.8
+Lagoa Seca do Cariri,Vera Cruz do Bom Jesus,16.3,12.5
+Vera Cruz do Bom Jesus,São Pedro das Pedras,16.5,12.6
+São Pedro das Pedras,Nova Vida do Oeste,20.6,20.2
+Nova Vida do Oeste,São Vicente do Brejo,11.4,11.3
+Monte Belo do Carmo,Santa Maria da Barra,25.5,18.5
+Santa Maria da Barra,Conceição do Carmo,11.7,16.3
+Conceição do Carmo,Pilões do Triunfo,15.5,11.0
+Pilões do Triunfo,Fortaleza da Conceição,12.8,14.2
+Santa Maria da Barra,Nova Esperança do Brejo,16.1,12.2
+Fortaleza da Conceição,Barra Grande das Flores,17.3,14.1
+Barra Grande das Flores,Rio Claro da Várzea,14.8,14.1
+Nova Esperança do Brejo,Santa Fé da Mata,20.0,16.6
+Monte Alto de Fátima,São Sebastião dos Rios,27.3,38.8
+São Sebastião dos Rios,São Geraldo da Estrela,8.3,11.3
+Serra Verde do Agreste,São Geraldo dos Montes,23.5,23.8
+São Geraldo dos Montes,Aliança do Cariri,24.8,17.5
+Aliança do Cariri,São Geraldo de Baixo,13.2,12.7
+São Geraldo de Baixo,Redenção do Riacho,18.3,15.7
+Redenção do Riacho,Riacho Fundo do Campo,11.8,12.9
+Graça da Conceição,Alagoa Nova do Oeste,25.2,18.0
+Alagoa Nova do Oeste,Água Doce de Santa Luzia,13.7,14.9
+Água Doce de Santa Luzia,Aurora do Oeste,21.6,30.7
+Aurora do Oeste,Bom Jesus das Águas,22.5,30.2
+Bom Jesus das Águas,Alagoa Grande do Sol,17.2,17.0
+Aurora do Oeste,São Paulo do Bom Jesus,24.9,27.8
+Tabuleiro de Baixo,Soledade de Fátima,23.9,19.4
+Soledade de Fátima,Pau Ferro da Barra,16.3,14.6
+Floresta dos Ventos,Alto do Cruzeiro da Paz,27.7,25.8
+Alto do Cruzeiro da Paz,Serra Azul do Leste,14.0,9.7
+Serra Azul do Leste,Barra Clara do Brejo,20.6,20.9
+Barra Clara do Brejo,Barra do Rio dos Rios,17.0,12.8
+Alto do Cruzeiro da Paz,São Francisco do Horizonte,25.9,25.4
+São Francisco do Horizonte,Redenção do Sítio,16.4,12.2
+Redenção do Sítio,Santa Maria do Sertão,21.1,15.5
+Santa Maria do Sertão,Candeias do Engenho,17.3,14.4
+Tabuleiro da Esperança,São Francisco do Norte,24.8,32.0
+São Francisco do Norte,Nazaré da Esperança,21.3,17.3
+Piedade do Sol,São João dos Montes,30.1,36.8
+Santa Fé da Mata,Redenção do Alto,34.1,28.2
+Alto do Cruzeiro do Bom Jesus,São Braz do Cariri,25.1,19.9
+Santa Helena do Leste,Santa Helena da Barra,51.9,45.2
+Rio Claro da Fazenda,Fortaleza da Conceição,30.1,27.5
+Água Branca do Norte,Nova Vida do Oeste,58.0,44.3
+Redenção do Cariri,Misericórdia da Serra Azul,58.9,55.9
+Candeias do Engenho,Alagoa Grande da Fazenda,70.7,81.5
+Triunfo do Leste,Santa Cruz das Pedras,37.4,41.5
+Glória da Cruz,Graça do Carmo,41.1,29.7
+Santa Teresinha do Agreste,Horizonte de Santa Luzia,33.7,31.6
+São Braz do Cariri,Barra do Rio da Várzea,55.3,65.9
+Sossego de Baixo,São Paulo do Bom Jesus,41.2,28.4
+Santa Maria da Paz,Remígio da Fazenda,55.7,51.7
+Estrela da Lua,Triunfo da Mata,20.1,24.4
+Aliança do Agreste,São Domingos dos Ventos,26.6,21.9
+São José de Santa Luzia,Aroeira do Sítio,31.8,41.7
+Cedro do Norte,Caridade dos Montes,62.5,80.6
+Nova Esperança do Alto,Santa Maria do Curimataú,50.7,50.4
+São Lourenço do Litoral,Triunfo do Oeste,49.4,37.6
+São Miguel do Leste,Santa Helena do Leste,33.7,38.6
+Água Branca do Norte,Caridade dos Montes,28.3,20.5
+São Braz do Riacho,Alto Branco da Mata,53.7,71.3
+Nazaré da Esperança,Conceição de Baixo,47.1,33.4
+Santo Antônio da Lagoa,Jardim da Lagoa,67.0,72.2
+Serra Azul do Sítio,São Miguel do Sol,21.8,21.3
+São Geraldo de Baixo,Primavera do Sol,76.7,59.3
+Maravilha do Carmo,Fortaleza de Nazaré,41.7,28.8
+Santa Maria do Sertão,São Lourenço do Cariri,45.7,38.5
+Palmeira da Lua,Alcantil do Cariri,65.4,76.1
+Vale Verde de Santa Luzia,Fortaleza da Conceição,42.9,34.9
+Nazaré do Sul,Paraíso da Várzea,54.2,41.0
+Mangabeira do Litoral,Glória do Cruzeiro,29.2,37.4
+Água Doce de Santa Luzia,Mangabeira de Fátima,38.1,39.2
+São Francisco do Horizonte,Terra Nova da Serra Azul,54.3,65.2
+Monte Alto de Fátima,Serra Grande da Várzea,51.2,45.9
+Horizonte de Santa Luzia,Serra Azul do Vale,52.5,73.5
+Monte Alto de Fátima,Serra Verde do Horizonte,52.1,42.1
+Lagoa Seca do Cariri,Barra do Rio dos Rios,35.4,30.8
+Alcantil do Triunfo,Vale Verde de Santa Luzia,55.0,69.5
+Triunfo do Bom Jesus,Campo Belo dos Rios,24.3,18.8
+Triunfo do Leste,São Domingos dos Ventos,46.9,43.4
+Remígio da Fazenda,Palmeira do Campo,56.0,45.8
+Redenção do Agreste,Terra Nova do Leste,42.4,34.8
+Nova Aurora das Águas,Monte Alto das Águas,27.0,27.4
+Alcantil do Triunfo,Barra Grande das Flores,48.6,35.6
+Princesa da Serra,Água Branca do Engenho,64.8,49.2
+Cristal da Lagoa,Barra Clara da Fazenda,40.8,33.2
+Santa Rosa do Sul,Candeias do Bom Jesus,31.2,25.9
+Santa Helena do Leste,Bom Jesus de Nazaré,59.2,60.3
+Rio Bonito do Oeste,São Domingos da Lagoa,45.8,31.3
+Riacho Fundo da Esperança,Riacho Fundo dos Montes,56.8,76.7
+Mangabeira do Litoral,Canaã do Vale,62.7,67.1
+Aurora do Oeste,Santo Antônio da Lagoa,44.1,33.2
+Riacho Verde dos Montes,Santa Helena do Sul,30.8,39.7
+São Sebastião do Meio,Aliança do Cariri,45.9,51.0
+Piedade,Santo André do Triunfo,26.3,20.2
+Redenção da Estrela,Lagoa Seca da Lagoa,22.1,17.9
+Monte Alto de Fátima,Santa Rosa da Serra Azul,47.1,48.2
+Candeias do Engenho,Lagoa Seca das Pedras,67.2,62.0
+Alcantil do Cariri,Lagoa Seca do Campo,27.6,33.1
+Olho d'Água do Sítio,São José de Santa Luzia,47.8,45.0
+Nova Vida do Oeste,Pedra Lavrada da Conceição,23.2,24.2
+Terra Nova do Sul,Tabuleiro,27.2,31.7
+Remígio do Cruzeiro,Alto do Cruzeiro do Bom Jesus,24.9,21.0
+Rio Bonito da Paz,São Braz da Lagoa,52.0,42.7
+Alto Branco da Mata,Estrela da Lua,47.7,58.5
+Alto Branco da Mata,Baraúna dos Rios,30.3,43.0
+Bom Sucesso de Baixo,Alegria do Litoral,48.7,39.0
+Graça da Várzea,Alto Branco da Mata,45.0,31.1
+Graça de Nazaré,Misericórdia da Serra Azul,52.7,38.3
+Aliança do Cariri,Barra Grande do Triunfo,52.2,46.6
+Fortaleza do Cruzeiro,São Bento de Nazaré,34.5,25.4
+União do Sul,Alto Alegre do Oeste,28.7,27.4
+São Bento do Leste,Santa Cruz das Pedras,35.0,28.6
+Graça da Várzea,Barreira do Sul,23.2,17.9
+Água Branca das Flores,Serra Azul do Sítio,49.7,55.1
+Santa Teresinha do Agreste,Riacho Fundo do Sertão,30.1,24.6
+Águas Belas das Flores,Água Doce do Sul,25.4,23.6
+Pedra Branca do Agreste,Tabuleiro,46.5,40.7
+Nova Vida do Campo,Piedade do Sol,42.7,42.1
+Varjota do Engenho,Rio Verde do Carmo,33.9,24.5
+Pilões do Triunfo,Riacho Fundo da Cruz,57.7,55.8
+Graça de Nazaré,Flores da Cruz,73.7,64.0
+Alcantil do Triunfo,Alegria do Litoral,31.8,40.5
+Jardim da Lagoa,Terra Nova do Leste,24.9,19.6
+Flores da Cruz,Santa Luzia da Lua,26.2,27.0
+Triunfo do Oeste,Triunfo da Fazenda,34.2,36.9
+São Braz do Sertão,Nova Vida do Oeste,29.8,25.1
+São José de Santa Luzia,Canaã do Vale,50.4,37.8
+São Paulo das Águas,Nazaré do Sul,43.9,40.5
+Alto Branco do Horizonte,Pilões do Curimataú,47.2,53.8
+Piedade,Alcantil do Cariri,70.4,89.9
+Alto Branco do Riacho,Palmeira da Glória,64.8,45.2
+Água Branca do Norte,São José do Sol,34.5,33.0
+Bom Jesus das Águas,Riacho Fundo do Meio,45.4,32.0
+Flores da Esperança,Varjota da Serra Azul,32.8,29.2
+Redenção do Sítio,Floresta dos Ventos,27.2,19.5
+Nazaré do Sul,Redenção do Cariri,44.1,35.3
+São Francisco do Norte,São Miguel do Sol,52.7,42.6
+Pilões do Triunfo,Santa Maria da Barra,23.4,17.4
+Esperança do Sul,Jerusalém da Serra,26.1,22.2
+Maravilha do Litoral,Santa Fé de Nazaré,47.7,58.6
+Boa Esperança das Águas,São Braz de Nazaré,50.0,54.6
+Prata do Norte,Varjota da Serra Azul,53.9,49.1
+Lagoa Seca da Lagoa,Serra Azul do Vale,27.5,31.0
+Prata do Norte,São Miguel do Sol,40.8,28.2
+Pedra Branca do Meio,Bom Sucesso de Baixo,61.2,45.1
+Santa Maria do Sertão,Alagoa Grande da Fazenda,75.8,64.0
+Alto Bonito do Açude,Lagoa Seca das Pedras,47.9,39.2
+Alto Branco das Flores,Fortaleza da Conceição,35.7,36.5
+Bom Jesus do Riacho,Riacho Fundo da Cruz,54.0,63.0
+São Vicente da Cruz,Caridade do Norte,61.8,58.5
+Santa Helena do Sul,São Braz do Riacho,31.5,30.7
+Nova Esperança da Estrela,São Vicente dos Ventos,40.2,33.0
+Prata do Brejo,Estrela da Lua,56.2,54.7
+Mangabeira de Fátima,Santa Luzia de Nazaré,49.2,39.4
+Água Branca do Bom Jesus,Alcantil do Cariri,33.8,32.7
+Pau Ferro do Curimataú,Salgadinho do Riacho,29.1,22.1
+Graça do Carmo,Aliança do Agreste,39.0,46.1
+Candeias do Engenho,Bom Sucesso da Barra,78.0,65.4
+Piedade do Sol,Esperança do Sul,31.2,22.8
+Canaã do Curimataú,Santa Rosa do Vale,44.5,43.5
+Princesa do Sítio,Terra Nova do Leste,51.9,51.2
+Glória dos Rios,Riacho Verde dos Montes,35.2,40.5
+Riacho Verde dos Montes,Glória do Engenho,32.8,25.8
+Salgadinho da Conceição,Santa Maria do Cariri,48.6,54.5
+Salgadinho da Conceição,Fortaleza do Sul,46.0,56.4
+Água Branca das Flores,Terra Nova do Sul,53.9,68.7
+Fortaleza do Cruzeiro,Tabuleiro,27.8,22.9
+Riacho Verde dos Montes,São Vicente dos Ventos,42.0,57.8
+Tabuleiro da Esperança,Riacho Fundo dos Rios,41.4,32.7
+Aliança de Santa Luzia,Santa Fé das Pedras,30.4,24.3
+Cedro do Norte,Santa Luzia das Pedras,23.1,21.2
+Piedade do Sol,Jerusalém da Serra,44.9,47.0
+Serra Grande do Agreste,Paraíso da Várzea,39.2,31.3
+Primavera do Sol,São Vicente da Cruz,29.3,32.3
+Barra do Rio,Serra Verde da Cruz,37.1,32.4
+Serra Verde do Sítio,Caridade da Estrela,36.6,49.0
+Candeias do Engenho,São Francisco do Horizonte,39.6,27.7
+Estrela da Lua,São Geraldo dos Montes,35.6,40.6
+São Braz do Cariri,Águas Belas da Paz,33.8,28.3
+Estrela dos Ventos,São Miguel do Leste,28.2,21.0
+Alcantil do Meio,Campo Belo dos Rios,34.1,24.2
+São Lourenço do Cariri,Tabuleiro da Esperança,63.2,74.1
+Redenção do Riacho,Pedra Branca do Agreste,64.1,82.3
+São José de Santa Luzia,Baraúna dos Rios,32.1,45.7
+Triunfo do Bom Jesus,São Vicente da Cruz,25.2,22.1
+Remígio da Fazenda,Piedade dos Montes,45.6,54.9
+Barra Grande das Flores,Santa Fé da Mata,34.1,33.6
+Rio Claro da Várzea,Santa Fé da Mata,21.9,15.4
+Candeias do Bom Jesus,Barra Grande das Flores,48.0,34.7
+Horizonte de Nazaré,Terra Nova do Leste,36.7,26.8
+Santa Cruz das Flores,Ipiranga do Cariri,46.5,45.3
+Olho d'Água do Sítio,Pau Ferro do Curimataú,28.5,24.6
+Santa Cruz das Flores,Baraúna da Serra Azul,41.4,47.7
+São Geraldo dos Montes,São Braz do Cariri,54.3,39.5
+São Sebastião do Meio,Redenção do Riacho,24.2,29.9
+São Bento do Leste,Glória dos Rios,55.8,50.3
+Floresta dos Ventos,Alagoa Grande da Fazenda,45.6,40.1
+Cristal da Lagoa,Nova Aurora das Águas,61.9,75.5
+São Braz do Sertão,São Pedro das Pedras,49.0,36.2
+Alegria da Fazenda,Santa Teresinha do Agreste,65.9,54.8
+Alto Alegre do Oeste,Conceição do Carmo,47.2,53.9
+Alcantil do Triunfo,Fortaleza da Conceição,43.9,29.9
+Esperança da Lagoa,Alcantil do Triunfo,73.2,80.4
+Varjota da Serra Azul,Graça da Conceição,51.7,46.5
+Graça de Santa Luzia,Fortaleza da Conceição,55.2,74.4
+Alagoa Grande do Sol,Riacho Fundo do Meio,29.9,40.9
+Alagoa Nova do Oeste,Princesa do Sítio,72.2,56.1
+Sossego de Baixo,Aurora do Oeste,52.5,59.6
+São Francisco do Norte,Conceição de Baixo,32.7,25.5
+Alto Bonito da Conceição,Conceição de Baixo,61.3,70.8
+São Sebastião dos Rios,Soledade de Fátima,46.6,36.1
+Redenção do Sítio,São Lourenço do Cariri,37.8,36.7
+Triunfo do Bom Jesus,Alcantil do Meio,35.6,30.8
+Graça da Conceição,Aurora do Oeste,34.5,28.6
+Aroeira do Sítio,Estrela da Lua,54.0,48.4
+Santa Luzia de Nazaré,Santo André do Alto,40.0,55.6
+São Geraldo dos Montes,Barra do Rio da Esperança,61.3,82.4
+Triunfo do Leste,Aliança do Agreste,68.9,80.3
+Alto Bonito do Açude,Prata do Norte,67.1,79.8
+São Pedro das Pedras,Candeias do Engenho,32.1,30.5
+Santa Cruz das Pedras,Maravilha do Carmo,21.1,26.5
+Alto Branco das Flores,Nova Esperança do Brejo,71.6,57.1
+Lagoa Seca da Lagoa,Riacho Fundo da Cruz,38.2,33.6
+Nova Esperança do Brejo,Redenção do Alto,38.2,34.1
+Serra Azul do Carmo,Alegria da Fazenda,28.3,20.1
+Mangabeira das Águas,Alcantil do Triunfo,53.2,51.0
+Bom Jesus do Riacho,Monte Belo do Carmo,41.5,49.7
+Alcantil da Barra,São João dos Montes,47.5,35.6
+Glória dos Rios,Maravilha do Carmo,49.2,40.1
+Horizonte de Santa Luzia,Rio Bonito do Oeste,28.3,38.2
+Boa Esperança das Águas,Graça da Várzea,38.6,40.2
+Alto Alegre do Oeste,Santa Maria da Barra,51.9,39.7
+Boa Esperança do Oeste,Santa Helena do Leste,27.5,21.2
+Fortaleza de Nazaré,Barra do Rio do Triunfo,25.5,27.0
+Águas Belas do Campo,Água Branca do Bom Jesus,53.3,39.9
+Ipiranga do Cariri,Bom Sucesso de Baixo,55.7,49.9
+Graça de Nazaré,Santo André do Alto,56.6,53.3
+Fortaleza de Nazaré,Prata do Brejo,43.8,52.9
+Estrela dos Ventos,Tabuleiro do Cariri,37.3,36.1
+Vale Verde do Sítio,Alagoa Nova do Oeste,49.6,69.1
+São Domingos dos Ventos,Riacho Fundo dos Montes,61.5,46.4
+Alagoa Grande da Mata,Serra Azul do Vale,25.1,23.0
+Santa Maria da Barra,Riacho Verde do Brejo,51.3,71.6
+Água Doce do Sul,Glória dos Rios,31.8,34.1
+Ipiranga do Litoral,Alto Branco do Horizonte,51.3,37.3
+Tabuleiro da Esperança,São Miguel do Sol,41.0,47.2
+Fortaleza do Sul,Pedra Lavrada da Conceição,36.2,30.5
+Palmeira do Campo,Campo Belo dos Rios,47.6,44.7
+Água Branca das Flores,Prata do Norte,42.5,30.6
+Barra do Rio da Várzea,Mangabeira das Águas,38.0,47.5
+Pau Ferro do Cruzeiro,Barra do Rio da Várzea,54.0,47.7
+Fortaleza de Nazaré,Glória do Cruzeiro,46.7,43.3
+Alagoa Nova da Serra Azul,Rio Bonito do Oeste,48.2,58.9
+Maravilha do Litoral,Misericórdia do Campo,41.7,58.6
+São Francisco do Horizonte,Serra Azul do Leste,27.1,38.3
+Esperança da Lagoa,Rio Claro da Fazenda,77.1,74.1
+Serra Azul do Sítio,Sossego de Baixo,39.9,30.3
+Graça do Carmo,Riacho Fundo da Esperança,34.7,34.0
+Esperança do Sul,Fortaleza do Sul,33.1,33.3
+Águas Belas das Flores,Glória dos Rios,49.7,62.4
+Alagoa Grande do Sul,Alcantil do Cariri,47.9,56.2
+São José do Sol,Vera Cruz do Bom Jesus,55.0,47.0
+Jerusalém da Serra,Alto do Cruzeiro da Conceição,27.7,20.5
+Candeias do Bom Jesus,Rio Claro da Fazenda,33.1,24.9
+Barra Grande do Triunfo,Alto do Cruzeiro do Bom Jesus,49.1,47.2
+Graça da Várzea,Remígio da Fazenda,40.0,44.2
+Santa Helena do Sul,Jardim da Paz,38.4,36.3
+Águas Belas das Flores,Triunfo do Leste,47.9,50.9
+Tabuleiro do Sertão,Nova Esperança da Estrela,57.7,77.3
+Horizonte de Nazaré,Caridade da Estrela,38.5,36.3
+Ipiranga das Pedras,Monte Alto da Barra,27.0,33.6
+Soledade de Fátima,Fortaleza do Brejo,63.7,60.8
+Soledade de Fátima,Santa Rosa da Serra Azul,51.9,48.5
+Barra Clara da Fazenda,São Vicente dos Ventos,44.2,47.7
+Santo Antônio do Engenho,Baraúna dos Rios,44.2,62.5
+Pilões da Serra,Barra do Rio do Triunfo,44.5,35.6
+Rio Claro da Várzea,Redenção do Alto,54.3,53.5
+São Miguel das Águas,Vera Cruz do Bom Jesus,42.5,33.3
+Cruz do Meio do Norte,Vitória das Águas,52.5,51.5
+Nova Vida do Campo,Salgadinho da Conceição,59.2,40.6
+Barra do Rio,Cruz do Meio do Norte,31.2,27.4
+Rio Claro da Fazenda,Barra Grande das Flores,38.4,39.1
+São Braz do Sertão,São Miguel das Águas,72.7,51.4
+Mangabeira de Fátima,Serra Verde do Sítio,30.5,22.7
+Ventura do Carmo,Lagoa Seca da Lagoa,39.2,52.0
+Águas Belas das Flores,São Bento do Leste,37.9,31.5
+Cristal da Lagoa,Água Branca do Engenho,41.4,28.3
+São Francisco do Norte,Riacho Fundo dos Rios,42.6,35.6
+Água Branca do Bom Jesus,Águas Belas de Cima,54.1,68.6
+Alcantil dos Montes,Nova Esperança do Alto,41.3,54.9
+Flores da Esperança,Serra Azul do Sítio,63.8,69.3
+São Geraldo da Estrela,Soledade de Fátima,36.2,35.4
+São Domingos dos Ventos,Pilões da Serra,39.2,40.2
+São Lourenço do Litoral,Águas Belas da Paz,66.5,81.8
+Bom Jesus de Nazaré,Água Doce do Sul,34.1,39.9
+Palmeira do Sertão,Palmeira do Campo,25.1,35.1
+Rio Verde do Sertão,Barra Clara da Fazenda,33.1,30.8
+Alegria da Fazenda,Santa Rosa do Vale,59.6,44.8
+Flores da Cruz,Triunfo do Sol,63.3,56.9
+Caridade dos Montes,Santa Cruz das Pedras,59.2,58.5
+Fortaleza do Cruzeiro,Graça da Conceição,44.7,35.0
+São João dos Montes,Esperança do Sul,33.8,35.6
+Piedade do Sol,Água Branca do Norte,46.2,45.0
+São José da Lua,Pedra Lavrada da Conceição,45.3,63.5
+Alagoa Grande do Sítio,Redenção do Cariri,36.3,44.0
+São Vicente da Cruz,São Geraldo do Sítio,52.7,41.5
+Bom Sucesso do Horizonte,Baraúna da Serra Azul,31.7,39.0
+Alagoa Grande das Águas,Varjota do Engenho,26.4,18.8
+Lagoa Seca do Cariri,São Francisco do Horizonte,53.1,62.8
+Princesa do Sítio,Graça de Nazaré,38.3,49.3
+Boa Esperança das Águas,São José de Santa Luzia,36.3,27.2
+Rio Bonito da Paz,Barra do Rio,34.7,33.5
+São Geraldo de Baixo,Pedra Branca do Agreste,62.6,63.9
+São Paulo das Águas,Princesa do Sítio,32.8,39.8
+São Sebastião do Meio,Alagoa Grande da Fazenda,39.6,52.8
+Luzia da Lagoa,Barra do Rio da Esperança,51.9,36.1
+Pilões do Curimataú,São Geraldo de Baixo,27.2,33.5
+Alto Branco do Horizonte,Alto Branco da Mata,46.1,35.0
+Nova Esperança do Alto,Monte Belo da Serra Azul,27.1,20.9
+Aliança do Cariri,Riacho Fundo do Campo,19.1,15.6
+Redenção do Riacho,Serra Verde do Agreste,57.4,49.0
+Riacho Fundo do Sul,Lagoa Seca das Pedras,71.7,57.9
+Riacho Fundo da Esperança,Barra do Rio do Triunfo,68.0,63.2
+Palmeira do Campo,Caridade do Norte,75.7,62.3
+Caridade dos Montes,Lagoa Seca do Campo,56.2,46.5
+Palmeira do Campo,São Vicente da Cruz,35.6,41.7
+Riacho Fundo do Sul,Floresta dos Ventos,65.7,75.6
+Rio Verde do Carmo,Canaã do Curimataú,56.2,38.5
+Serra Verde da Cruz,Vitória das Águas,48.2,56.9
+Riacho Fundo do Campo,Flores da Esperança,23.6,20.4
+São Bento de Nazaré,Graça da Conceição,29.4,21.9
+União do Sul,Santa Maria do Curimataú,41.4,34.9
+Água Doce do Sul,Graça do Carmo,40.1,52.3
+Vera Cruz do Bom Jesus,Santa Maria do Sertão,31.6,30.6
+Santa Maria do Sertão,Alagoa Nova do Norte,65.4,57.0
+Fortaleza da Conceição,Nova Esperança do Brejo,38.1,30.3
+Santa Maria da Barra,Riacho Fundo da Cruz,38.5,29.5
+Alto Alegre do Oeste,Lagoa Seca da Lagoa,45.4,43.6
+Santa Helena do Leste,Serra Verde do Horizonte,55.5,73.4
+São Sebastião do Meio,Alto Bonito do Açude,33.6,39.6
+Varjota da Serra Azul,Alto do Cruzeiro do Bom Jesus,58.1,73.8
+Conceição do Triunfo,Pilões da Serra,35.2,39.9
+Vale Verde de Santa Luzia,Monte Belo do Carmo,42.4,41.5
+Santa Rosa do Sul,Graça de Santa Luzia,30.1,40.0
+Serra Azul do Leste,Nazaré da Esperança,29.7,36.2
+Rio Claro da Fazenda,Vale Verde de Santa Luzia,38.6,38.2
+Alcantil do Cariri,Triunfo do Leste,74.0,64.9
+Santa Helena da Barra,Serra Verde do Horizonte,33.5,23.8
+Serra Verde do Sítio,São Vicente do Agreste,28.5,24.5
+Águas Belas das Flores,Tabuleiro do Sertão,61.0,51.9
+São José do Sol,Pedra Lavrada da Conceição,68.4,47.8
+São José da Lua,Nova Vida do Oeste,49.2,67.4
+Fortaleza do Cruzeiro,Sossego de Baixo,37.3,26.0
+Alto do Cruzeiro da Conceição,São Braz do Sertão,31.7,26.0
+Pau Ferro do Cruzeiro,Alto do Cruzeiro do Bom Jesus,47.0,54.1
+Serra Verde do Sítio,Jardim da Lagoa,35.1,28.2
+Cachoeira do Engenho,São Vicente do Brejo,26.0,23.5
+Cristal da Lagoa,Candeias do Sul,42.1,38.5
+Águas Belas das Flores,Santa Helena da Barra,32.0,22.5
+Rio Claro da Fazenda,Monte Belo da Serra Azul,32.9,27.5
+Pedra Branca do Agreste,São Braz do Cariri,30.5,40.0
+Alto Branco das Flores,Barra Grande das Flores,29.1,24.2
+Alagoa Grande do Sul,Caridade dos Montes,65.8,81.7
+Cruz do Meio do Norte,São Braz da Lagoa,35.4,31.9
+Santa Helena do Sul,Alto Branco do Horizonte,47.1,48.9
+São Vicente do Agreste,Santa Rosa do Brejo,47.3,39.4
+Vale Verde de Santa Luzia,Conceição do Carmo,40.6,35.9
+Ipiranga das Pedras,Alcantil dos Montes,67.8,65.6
+Aliança de Santa Luzia,Alto Bonito do Açude,23.2,25.2
+Graça da Conceição,Água Doce de Santa Luzia,36.5,29.6
+União do Sul,Vale Verde de Santa Luzia,33.8,39.3
+Serra Azul do Leste,Bom Sucesso da Barra,31.8,27.3
+Alagoa Grande do Sul,São Bento do Leste,49.9,50.1
+Aurora do Oeste,Riacho Fundo do Meio,49.0,54.3
+Triunfo da Mata,Palmeira do Campo,27.1,29.5
+Alto Branco do Riacho,Vitória das Águas,48.1,49.7
+Nova Aurora das Águas,Pedra Branca da Paz,35.9,43.1
+Nazaré da Esperança,Primavera do Curimataú,59.4,58.0
+Glória do Engenho,Ipiranga do Litoral,42.8,36.1
+Águas Belas da Paz,Triunfo da Fazenda,35.8,46.5
+Pilões do Triunfo,Baraúna de Santa Luzia,55.4,55.0
+Barra do Rio da Esperança,Campo Belo dos Rios,51.9,42.0
+São Bento de Nazaré,Tabuleiro,43.8,42.2
+Pedra Branca do Meio,Barra do Rio da Várzea,45.4,42.7
+Nazaré do Sul,Santa Teresinha do Alto,47.3,35.2
+Triunfo do Sol,São Pedro do Engenho,21.1,25.5
+Redenção da Estrela,Baraúna de Santa Luzia,40.6,32.3
+Terra Nova da Serra Azul,Bom Sucesso da Barra,61.3,53.8
+São Miguel das Águas,Santa Maria do Sertão,39.5,33.9
+Varjota da Serra Azul,São Lourenço do Litoral,47.1,61.1
+Triunfo do Bom Jesus,Barra do Rio da Várzea,77.6,98.4
+Luzia da Lagoa,São Lourenço do Litoral,46.4,32.3
+São Lourenço do Cariri,Lagoa Seca das Pedras,27.0,27.2
+São Sebastião dos Rios,Boa Esperança do Oeste,29.5,21.3
+Serra Azul do Carmo,Serra Grande do Agreste,30.1,22.7
+Campo Belo dos Rios,São Geraldo do Sítio,27.3,21.1
+Santa Maria do Curimataú,Ventura do Carmo,25.9,36.7
+Pilões do Triunfo,Redenção do Alto,61.5,41.9
+Serra Grande do Agreste,Redenção do Cariri,19.7,24.6
+São Paulo do Bom Jesus,Alagoa Nova do Oeste,33.8,24.0
+Piedade do Sol,Santa Maria do Cariri,49.3,37.5
+Horizonte de Nazaré,Santa Luzia de Nazaré,69.9,48.1
+Estrela de Santa Luzia,Paraíso da Várzea,76.3,70.6
+Candeias do Sul,Monte Alto das Águas,52.2,45.7
+Santa Cruz das Pedras,Águas Belas de Cima,54.1,47.0
+Conceição do Triunfo,Terra Nova da Serra Azul,46.8,46.8
+Remígio do Cruzeiro,Pau Ferro do Cruzeiro,64.0,46.8
+Riacho Verde dos Montes,São Braz do Riacho,44.9,36.7
+Glória do Cruzeiro,Estrela da Lua,60.1,50.1
+São Domingos dos Ventos,Santa Helena do Sul,42.3,30.0
+Santa Luzia de Nazaré,Riacho Fundo das Pedras,27.8,22.3
+Pedra Lavrada da Conceição,São Pedro das Pedras,36.7,26.8
+Serra Azul do Sítio,São Paulo do Bom Jesus,49.7,65.9
+Rio Verde do Carmo,Horizonte de Nazaré,45.9,36.9
+Prata do Norte,Primavera do Curimataú,31.3,31.6
+Monte Belo da Serra Azul,Fortaleza da Conceição,30.9,27.6
+Barra do Rio da Esperança,Barra do Rio da Várzea,42.3,51.8
+Jerusalém da Serra,Águas Belas de Cima,65.7,74.7
+Riacho Fundo do Sertão,São Domingos da Lagoa,41.2,37.6
+Pedra Branca do Agreste,São Lourenço do Litoral,32.4,23.8
+Serra Verde do Sítio,Riacho Fundo das Pedras,42.4,45.8
+Pilões do Triunfo,Nova Esperança do Brejo,25.5,31.4
+Terra Nova do Leste,Canaã do Curimataú,26.0,23.8
+Santa Maria do Sertão,Alto Bonito do Açude,60.1,57.4
+Terra Nova da Serra Azul,Alagoa Nova do Norte,31.9,36.3
+Redenção da Estrela,Palmeira de Fátima,34.4,46.0
+Prata do Norte,Serra Azul do Sítio,24.7,26.0
+Flores da Esperança,Terra Nova do Sul,63.3,71.7
+Monte Alto de Fátima,Fortaleza do Brejo,40.3,32.6
+São Bento do Leste,Alcantil do Cariri,37.9,39.7
+Palmeira do Campo,Triunfo do Bom Jesus,25.6,23.1
+Redenção da Estrela,Serra Azul do Vale,44.6,45.1
+Bom Jesus do Riacho,Palmeira de Fátima,46.3,46.2
+Triunfo do Bom Jesus,São Geraldo do Sítio,41.8,35.5
+Santa Rosa do Brejo,Triunfo do Sol,33.8,32.6
+São José da Lua,Fortaleza do Sul,25.1,24.8
+Riacho Fundo do Meio,Santa Luzia de Nazaré,49.4,62.4
+Lagoa Seca da Lagoa,Baraúna de Santa Luzia,55.3,52.5
+Serra Azul do Vale,Riacho Verde do Brejo,43.5,33.9
+São Lourenço do Litoral,São Paulo das Águas,51.4,36.6
+Triunfo da Mata,Campo Belo dos Rios,67.2,46.6
+Glória do Engenho,Salgadinho do Riacho,38.7,41.1
+Palmeira do Campo,São Geraldo do Sítio,60.8,67.3
+Esperança da Lagoa,Alegria do Litoral,61.3,71.8
+Maravilha dos Ventos,Esperança da Lagoa,26.7,30.3
+Triunfo do Oeste,Nazaré do Sul,50.1,50.3
+Alagoa Grande do Sítio,Canaã do Curimataú,26.6,28.0
+Água Branca do Bom Jesus,Aliança do Agreste,59.5,45.0
+Santa Luzia da Lua,Cruz do Meio do Norte,38.6,43.8
+Lagoa Seca do Cariri,Terra Nova da Serra Azul,87.5,95.4
+Serra Grande do Agreste,Santa Maria do Curimataú,52.6,73.8
+Tabuleiro,Alagoa Nova do Oeste,56.5,60.7
+Palmeira da Lua,Cedro do Norte,24.2,31.2
+São Lourenço do Cariri,Bom Sucesso da Barra,48.2,36.4
+Maravilha do Litoral,Alto Branco do Horizonte,58.0,56.0
+Redenção da Estrela,Riacho Fundo da Cruz,21.3,28.3
+Ipiranga das Pedras,Serra Azul do Carmo,63.6,65.1
+Alagoa Grande do Sol,Mangabeira de Fátima,34.3,32.7
+Primavera do Sol,Luzia da Lagoa,43.0,29.6
+Conceição do Triunfo,Santa Fé do Oeste,47.4,45.3
+Tabuleiro de Baixo,Flores do Sertão,45.9,45.6
+Conceição da Lua,Redenção da Estrela,58.1,55.4
+Prata do Brejo,Pilões do Curimataú,30.1,28.0
+Nova Aurora das Águas,Salgadinho do Riacho,45.3,30.9
+Canaã do Curimataú,Misericórdia da Serra Azul,31.8,22.8
+São Vicente dos Ventos,São Braz do Riacho,66.2,53.2
+Redenção do Sítio,Alagoa Nova do Norte,52.4,38.7
+Barra Clara da Fazenda,Pau Ferro do Curimataú,49.0,42.0
+Alcantil da Barra,Salgadinho da Conceição,32.9,44.0
+Santa Helena do Leste,Flores do Sertão,42.8,57.3
+Santa Fé do Oeste,Riacho Fundo dos Montes,36.9,44.0
+Alto do Cruzeiro da Paz,Alagoa Nova do Norte,56.3,49.7
+Santa Fé de Nazaré,Fortaleza de Nazaré,35.3,31.8
+Tabuleiro de Baixo,Cristal da Lagoa,41.5,34.0
+Rio Verde do Sertão,Candeias do Sul,37.0,25.7
+Nova Vida do Campo,Palmeira da Lua,44.8,36.4
+São Braz da Lagoa,Remígio da Estrela,24.1,28.9
+Barra Grande das Flores,Pilões do Triunfo,28.4,31.0
+São Lourenço do Cariri,Alto Bonito do Açude,23.4,22.8
+São Geraldo da Estrela,Pau Ferro da Barra,32.9,35.9
+Nova Esperança da Estrela,Monte Alto das Águas,44.2,62.5
+Tabuleiro do Sertão,Princesa da Serra,59.2,57.2
+Boa Esperança do Oeste,Tabuleiro do Cariri,49.6,47.4
+Serra Azul do Sítio,Tabuleiro,50.9,70.2
+Santa Helena do Sul,Prata do Brejo,64.0,43.8
+Redenção do Cariri,Santa Rosa do Vale,24.0,24.8
+Graça do Carmo,Santa Fé de Nazaré,50.4,50.2
+São Paulo das Águas,Água Branca do Riacho,58.7,48.5
+Triunfo da Fazenda,Estrela de Santa Luzia,29.7,30.1
+Lagoa Seca das Pedras,Tabuleiro da Esperança,34.9,35.9
+Rio Verde do Carmo,Terra Nova do Leste,66.9,79.9
+Nova Esperança da Estrela,Maravilha do Litoral,27.0,21.4
+Santa Cruz das Flores,Santa Rosa do Sul,54.1,44.6
+Alagoa Grande das Águas,Estrela de Santa Luzia,79.7,79.3
+Redenção do Agreste,São Vicente do Agreste,31.8,27.8
+Água Branca das Flores,Fortaleza do Cruzeiro,36.7,42.8
+São Geraldo da Estrela,Boa Esperança do Oeste,35.7,39.8
+Alto Branco do Riacho,Remígio da Estrela,33.9,28.1
+São Vicente dos Ventos,Glória do Engenho,23.4,30.9
+Nova Esperança da Estrela,Nova Aurora das Águas,33.3,28.2
+Esperança do Sul,Cachoeira do Engenho,38.2,32.2
+São Braz do Sertão,Vera Cruz do Bom Jesus,45.7,63.8
+Pau Ferro da Barra,Serra Grande da Várzea,48.4,40.0
+Flores do Sertão,Santa Rosa da Serra Azul,51.9,49.7
+Cachoeira do Leste,Graça do Carmo,72.1,59.8
+Riacho Fundo do Sertão,São Pedro do Engenho,28.4,34.2
+São Geraldo do Sítio,Pedra Branca do Meio,37.1,27.1
+Santa Maria do Cariri,Caridade dos Montes,46.8,41.7
+Esperança da Lagoa,Alcantil dos Montes,33.9,26.6
+São Vicente dos Ventos,Ipiranga do Litoral,28.6,21.7
+Piedade dos Montes,São Vicente da Cruz,69.6,58.3
+Alagoa Grande da Fazenda,Redenção do Riacho,41.4,56.3
+Barra do Rio dos Rios,São Francisco do Horizonte,28.4,27.6
+Nova Esperança do Alto,Fortaleza da Conceição,54.8,44.0
+Remígio do Cruzeiro,Luzia da Lagoa,40.6,29.2
+Riacho Fundo do Campo,Barra Grande do Triunfo,68.8,58.5
+Ipiranga do Cariri,Barra do Rio da Várzea,36.5,50.3
+Alagoa Grande do Sul,Água Branca do Bom Jesus,48.4,63.6
+Santo André do Triunfo,Águas Belas das Flores,29.0,38.9
+Águas Belas do Campo,Palmeira da Lua,22.0,18.4
+Conceição do Carmo,Lagoa Seca da Lagoa,63.4,62.1
+Remígio do Cruzeiro,Barra Grande do Triunfo,56.9,40.5
+São João dos Montes,Salgadinho da Conceição,34.2,23.7
+Palmeira da Lua,Santo André do Triunfo,25.9,22.9
+São Domingos da Lagoa,Palmeira de Fátima,62.3,42.8
+Horizonte de Nazaré,Palmeira da Serra,40.0,52.3
+Monte Alto das Águas,Pau Ferro do Curimataú,43.0,34.5
+Santa Luzia da Lua,Santa Rosa do Brejo,42.7,43.1
+Santo Antônio da Lagoa,Mangabeira de Fátima,51.5,54.4
+Princesa da Serra,Nova Aurora das Águas,62.0,48.8
+Alagoa Grande das Águas,Triunfo do Oeste,45.7,43.7
+Rio Bonito do Oeste,Lagoa Seca da Lagoa,30.3,23.0
+Alto Alegre do Oeste,Bom Jesus do Riacho,37.2,34.8
+Piedade do Sol,Santa Luzia das Pedras,75.5,62.5
+Riacho Verde dos Montes,Barra do Rio do Triunfo,47.3,36.0
+Maravilha do Litoral,Pau Ferro do Curimataú,61.4,45.0
+Flores da Esperança,Alto Bonito da Conceição,49.1,57.4
+Piedade dos Montes,Triunfo do Bom Jesus,45.2,38.8
+Barra Grande do Triunfo,São Braz do Cariri,29.6,41.7
+Serra Azul do Sítio,Terra Nova do Sul,23.8,24.7
+Riacho Fundo do Sertão,Palmeira de Fátima,74.8,81.4
+Graça da Várzea,São Braz de Nazaré,48.4,33.8
+Tabuleiro da Esperança,Serra Azul do Sítio,27.3,24.2
+Aliança de Santa Luzia,São Lourenço do Cariri,33.1,33.9
+Pilões do Curimataú,Baraúna dos Rios,70.1,64.3
+Caridade da Estrela,Santo André do Alto,46.9,52.7
+Bom Sucesso de Baixo,União do Sul,35.5,40.2
+Misericórdia da Serra Azul,Riacho Fundo do Sertão,33.7,26.5
+Alcantil dos Montes,Alegria do Litoral,31.6,31.0
+Bom Sucesso de Baixo,Serra Grande do Agreste,62.3,76.8
+Candeias do Engenho,Redenção do Sítio,31.2,25.6
+Santa Rosa do Brejo,Barra do Rio,46.2,38.9
+Nova Vida do Campo,Santa Maria do Cariri,28.3,20.9
+Primavera do Sol,Campo Belo dos Rios,52.6,40.2
+Ipiranga do Litoral,Pau Ferro do Curimataú,30.0,20.9
+São Vicente do Brejo,Lagoa Seca do Cariri,38.8,39.6
+Santa Helena do Leste,Águas Belas das Flores,26.9,31.1
+Água Branca do Engenho,Salgadinho do Riacho,65.1,77.4
+Aliança do Agreste,Conceição do Triunfo,29.9,27.4
+Estrela dos Ventos,Santo André do Triunfo,52.0,42.1
+Glória dos Rios,Triunfo do Leste,25.4,27.9
+São Francisco do Horizonte,Alagoa Nova do Norte,64.6,45.4
+Riacho Fundo do Sul,Jardim da Paz,52.8,60.1
+Nazaré da Esperança,Riacho Fundo dos Rios,65.5,73.1
+Varjota do Engenho,Salgadinho da Glória,49.1,42.0
+Fortaleza da Conceição,Rio Claro da Várzea,26.4,32.4
+Rio Claro da Várzea,Pilões do Triunfo,27.4,27.4
+Tabuleiro do Sertão,Fortaleza do Brejo,26.8,31.6
+Tabuleiro,Salgadinho da Glória,62.0,42.4
+Alagoa Grande da Mata,Remígio da Estrela,53.3,41.5
+São Paulo do Bom Jesus,Bom Jesus das Águas,31.3,39.9
+Santa Helena do Sul,Mangabeira do Litoral,44.1,37.5
+Barreira do Sul,São Braz de Nazaré,31.5,36.6
+Barra Clara do Açude,Misericórdia da Serra Azul,84.5,59.7
+Santa Luzia das Pedras,São José do Sol,54.2,42.5
+Bom Jesus de Nazaré,Triunfo do Leste,51.1,39.1
+Pedra Branca do Agreste,Pau Ferro do Cruzeiro,43.5,30.6
+Primavera do Curimataú,Riacho Fundo dos Rios,29.3,21.5
+Terra Nova do Leste,Flores da Cruz,59.5,78.3
+Rio Verde do Sertão,Água Branca do Engenho,31.9,39.3
+São Pedro do Engenho,Vitória das Águas,34.4,24.1
+Salgadinho da Conceição,Água Branca do Norte,30.3,31.3
+Mangabeira das Águas,Graça de Santa Luzia,32.9,30.7
+Maravilha dos Ventos,Mangabeira das Águas,30.9,38.2
+Barra Clara do Açude,Canaã do Curimataú,54.5,40.6
+São Bento de Nazaré,São Paulo do Bom Jesus,30.6,24.1
+Palmeira do Campo,Barra do Rio da Esperança,49.2,35.9
+Salgadinho da Conceição,Alto do Cruzeiro da Conceição,27.1,21.8
+Misericórdia da Serra Azul,Horizonte de Santa Luzia,46.7,36.3
+Monte Alto da Barra,Nazaré do Sul,49.2,41.2
+Rio Verde do Carmo,Palmeira da Serra,47.5,40.3
+Cachoeira do Leste,Princesa da Serra,53.3,38.7
+Alagoa Nova do Oeste,Água Branca do Riacho,41.1,44.4
+Tabuleiro de Baixo,Rio Verde do Sertão,44.2,32.0
+São Braz do Cariri,Serra Branca da Fazenda,43.1,38.4
+São Pedro das Pedras,Barra do Rio dos Rios,49.5,65.8
+Cachoeira do Engenho,São Braz do Sertão,38.7,27.0
+Tabuleiro do Cariri,Tabuleiro do Sertão,66.7,61.7
+Graça de Nazaré,Redenção do Agreste,49.5,35.8
+Barra do Rio da Esperança,Maravilha dos Ventos,70.4,58.5
+Riacho Fundo do Campo,Serra Verde do Agreste,48.0,35.9
+Santa Teresinha do Agreste,Ventura do Carmo,48.1,51.1
+Triunfo da Fazenda,Redenção do Cariri,63.6,48.1
+Estrela de Santa Luzia,Serra Grande do Agreste,32.0,29.8
+Alagoa Grande das Águas,Serra Azul do Carmo,67.5,46.7
+Cedro do Norte,Água Branca do Bom Jesus,36.7,47.5
+Caridade da Estrela,São Vicente do Agreste,44.4,40.6
+Rio Bonito da Paz,Vitória das Águas,66.5,47.1
+Prata do Norte,Riacho Fundo dos Rios,53.7,45.9
+Caridade do Norte,Ipiranga do Cariri,58.2,78.5
+São Sebastião dos Montes,Santa Teresinha do Agreste,45.7,46.7
+Mangabeira de Fátima,Jardim da Lagoa,40.0,31.2
+Alcantil da Barra,Esperança do Sul,43.1,32.2
+Pau Ferro do Cruzeiro,Ipiranga das Pedras,47.6,47.5
+Alcantil do Meio,São Geraldo do Sítio,20.4,23.0
+Tabuleiro,Alto do Cruzeiro do Bom Jesus,41.7,34.3
+São Vicente do Agreste,Rio Bonito da Paz,41.0,34.0
+Pilões do Curimataú,Canaã do Vale,49.5,36.1
+Lagoa Seca das Pedras,Prata do Norte,27.5,29.0
+Ventura do Carmo,Alagoa Grande da Mata,41.4,33.5
+Riacho Fundo do Sul,Pedra Lavrada da Mata,64.0,62.8
+Baraúna da Serra Azul,Candeias do Bom Jesus,41.8,46.4
+Santo Antônio da Lagoa,Princesa do Sítio,43.3,41.6
+Monte Alto de Fátima,Tabuleiro de Baixo,29.1,27.9
+Redenção do Sítio,Serra Azul do Leste,34.9,28.6
+Mangabeira do Litoral,Prata do Brejo,23.7,24.8
+Primavera do Curimataú,Sossego de Baixo,46.6,54.3
+Alcantil do Meio,Santa Cruz das Flores,32.4,24.6
+Salgadinho da Conceição,Caridade dos Montes,60.3,80.4
+Santa Rosa do Vale,Ventura do Carmo,31.9,28.3
+Rio Verde do Carmo,Graça de Nazaré,53.9,66.7
+Palmeira da Lua,Água Branca do Bom Jesus,58.1,59.5
+Aurora do Oeste,Alagoa Grande do Sol,32.2,37.2
+Glória do Cruzeiro,Redenção do Riacho,33.5,23.4
+Água Doce do Sul,Serra Verde do Horizonte,48.2,65.4
+Graça de Nazaré,Canaã do Curimataú,25.2,24.3
+Serra Grande da Várzea,Rio Verde do Sertão,36.9,50.2
+Remígio da Estrela,Alto Branco do Alto,42.4,48.4
+Rio Bonito da Paz,Palmeira da Glória,45.3,40.6
+Santo Antônio do Engenho,Estrela da Lua,35.4,31.9

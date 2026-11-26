@@ -1,0 +1,35 @@
+# Estradas da instância didática (Paraíba).
+# Formato: origem,destino,distancia_km,tempo_min
+# Grafo não direcionado. Distâncias e tempos aproximados, com finalidade didática.
+origem,destino,distancia_km,tempo_min
+João Pessoa,Cabedelo,18,25
+João Pessoa,Santa Rita,25,30
+João Pessoa,Mamanguape,62,65
+João Pessoa,Campina Grande,125,100
+Mamanguape,Guarabira,48,55
+Guarabira,Solânea,32,40
+Solânea,Araruna,22,30
+Araruna,Cuité,28,35
+Cuité,Picuí,30,35
+Picuí,Campina Grande,145,150
+Campina Grande,Esperança,30,35
+Esperança,Areia,26,35
+Areia,Solânea,25,35
+Campina Grande,Boqueirão,48,50
+Boqueirão,Serra Branca,55,60
+Serra Branca,Sumé,38,40
+Sumé,Monteiro,32,35
+Monteiro,Princesa Isabel,82,90
+Princesa Isabel,Itaporanga,58,65
+Itaporanga,Piancó,42,45
+Piancó,Patos,78,85
+Patos,Taperoá,72,80
+Taperoá,Campina Grande,105,110
+Taperoá,Serra Branca,42,48
+Patos,Pombal,62,65
+Pombal,Sousa,48,50
+Sousa,Cajazeiras,60,60
+Patos,Campina Grande,185,170
+Campina Grande,Sumé,140,145
+Serra Branca,Monteiro,60,70
+Picuí,Patos,100,110

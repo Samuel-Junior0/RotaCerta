@@ -1,0 +1,5003 @@
+# Instância grande gerada por scripts/gerar_instancias.py
+# seed=20261125; vértices=5000; arestas=20000; nomes e coordenadas fictícios
+nome,latitude,longitude
+Alto Bonito do Meio,-6.7571,-38.5703
+Cristal do Açude,-6.9584,-38.5700
+Santa Cruz dos Ventos,-7.0728,-38.5698
+Cachoeira dos Ventos,-6.6775,-38.5696
+Umbuzeiro do Cariri,-6.2436,-38.5694
+Varjota da Barra,-7.2268,-38.5692
+Barra Grande dos Rios,-7.1870,-38.5682
+Rio Verde da Várzea,-7.9587,-38.5673
+Canaã de Fátima,-6.4230,-38.5670
+Prata de Fátima,-7.0310,-38.5669
+Fátima das Pedras,-6.3682,-38.5657
+Riacho Verde do Sul,-7.4614,-38.5654
+Água Branca do Açude,-7.7686,-38.5649
+Primavera da Glória,-7.1023,-38.5643
+Alto Bonito da Paz,-7.7368,-38.5641
+Baraúna do Curimataú,-6.5299,-38.5638
+Salgadinho do Oeste,-7.9177,-38.5636
+Triunfo do Meio,-7.6972,-38.5628
+Caridade do Vale,-6.4819,-38.5625
+Riacho Fundo do Agreste,-7.4166,-38.5624
+Serra Branca do Meio,-7.3089,-38.5613
+Glória do Meio,-7.6240,-38.5606
+Luzia das Águas,-7.5660,-38.5589
+São Francisco do Leste,-6.9970,-38.5587
+Maravilha do Litoral,-8.0124,-38.5584
+Santo Antônio do Vale,-7.3889,-38.5579
+Alagoa Nova do Agreste,-7.3426,-38.5573
+Nova Aurora de Baixo,-6.1044,-38.5565
+Santo Antônio do Engenho,-8.1264,-38.5565
+Santa Cruz,-7.5399,-38.5564
+Serra Verde do Açude,-6.2991,-38.5560
+Candeias do Riacho,-7.2712,-38.5554
+Cachoeira de Santa Luzia,-8.0465,-38.5552
+Santa Cruz do Carmo,-7.4877,-38.5551
+Pau Ferro do Sítio,-8.0707,-38.5550
+Alagoa Nova do Brejo,-6.2129,-38.5549
+Horizonte do Sul,-7.6463,-38.5544
+Carmo do Brejo,-8.1729,-38.5534
+São João do Triunfo,-6.8660,-38.5531
+Boa Esperança do Brejo,-7.8417,-38.5530
+Pilões do Carmo,-6.6117,-38.5525
+Terra Nova de Santa Luzia,-6.5619,-38.5514
+Alegria do Vale,-6.6407,-38.5513
+Piedade,-7.1383,-38.5511
+Santa Maria da Serra,-6.3415,-38.5509
+Alcantil do Cariri,-6.1646,-38.5505
+Aurora do Sul,-6.8304,-38.5505
+São João do Oeste,-7.8984,-38.5492
+Cruz do Meio do Engenho,-6.9280,-38.5487
+Barra Grande da Glória,-6.8070,-38.5485
+Nova Vida do Norte,-6.1284,-38.5484
+São Geraldo de Santa Luzia,-6.7290,-38.5481
+Cruz do Meio do Campo,-6.4555,-38.5480
+São Judas de Cima,-7.8150,-38.5480
+Liberdade da Barra,-6.2216,-38.5343
+Triunfo da Fazenda,-7.2732,-38.5341
+Monte Verde do Bom Jesus,-6.5625,-38.5340
+São Miguel da Serra,-6.4507,-38.5335
+Pilões do Riacho,-8.1213,-38.5309
+Paraíso do Oeste,-7.3121,-38.5303
+São Bento do Açude,-7.3836,-38.5303
+Vale Verde dos Ventos,-7.6151,-38.5302
+Jerusalém do Brejo,-7.7593,-38.5299
+São Judas do Vale,-7.0281,-38.5295
+São Sebastião do Carmo,-7.7258,-38.5293
+Vale Verde de Santa Luzia,-6.6705,-38.5292
+Barra Clara do Sol,-6.6441,-38.5287
+Pilões do Oeste,-7.5293,-38.5282
+São Miguel da Cruz,-8.0743,-38.5282
+Floresta do Litoral,-7.1482,-38.5279
+União do Horizonte,-6.2678,-38.5271
+Varjota de Nazaré,-7.5045,-38.5258
+Serrote do Meio,-7.1862,-38.5255
+Prata do Horizonte,-6.1443,-38.5250
+Vitória do Campo,-7.6983,-38.5246
+São Pedro da Serra,-6.7602,-38.5241
+Redenção do Açude,-6.8097,-38.5239
+São Francisco da Barra,-7.8063,-38.5233
+Estrela da Lagoa,-7.1116,-38.5232
+Nova Aurora de Santa Luzia,-6.3004,-38.5222
+Terra Nova do Cruzeiro,-7.9215,-38.5222
+Santa Rosa do Curimataú,-7.4730,-38.5205
+Alto Alegre de Fátima,-6.9580,-38.5195
+Independência da Lua,-8.0490,-38.5189
+Salgadinho do Norte,-7.8544,-38.5186
+São Francisco das Águas,-7.5770,-38.5186
+Canaã do Litoral,-6.1669,-38.5185
+Alto do Cruzeiro das Flores,-7.4133,-38.5183
+São Domingos do Cariri,-6.8655,-38.5181
+Bom Jesus da Serra Azul,-6.4847,-38.5177
+Remígio do Carmo,-6.4230,-38.5170
+Aroeira do Engenho,-6.7219,-38.5169
+São Braz dos Ventos,-6.5210,-38.5164
+Luzia da Cruz,-7.3366,-38.5164
+Independência do Sertão,-6.3341,-38.5158
+Alagoa Grande das Flores,-6.8273,-38.5152
+Barra Bonita da Lagoa,-8.1733,-38.5152
+Palmeira dos Rios,-8.0110,-38.5145
+Água Doce do Norte,-7.6493,-38.5132
+Candeias de Fátima,-6.9284,-38.5126
+São Francisco dos Montes,-6.3671,-38.5118
+Campo Grande do Carmo,-6.9829,-38.5115
+Vitória da Esperança,-6.0958,-38.5109
+Serra Branca do Cariri,-7.8970,-38.5104
+Tabuleiro das Flores,-7.0681,-38.5100
+Rio Bonito da Paz,-6.5936,-38.5091
+Alto Alegre do Norte,-7.9572,-38.5090
+Boa Esperança do Sítio,-7.2285,-38.5087
+Redenção do Curimataú,-6.2640,-38.4946
+Princesa da Lagoa,-8.0169,-38.4932
+Jardim da Fazenda,-7.1108,-38.4928
+Pau Ferro da Paz,-7.0794,-38.4918
+Barra Bonita do Engenho,-7.5423,-38.4914
+Remígio do Cariri,-7.6242,-38.4907
+Bom Jesus da Barra,-8.0831,-38.4902
+Triunfo da Cruz,-7.8380,-38.4901
+Fortaleza da Lagoa,-7.3735,-38.4896
+Sossego da Estrela,-7.0346,-38.4893
+Redenção da Fazenda,-7.9638,-38.4893
+Rio Bonito de Fátima,-6.9055,-38.4893
+Cristal da Glória,-7.6473,-38.4879
+Aroeira da Lagoa,-6.1811,-38.4879
+Monte Belo das Flores,-7.8974,-38.4872
+São Domingos de Santa Luzia,-7.6851,-38.4872
+Ipiranga do Alto,-6.5712,-38.4867
+Varjota de Baixo,-7.4201,-38.4865
+Alagoa Nova do Riacho,-7.3067,-38.4865
+Rio Bonito da Fazenda,-7.0045,-38.4862
+Riacho Fundo do Brejo,-7.5104,-38.4857
+Misericórdia dos Montes,-6.3832,-38.4854
+Santa Teresinha do Triunfo,-6.4462,-38.4835
+Aurora de Fátima,-6.2917,-38.4829
+São José de Cima,-7.5763,-38.4823
+São Francisco da Paz,-6.5935,-38.4820
+Flores de Cima,-6.4993,-38.4818
+Umbuzeiro do Brejo,-6.9579,-38.4810
+Vera Cruz dos Ventos,-7.1517,-38.4801
+Riacho Fundo do Riacho,-6.6737,-38.4800
+Aliança do Norte,-6.2152,-38.4782
+Tabuleiro do Alto,-6.3280,-38.4781
+Cedro de Nazaré,-8.0519,-38.4774
+Barra Bonita de Baixo,-7.8233,-38.4769
+São Domingos da Fazenda,-7.9310,-38.4769
+Santa Rosa da Várzea,-8.1149,-38.4765
+Remígio das Águas,-7.1783,-38.4763
+Fátima do Meio,-7.2211,-38.4762
+Santa Cruz da Estrela,-6.8382,-38.4756
+Alto Branco da Esperança,-6.0896,-38.4753
+Terra Nova das Águas,-6.6383,-38.4753
+Alto Alegre de Baixo,-6.5216,-38.4751
+Terra Nova da Estrela,-7.3541,-38.4750
+Santa Cruz da Serra,-7.7761,-38.4749
+Cachoeira do Alto,-6.8048,-38.4749
+Nova Esperança,-7.4614,-38.4745
+Remígio da Fazenda,-7.7405,-38.4742
+São Sebastião da Serra Azul,-6.7662,-38.4734
+São Domingos da Lua,-6.8779,-38.4727
+Salgadinho do Triunfo,-8.1725,-38.4715
+Horizonte do Sertão,-6.4199,-38.4709
+São Lourenço do Sertão,-7.2656,-38.4699
+Alto Alegre do Engenho,-6.1326,-38.4699
+Cruz do Meio do Sol,-6.7145,-38.4698
+Soledade do Cruzeiro,-6.6497,-38.4560
+São Braz do Norte,-7.7414,-38.4553
+Serra Verde da Barra,-6.6788,-38.4542
+Floresta do Engenho,-7.8492,-38.4541
+São Pedro da Lagoa,-7.1494,-38.4537
+Paraíso das Pedras,-7.0434,-38.4535
+Vera Cruz de Cima,-7.6114,-38.4533
+Águas Belas do Alto,-6.3832,-38.4529
+São Bento da Lagoa,-7.7707,-38.4516
+Vera Cruz das Águas,-6.9060,-38.4514
+Riacho Fundo do Leste,-7.3836,-38.4513
+Flores do Açude,-7.1936,-38.4511
+Horizonte da Várzea,-6.7343,-38.4510
+Barra Grande de Baixo,-7.9701,-38.4508
+São Domingos de Nazaré,-7.4653,-38.4508
+Alegria de Cima,-6.1666,-38.4504
+São José do Leste,-6.9662,-38.4491
+Vitória da Estrela,-6.4816,-38.4488
+Água Doce da Lagoa,-6.1335,-38.4474
+Ipiranga do Cruzeiro,-6.7484,-38.4471
+Alegria do Cariri,-6.3207,-38.4469
+Alto do Cruzeiro do Alto,-7.2178,-38.4454
+Horizonte do Triunfo,-7.3100,-38.4444
+Horizonte do Riacho,-6.5658,-38.4440
+Luzia do Sol,-7.4303,-38.4425
+Paraíso do Norte,-6.2244,-38.4422
+Aroeira de Fátima,-7.4996,-38.4421
+Monte Verde do Brejo,-7.7058,-38.4421
+Fátima de Cima,-7.5831,-38.4415
+Ipiranga da Paz,-6.7908,-38.4414
+Misericórdia do Sul,-8.1540,-38.4406
+União da Várzea,-6.6152,-38.4396
+Redenção do Riacho,-7.5501,-38.4383
+Barra Grande das Flores,-7.6550,-38.4382
+Pau Ferro da Várzea,-8.0127,-38.4381
+Santa Rosa do Oeste,-6.8777,-38.4381
+Varjota de Cima,-7.1034,-38.4376
+Mangabeira de Baixo,-6.5238,-38.4373
+Santa Rosa da Serra,-6.9939,-38.4371
+Nova Aurora de Cima,-6.3036,-38.4362
+Pedra Branca do Alto,-7.0677,-38.4361
+Barra Clara dos Rios,-7.8020,-38.4356
+Campo Belo do Leste,-6.2568,-38.4350
+Independência,-8.0435,-38.4350
+São Paulo dos Ventos,-6.4433,-38.4349
+Santo André dos Rios,-7.3314,-38.4345
+Paraíso do Sul,-6.4197,-38.4343
+Monte Alto,-7.2576,-38.4341
+Alto Bonito dos Montes,-7.9399,-38.4340
+Redenção do Cruzeiro,-6.0974,-38.4326
+Luzia do Sítio,-6.8466,-38.4322
+Lagoa Seca da Mata,-7.8998,-38.4319
+São Francisco,-8.0804,-38.4315
+Ipiranga da Serra,-8.1216,-38.4314
+Palmeira do Vale,-6.1798,-38.4172
+Flores do Sol,-6.2578,-38.4158
+Olho d'Água da Barra,-7.7800,-38.4158
+Independência do Bom Jesus,-6.7897,-38.4157
+Carmo da Estrela,-7.4341,-38.4154
+Redenção do Horizonte,-6.2924,-38.4147
+Ventura da Lua,-6.1324,-38.4144
+Santa Luzia de Baixo,-6.2177,-38.4142
+Vera Cruz do Litoral,-7.8465,-38.4137
+Santa Cruz do Engenho,-7.8839,-38.4137
+São Lourenço da Lua,-8.1587,-38.4137
+Santa Rosa dos Rios,-7.5492,-38.4135
+Santa Cruz do Cruzeiro,-8.0136,-38.4125
+Aliança do Sítio,-6.6330,-38.4124
+Pau Ferro da Serra Azul,-6.0878,-38.4120
+Soledade do Alto,-7.8052,-38.4118
+Vera Cruz do Sol,-6.4136,-38.4113
+Alegria das Flores,-7.6557,-38.4113
+Serra Verde do Sol,-6.5360,-38.4111
+Santa Fé do Norte,-6.4607,-38.4111
+Misericórdia da Mata,-6.8734,-38.4104
+São Geraldo,-7.9609,-38.4103
+Cachoeira do Oeste,-7.1518,-38.4094
+Serra Azul de Cima,-7.0230,-38.4089
+Alagoa Grande de Nazaré,-6.6822,-38.4081
+Ipiranga de Fátima,-7.3797,-38.4069
+Piedade do Meio,-6.3385,-38.4068
+Caridade do Carmo,-6.7283,-38.4062
+São Bento do Engenho,-8.0890,-38.4061
+Alagoa Grande da Mata,-7.1041,-38.4055
+Umbuzeiro do Vale,-7.3531,-38.4055
+Cristal do Sertão,-7.7257,-38.4049
+Monte Verde do Sul,-8.1164,-38.4048
+Bela Vista,-6.7664,-38.4041
+Primavera do Alto,-7.4993,-38.4041
+Ipiranga do Bom Jesus,-7.4718,-38.4035
+Campo Grande da Várzea,-6.6138,-38.4029
+Serra Branca do Oeste,-7.2298,-38.4025
+Nova Vida do Sul,-7.5671,-38.4020
+Santa Rosa do Açude,-7.9156,-38.4013
+Liberdade das Pedras,-6.9247,-38.4007
+Barra Clara da Glória,-6.3739,-38.3998
+Aurora do Bom Jesus,-6.4837,-38.3990
+Rio Bonito do Carmo,-7.6914,-38.3988
+Alto do Cruzeiro do Horizonte,-6.9671,-38.3988
+Pedra Lavrada da Fazenda,-7.6258,-38.3984
+Bom Sucesso do Bom Jesus,-8.0530,-38.3975
+União do Sol,-7.1977,-38.3962
+Floresta da Serra,-6.8388,-38.3946
+Pau Ferro da Mata,-7.0728,-38.3941
+Mangabeira dos Montes,-6.5628,-38.3934
+São João da Conceição,-6.9938,-38.3931
+Serra Azul da Barra,-7.2764,-38.3927
+Independência do Sol,-7.3065,-38.3918
+São Domingos do Sertão,-8.0860,-38.3781
+São Vicente de Cima,-6.5372,-38.3781
+Campo Belo do Vale,-7.0761,-38.3763
+São Domingos do Açude,-7.3062,-38.3755
+Riacho Verde do Sol,-7.2722,-38.3746
+Mangabeira do Sítio,-7.0981,-38.3743
+São Braz do Açude,-6.7690,-38.3741
+Cedro da Estrela,-7.2314,-38.3740
+Piedade de Fátima,-6.7296,-38.3738
+Rio Claro dos Ventos,-7.8029,-38.3737
+Primavera do Sol,-7.8881,-38.3736
+Alto do Cruzeiro do Bom Jesus,-6.5773,-38.3733
+Pedra Branca do Engenho,-6.1734,-38.3731
+Terra Nova do Carmo,-8.1678,-38.3725
+Glória do Vale,-7.5283,-38.3724
+São Vicente do Sul,-6.6490,-38.3719
+Riacho Fundo da Paz,-7.0454,-38.3715
+Redenção do Sítio,-7.6054,-38.3709
+Jardim da Mata,-6.4144,-38.3702
+Vale Verde do Triunfo,-7.1802,-38.3684
+Campo Grande do Alto,-6.6737,-38.3671
+Santo André do Litoral,-7.3738,-38.3669
+Pedra Branca do Brejo,-6.4410,-38.3668
+São Paulo do Alto,-6.9252,-38.3664
+São João das Águas,-6.8407,-38.3656
+Santa Teresinha do Horizonte,-6.8868,-38.3650
+Alto Bonito dos Ventos,-7.1614,-38.3649
+Cedro de Cima,-7.5805,-38.3647
+São João da Lagoa,-6.7884,-38.3644
+São Sebastião da Mata,-7.9665,-38.3636
+Soledade da Serra Azul,-8.0078,-38.3632
+Horizonte do Cruzeiro,-6.1369,-38.3631
+São Domingos do Triunfo,-8.0509,-38.3631
+Umbuzeiro de Nazaré,-6.6175,-38.3616
+Águas Belas da Cruz,-6.4971,-38.3607
+Santo André do Vale,-8.1160,-38.3602
+Pedra Lavrada da Lagoa,-7.6940,-38.3601
+Esperança da Serra,-7.9328,-38.3578
+Pedra Lavrada do Norte,-6.2559,-38.3574
+Campo Grande do Campo,-7.4655,-38.3574
+Caridade do Norte,-7.8580,-38.3567
+Fátima do Curimataú,-6.2817,-38.3558
+Vera Cruz da Lua,-6.2043,-38.3552
+Esperança de Fátima,-6.3243,-38.3549
+Alto Bonito da Várzea,-6.0949,-38.3545
+Serra Branca da Cruz,-7.4175,-38.3544
+Redenção do Engenho,-7.4992,-38.3543
+Remígio do Leste,-6.3723,-38.3540
+Triunfo do Vale,-6.9933,-38.3539
+Tabuleiro da Paz,-6.9627,-38.3538
+Serra Verde dos Montes,-7.3547,-38.3532
+São João,-7.6446,-38.3530
+Monte Verde da Serra Azul,-7.7231,-38.3525
+Cedro do Vale,-7.7753,-38.3525
+Varjota do Brejo,-7.3330,-38.3387
+Nova Vida da Conceição,-7.3153,-38.3386
+Soledade do Sertão,-7.8186,-38.3386
+Baraúna do Carmo,-6.0867,-38.3383
+Aliança do Engenho,-6.5343,-38.3377
+Varjota do Sertão,-6.9549,-38.3376
+Barra Clara da Barra,-8.1542,-38.3371
+Ventura das Águas,-7.9721,-38.3359
+Flores do Riacho,-7.8566,-38.3349
+Flores dos Rios,-6.9207,-38.3349
+Serrote do Cruzeiro,-6.4846,-38.3346
+São José do Carmo,-7.0724,-38.3344
+Alto Bonito da Serra Azul,-6.6491,-38.3341
+Serra Azul das Águas,-8.0497,-38.3328
+Pau Ferro da Glória,-7.5356,-38.3328
+Umbuzeiro do Agreste,-7.2728,-38.3313
+Aurora da Barra,-6.3415,-38.3310
+Baraúna do Cariri,-6.4426,-38.3310
+Água Doce do Alto,-7.2260,-38.3307
+Alagoa Grande do Brejo,-6.5727,-38.3305
+São João do Cariri,-6.8396,-38.3297
+Barra Clara do Riacho,-7.0242,-38.3297
+Pau Ferro do Leste,-7.1814,-38.3296
+Glória da Cruz,-7.4952,-38.3283
+São João da Serra,-6.1890,-38.3274
+Rio Bonito do Leste,-7.9232,-38.3274
+Misericórdia do Açude,-7.1621,-38.3274
+São Lourenço do Meio,-7.3882,-38.3270
+São Lourenço do Bom Jesus,-8.0021,-38.3262
+Serra Azul do Açude,-6.8830,-38.3258
+Cruz do Meio das Pedras,-8.0809,-38.3257
+Terra Nova do Agreste,-7.4609,-38.3241
+São Pedro do Carmo,-7.5704,-38.3241
+São Lourenço do Agreste,-7.7057,-38.3239
+Campo Grande do Açude,-8.1125,-38.3231
+Pedra Lavrada das Flores,-6.9987,-38.3230
+Nova Aurora de Nazaré,-7.1219,-38.3228
+São Braz do Campo,-6.7270,-38.3222
+São Miguel do Curimataú,-6.8022,-38.3218
+Serra Grande das Flores,-6.5933,-38.3213
+Alcantil de Fátima,-6.1402,-38.3209
+Campo Belo do Riacho,-6.4188,-38.3191
+Ipiranga do Açude,-6.2049,-38.3182
+Ventura do Oeste,-7.6650,-38.3175
+Canaã dos Ventos,-7.4343,-38.3174
+Pau Ferro do Bom Jesus,-6.7683,-38.3171
+Água Branca do Vale,-6.3635,-38.3171
+Jerusalém do Sol,-7.7445,-38.3168
+Carmo da Várzea,-7.7606,-38.3164
+São José do Riacho,-7.6124,-38.3144
+Ventura de Cima,-6.6875,-38.3143
+Fortaleza da Barra,-6.3023,-38.3138
+Varjota do Açude,-6.2672,-38.3137
+Cristal do Horizonte,-7.8886,-38.3136
+União do Cariri,-7.4106,-38.2999
+Serra Grande da Estrela,-6.4830,-38.2998
+Carmo do Bom Jesus,-6.3351,-38.2998
+Santa Rosa da Estrela,-6.6558,-38.2996
+Alto Bonito da Lua,-6.7659,-38.2991
+Serrote das Águas,-6.2615,-38.2988
+Santa Fé do Curimataú,-8.0406,-38.2982
+Bela Vista do Carmo,-7.9010,-38.2980
+Piedade do Vale,-6.3029,-38.2962
+Alagoa Grande do Sul,-7.9296,-38.2951
+Barra do Rio de Santa Luzia,-6.1386,-38.2949
+Cedro da Glória,-6.5713,-38.2945
+Serra Azul de Fátima,-7.8002,-38.2945
+Santa Cruz do Campo,-6.9556,-38.2941
+Alto Alegre da Conceição,-6.5946,-38.2937
+Monte Alto do Sertão,-7.1553,-38.2933
+Pedra Lavrada de Nazaré,-7.0773,-38.2917
+Monte Belo do Brejo,-6.8275,-38.2906
+Pau Ferro da Conceição,-7.1905,-38.2901
+Santa Rosa do Agreste,-7.5508,-38.2894
+Alto Alegre do Leste,-7.3157,-38.2892
+Riacho Fundo do Sítio,-7.3418,-38.2890
+Alegria da Estrela,-7.2319,-38.2887
+Primavera do Carmo,-7.5700,-38.2886
+Barra Bonita do Campo,-7.6424,-38.2885
+Água Branca de Baixo,-7.4945,-38.2881
+Graça do Horizonte,-6.1027,-38.2869
+São Miguel do Carmo,-7.0371,-38.2862
+Triunfo da Serra Azul,-6.8735,-38.2859
+Aurora do Sítio,-7.9940,-38.2853
+Santa Cruz da Serra Azul,-6.9090,-38.2851
+Barra do Rio do Leste,-8.0904,-38.2848
+Rio Bonito da Barra,-6.2104,-38.2847
+Barra Grande do Riacho,-7.2770,-38.2845
+Bela Vista das Águas,-7.7636,-38.2845
+Aliança da Lua,-6.4122,-38.2841
+Campo Grande da Glória,-7.7289,-38.2841
+Pedra Branca da Lagoa,-6.3821,-38.2836
+Aliança da Serra Azul,-7.6066,-38.2833
+Canaã da Barra,-6.1675,-38.2828
+Santo André de Cima,-7.6836,-38.2827
+Candeias das Pedras,-7.3837,-38.2818
+Ventura da Barra,-6.7213,-38.2807
+Monte Alto do Riacho,-7.0034,-38.2793
+Floresta da Serra Azul,-8.1233,-38.2793
+Cristal da Cruz,-6.6836,-38.2785
+Nova Aurora do Cruzeiro,-7.8618,-38.2783
+Flores da Esperança,-6.7924,-38.2778
+Serra Azul dos Rios,-7.1082,-38.2773
+Santo Antônio da Lua,-7.4621,-38.2770
+São Braz do Bom Jesus,-7.9685,-38.2768
+Serra Grande da Paz,-6.4600,-38.2768
+Cruz do Meio do Cruzeiro,-6.5336,-38.2763
+Sossego do Cariri,-8.1599,-38.2748
+Piedade do Sol,-8.0866,-38.2600
+Cachoeira da Serra Azul,-6.7579,-38.2585
+Caridade da Paz,-8.1715,-38.2584
+Monte Belo do Alto,-6.9933,-38.2578
+Varjota do Leste,-6.9630,-38.2565
+Palmeira dos Montes,-6.4162,-38.2564
+Serrote do Vale,-6.5203,-38.2563
+Cedro da Paz,-6.7300,-38.2559
+Alto do Cruzeiro da Esperança,-6.1101,-38.2558
+Alto Alegre da Serra Azul,-6.5604,-38.2556
+Monte Verde dos Rios,-6.4453,-38.2553
+Nova Aurora da Estrela,-8.0332,-38.2550
+Prata de Santa Luzia,-6.8352,-38.2540
+Serra Branca,-6.9215,-38.2537
+Baraúna do Litoral,-6.3240,-38.2526
+Alto Alegre de Nazaré,-7.3047,-38.2525
+Serra Grande da Cruz,-8.1281,-38.2521
+Barra Clara da Estrela,-6.2047,-38.2519
+Candeias da Estrela,-7.4648,-38.2518
+Serra Azul das Flores,-7.8858,-38.2518
+Soledade do Norte,-7.4181,-38.2517
+Santa Luzia das Pedras,-7.3491,-38.2512
+Pilões do Cariri,-7.1398,-38.2502
+Floresta do Norte,-7.2662,-38.2498
+Palmeira de Nazaré,-6.1451,-38.2492
+Prata da Estrela,-6.2509,-38.2486
+Rio Verde do Campo,-7.6979,-38.2485
+Alto da Serra,-7.1972,-38.2481
+Baraúna do Horizonte,-7.4887,-38.2478
+Primavera da Cruz,-6.2869,-38.2477
+Alegria dos Rios,-7.5726,-38.2477
+Santa Maria do Agreste,-6.8823,-38.2476
+Floresta da Cruz,-6.3720,-38.2469
+Prata do Brejo,-7.3749,-38.2458
+Luzia do Açude,-7.9947,-38.2454
+Barra Bonita de Santa Luzia,-7.8409,-38.2452
+Serra Grande das Águas,-7.0255,-38.2448
+Nova Vida do Sol,-7.9152,-38.2446
+Paraíso do Vale,-7.6489,-38.2442
+Fortaleza da Serra Azul,-6.6936,-38.2439
+Barra Clara dos Montes,-6.4818,-38.2427
+Santa Maria do Curimataú,-6.6140,-38.2418
+Jardim do Riacho,-6.1843,-38.2416
+Barra Bonita da Várzea,-7.8193,-38.2409
+Alto Alegre do Sol,-7.9583,-38.2405
+Bom Sucesso da Várzea,-7.5376,-38.2402
+Santa Rosa do Engenho,-6.6484,-38.2396
+Estrela da Serra,-7.7710,-38.2387
+Nazaré do Triunfo,-7.1174,-38.2382
+Santa Fé do Meio,-6.7938,-38.2374
+Luzia de Fátima,-7.2362,-38.2372
+Aroeira do Campo,-7.7353,-38.2364
+Vera Cruz da Glória,-7.6167,-38.2358
+Fátima de Baixo,-7.4132,-38.2210
+São Sebastião de Nazaré,-7.8994,-38.2208
+Águas Belas do Bom Jesus,-6.8727,-38.2204
+Vitória do Alto,-6.8307,-38.2204
+Serra Branca de Santa Luzia,-8.0864,-38.2202
+Santa Rosa do Litoral,-7.3437,-38.2200
+Alto Bonito de Nazaré,-8.1721,-38.2198
+Pedra Lavrada de Baixo,-6.5318,-38.2197
+Salgadinho do Açude,-7.3119,-38.2194
+Santa Fé do Riacho,-7.3729,-38.2193
+Aliança das Flores,-7.6979,-38.2188
+Olho d'Água do Vale,-7.6525,-38.2184
+São Vicente do Cariri,-6.3818,-38.2184
+Vera Cruz da Serra Azul,-7.0309,-38.2160
+São Francisco do Curimataú,-7.4682,-38.2146
+Fátima da Lua,-6.6379,-38.2139
+Aurora do Sertão,-8.0483,-38.2134
+Candeias do Campo,-6.5709,-38.2134
+Jardim da Estrela,-6.6744,-38.2133
+Salgadinho das Pedras,-6.4165,-38.2123
+Princesa do Sul,-6.7609,-38.2122
+Tabuleiro de Santa Luzia,-7.7694,-38.2120
+Bom Jesus dos Montes,-6.3209,-38.2118
+Alto Branco da Serra,-7.4917,-38.2115
+Independência do Carmo,-7.2294,-38.2111
+Ipiranga da Barra,-6.7306,-38.2100
+Mangabeira do Leste,-7.8544,-38.2089
+Campo Belo da Serra,-7.9594,-38.2085
+Caridade do Leste,-6.4499,-38.2084
+Santa Rosa do Sul,-7.1466,-38.2067
+Alagoa Nova dos Montes,-7.1897,-38.2066
+Jerusalém dos Ventos,-7.7296,-38.2056
+Cedro do Campo,-7.6168,-38.2037
+Santa Cruz do Riacho,-6.2997,-38.2036
+Campo Grande da Esperança,-7.5268,-38.2035
+São Vicente do Litoral,-8.0084,-38.2031
+Aliança do Sol,-7.0040,-38.2027
+Boa Esperança do Campo,-6.2063,-38.2025
+Serrote de Baixo,-6.1325,-38.2024
+Jardim da Cruz,-6.1786,-38.2021
+Alegria da Lua,-7.5701,-38.2013
+Cruz do Meio de Nazaré,-6.9549,-38.2008
+Esperança do Sítio,-6.2611,-38.2004
+Santo Antônio da Paz,-7.8102,-38.2003
+São José de Baixo,-6.4767,-38.2002
+Serra Verde do Triunfo,-7.0844,-38.1996
+Soledade das Pedras,-7.9347,-38.1991
+Serra Grande da Serra,-7.1231,-38.1990
+Santa Maria da Esperança,-6.0988,-38.1982
+São Geraldo da Paz,-6.9184,-38.1981
+Santo Antônio da Lagoa,-8.1214,-38.1978
+Ipiranga da Fazenda,-6.7887,-38.1978
+Prata da Várzea,-7.2739,-38.1968
+Serra Verde da Conceição,-6.5969,-38.1967
+Monte Belo do Açude,-6.7271,-38.1828
+Horizonte de Fátima,-7.6573,-38.1825
+Caridade da Várzea,-6.1706,-38.1820
+Remígio do Curimataú,-7.0986,-38.1820
+São Braz do Horizonte,-6.9578,-38.1814
+São Braz da Mata,-8.1485,-38.1800
+Misericórdia do Leste,-7.2648,-38.1799
+São Vicente de Baixo,-7.4678,-38.1799
+Boa Esperança do Riacho,-7.4137,-38.1794
+São Vicente da Serra Azul,-8.0564,-38.1788
+Serra Branca dos Rios,-7.8020,-38.1785
+Campo Grande de Nazaré,-7.5310,-38.1784
+São Vicente do Sítio,-7.5680,-38.1778
+Jardim do Engenho,-8.1163,-38.1777
+Santa Luzia do Riacho,-7.5094,-38.1777
+Olho d'Água da Fazenda,-7.9167,-38.1772
+Barra Clara do Triunfo,-7.3723,-38.1765
+Estrela do Sertão,-7.0691,-38.1764
+Alto da Serra da Paz,-7.0423,-38.1749
+Ipiranga,-7.3362,-38.1748
+Cruz do Meio dos Ventos,-7.7835,-38.1742
+Boa Esperança da Conceição,-6.7702,-38.1739
+Barra Grande dos Montes,-7.1394,-38.1729
+Pedra Branca do Sol,-7.9002,-38.1717
+Alagoa Grande das Águas,-7.6245,-38.1717
+Águas Belas do Carmo,-6.5760,-38.1707
+Santa Luzia do Bom Jesus,-7.2242,-38.1701
+Varjota da Lua,-6.3023,-38.1700
+Rio Verde das Águas,-6.1375,-38.1699
+Alagoa Nova da Serra,-6.6345,-38.1693
+Salgadinho do Engenho,-6.8843,-38.1691
+Alto da Serra de Fátima,-6.4976,-38.1686
+Barra Clara do Sertão,-6.9925,-38.1677
+Remígio da Estrela,-6.8386,-38.1675
+Riacho Fundo das Águas,-7.7358,-38.1675
+Águas Belas,-6.3408,-38.1665
+Monte Alto do Alto,-6.8018,-38.1663
+Campo Grande das Águas,-6.2551,-38.1661
+Princesa da Fazenda,-6.4499,-38.1650
+Aroeira do Cariri,-7.2944,-38.1639
+Piedade do Horizonte,-7.1816,-38.1638
+Santa Luzia do Sertão,-6.5932,-38.1633
+Serra Grande de Baixo,-6.5178,-38.1623
+Campo Belo do Horizonte,-6.2219,-38.1613
+Santa Teresinha do Meio,-6.0918,-38.1613
+Barra Bonita da Paz,-7.6847,-38.1609
+Água Branca da Paz,-6.6703,-38.1609
+Barra do Rio da Fazenda,-7.8514,-38.1607
+São José,-8.0156,-38.1599
+Ventura do Horizonte,-6.9249,-38.1592
+União de Fátima,-8.0859,-38.1583
+Prata da Mata,-6.3833,-38.1577
+Terra Nova do Curimataú,-7.9723,-38.1574
+Mangabeira do Cariri,-6.4187,-38.1573
+Luzia da Conceição,-7.7734,-38.1434
+União do Bom Jesus,-7.4971,-38.1433
+Vera Cruz,-7.8897,-38.1432
+São Miguel das Flores,-7.7349,-38.1431
+Alegria do Brejo,-7.1836,-38.1431
+Nova Aurora do Bom Jesus,-8.1558,-38.1419
+Carmo do Oeste,-6.6807,-38.1417
+Santa Maria da Paz,-7.0843,-38.1416
+São Pedro de Cima,-7.3387,-38.1416
+Nazaré da Serra,-7.0433,-38.1414
+Alagoa Grande da Barra,-7.2730,-38.1414
+Santa Helena do Engenho,-6.1487,-38.1412
+Santa Maria do Brejo,-7.9752,-38.1408
+Barra do Rio da Várzea,-6.1684,-38.1399
+Rio Claro da Lua,-6.8506,-38.1398
+Alto da Serra da Lua,-7.1200,-38.1384
+Riacho Fundo da Serra,-7.2314,-38.1375
+Bela Vista do Campo,-6.6000,-38.1374
+Santa Rosa da Paz,-7.5831,-38.1369
+São Domingos do Carmo,-6.8700,-38.1368
+Jerusalém,-7.4716,-38.1355
+Flores do Sul,-6.4442,-38.1354
+São Paulo do Engenho,-8.1136,-38.1347
+Alcantil dos Montes,-6.9612,-38.1345
+São Domingos da Glória,-7.3824,-38.1343
+Maravilha de Cima,-7.9179,-38.1338
+Barra Clara do Cariri,-7.3157,-38.1332
+Campo Grande de Cima,-6.1059,-38.1321
+Vale Verde do Bom Jesus,-6.4194,-38.1321
+Rio Claro do Campo,-6.6522,-38.1314
+Ventura do Sítio,-6.5556,-38.1309
+Jardim de Cima,-8.0522,-38.1305
+Cedro do Cruzeiro,-6.3411,-38.1299
+Horizonte da Esperança,-6.2861,-38.1292
+São Lourenço do Norte,-7.8090,-38.1290
+Alegria do Açude,-7.6463,-38.1282
+Baraúna da Barra,-6.3771,-38.1279
+São Vicente do Bom Jesus,-6.9976,-38.1270
+Água Branca da Barra,-6.7718,-38.1269
+Alto do Cruzeiro de Santa Luzia,-6.2661,-38.1261
+Cedro do Curimataú,-7.5311,-38.1260
+Barra Bonita dos Ventos,-7.1382,-38.1231
+São José da Conceição,-7.6159,-38.1224
+Remígio do Meio,-7.8513,-38.1220
+Alto Branco do Riacho,-6.7952,-38.1220
+Aurora do Açude,-8.0159,-38.1217
+União da Serra Azul,-6.9113,-38.1214
+Primavera da Mata,-6.5400,-38.1213
+Maravilha de Baixo,-6.4862,-38.1209
+Bom Jesus do Campo,-6.2076,-38.1209
+Salgadinho da Estrela,-8.0856,-38.1202
+Bom Sucesso do Meio,-7.4314,-38.1192
+Vale Verde da Fazenda,-6.7157,-38.1188
+Independência do Riacho,-7.6938,-38.1185
+Independência da Paz,-6.7896,-38.1050
+Barra Clara do Oeste,-6.3363,-38.1045
+Barra do Rio da Lua,-7.3414,-38.1042
+Prata do Sol,-7.1172,-38.1029
+Bom Jesus do Vale,-6.6954,-38.1022
+Salgadinho do Vale,-7.3747,-38.1013
+Cedro da Mata,-6.1645,-38.1010
+Santa Fé das Águas,-7.1991,-38.1010
+Misericórdia da Esperança,-7.6089,-38.1005
+Serrote da Cruz,-6.7122,-38.1000
+Liberdade do Bom Jesus,-6.9895,-38.0997
+Soledade do Carmo,-6.1307,-38.0992
+Riacho Verde das Pedras,-6.5766,-38.0986
+Redenção do Brejo,-7.9368,-38.0984
+Riacho Fundo de Fátima,-7.8795,-38.0976
+Paraíso da Paz,-6.4021,-38.0976
+Água Branca de Fátima,-7.1569,-38.0971
+Remígio das Flores,-6.2252,-38.0968
+Paraíso do Sol,-7.5421,-38.0967
+Barra Bonita de Cima,-8.0113,-38.0961
+Rio Claro do Curimataú,-7.4170,-38.0960
+Fátima de Nazaré,-7.0770,-38.0958
+Umbuzeiro do Horizonte,-8.0818,-38.0955
+Monte Belo do Oeste,-7.4534,-38.0952
+São Geraldo do Riacho,-7.4903,-38.0952
+Serra Verde das Flores,-7.7230,-38.0951
+Jardim do Vale,-7.2962,-38.0950
+Santo Antônio das Pedras,-6.5272,-38.0944
+Barra do Rio do Vale,-6.9262,-38.0944
+Misericórdia do Carmo,-6.9618,-38.0939
+Canaã,-8.1148,-38.0938
+Alto do Cruzeiro das Pedras,-6.4762,-38.0932
+Alegria das Pedras,-7.6518,-38.0930
+Nova Esperança do Sertão,-7.2326,-38.0926
+Santa Rosa,-6.2963,-38.0925
+Fortaleza do Sítio,-6.6440,-38.0916
+Alagoa Grande do Curimataú,-6.0922,-38.0910
+São João das Pedras,-6.3632,-38.0901
+Aurora do Cruzeiro,-6.7519,-38.0868
+Floresta dos Ventos,-6.8450,-38.0865
+Nova Vida dos Ventos,-8.1649,-38.0863
+União da Paz,-7.2541,-38.0856
+Estrela,-7.8578,-38.0854
+Olho d'Água da Serra Azul,-7.7819,-38.0850
+União dos Ventos,-7.9741,-38.0849
+Primavera do Curimataú,-7.6821,-38.0840
+Boa Esperança de Santa Luzia,-6.6158,-38.0838
+Alto Alegre do Bom Jesus,-6.4575,-38.0834
+Águas Belas da Serra Azul,-7.8090,-38.0832
+Barra do Rio do Oeste,-8.0438,-38.0811
+São Pedro do Açude,-6.8726,-38.0810
+Lagoa Seca dos Montes,-6.2550,-38.0808
+Sossego da Glória,-7.0367,-38.0806
+Cedro do Cariri,-7.5661,-38.0795
+Aurora do Agreste,-7.5504,-38.0658
+Triunfo da Várzea,-6.8800,-38.0657
+Serra Azul do Horizonte,-7.8224,-38.0656
+Alto Branco das Águas,-7.9186,-38.0648
+Redenção da Serra Azul,-7.6066,-38.0645
+Glória do Sol,-6.9276,-38.0633
+Mangabeira de Nazaré,-6.7326,-38.0629
+Misericórdia dos Rios,-7.9562,-38.0623
+Riacho Verde de Cima,-7.6968,-38.0613
+Alegria da Barra,-8.1265,-38.0611
+Pedra Branca da Glória,-6.4910,-38.0609
+Riacho Fundo do Sertão,-8.0725,-38.0607
+Bom Sucesso do Oeste,-7.3334,-38.0604
+Candeias do Sul,-7.6470,-38.0586
+Flores do Campo,-6.5367,-38.0581
+Vera Cruz da Várzea,-7.4944,-38.0576
+Riacho Fundo da Esperança,-7.2983,-38.0574
+Bela Vista de Fátima,-7.4139,-38.0572
+Estrela do Curimataú,-7.0690,-38.0571
+Cedro da Serra,-7.8539,-38.0566
+Triunfo do Triunfo,-6.3413,-38.0559
+Alcantil do Bom Jesus,-6.3760,-38.0559
+Barreira do Triunfo,-7.7444,-38.0556
+Vale Verde do Sertão,-7.5801,-38.0551
+Princesa de Cima,-7.7725,-38.0548
+Graça da Serra,-6.4417,-38.0544
+Horizonte,-6.6316,-38.0543
+Candeias do Horizonte,-7.4512,-38.0541
+Campo Belo da Serra Azul,-7.1513,-38.0539
+Paraíso do Bom Jesus,-6.0887,-38.0533
+Campo Grande do Cruzeiro,-7.1987,-38.0529
+São Geraldo da Fazenda,-6.9492,-38.0525
+Flores dos Montes,-7.1141,-38.0517
+Pilões do Sertão,-7.3840,-38.0517
+Barreira de Baixo,-8.0509,-38.0505
+Pedra Lavrada do Curimataú,-6.5624,-38.0501
+Santa Helena dos Rios,-8.1730,-38.0487
+Independência do Campo,-8.0018,-38.0473
+Luzia dos Rios,-6.7538,-38.0471
+Monte Alto do Carmo,-6.8388,-38.0470
+Águas Belas do Vale,-6.5958,-38.0469
+Varjota da Glória,-6.2190,-38.0464
+São Bento do Agreste,-7.2694,-38.0448
+Misericórdia do Riacho,-6.1317,-38.0446
+Alagoa Nova do Leste,-6.1890,-38.0442
+Santo Antônio do Meio,-6.2922,-38.0437
+Aroeira do Horizonte,-6.4075,-38.0434
+Aroeira do Agreste,-7.0353,-38.0434
+Campo Belo da Mata,-6.2644,-38.0425
+Aurora da Mata,-7.2386,-38.0420
+Alegria do Campo,-7.8796,-38.0408
+Campo Grande de Fátima,-6.8063,-38.0407
+Serrote da Lua,-6.9892,-38.0404
+Boa Esperança do Cruzeiro,-6.6901,-38.0403
+Prata do Açude,-7.1380,-38.0267
+Riacho Verde do Carmo,-7.2922,-38.0264
+Carmo do Sol,-7.6264,-38.0263
+Prata do Cariri,-7.8913,-38.0261
+Cachoeira dos Rios,-7.4244,-38.0246
+Cruz do Meio do Triunfo,-7.4706,-38.0239
+Tabuleiro do Brejo,-6.6102,-38.0233
+Barreira do Sol,-6.1375,-38.0233
+Barra Grande do Engenho,-7.2319,-38.0233
+Santa Maria do Norte,-6.9461,-38.0232
+Alto da Serra da Fazenda,-6.9199,-38.0226
+Pau Ferro dos Montes,-7.3457,-38.0224
+Jardim do Alto,-6.4226,-38.0217
+Monte Belo,-7.0642,-38.0199
+São Sebastião das Flores,-6.3416,-38.0198
+Barra Clara do Leste,-7.6936,-38.0198
+Soledade da Paz,-6.6794,-38.0198
+Alto da Serra do Sertão,-7.1111,-38.0196
+Floresta,-7.8516,-38.0193
+Serrote do Engenho,-6.8317,-38.0186
+São Sebastião das Águas,-7.9391,-38.0185
+Floresta de Nazaré,-6.8088,-38.0179
+Esperança de Baixo,-6.2252,-38.0174
+Água Branca da Conceição,-7.5469,-38.0164
+Estrela das Pedras,-6.1786,-38.0160
+Barreira de Santa Luzia,-7.3925,-38.0156
+Caridade de Cima,-7.5729,-38.0149
+Riacho Fundo do Meio,-6.3782,-38.0149
+Palmeira da Lua,-6.8682,-38.0147
+Tabuleiro da Lua,-6.1038,-38.0144
+Monte Verde da Fazenda,-7.7825,-38.0140
+Barra Clara da Fazenda,-7.1920,-38.0139
+Alcantil de Nazaré,-6.7593,-38.0138
+Olho d'Água do Riacho,-7.8042,-38.0136
+São Paulo dos Rios,-6.6544,-38.0135
+Alto Bonito da Cruz,-7.7427,-38.0132
+Glória do Campo,-8.1611,-38.0128
+São Domingos do Leste,-7.2776,-38.0115
+Caridade do Oeste,-8.0133,-38.0110
+Caridade de Baixo,-6.4508,-38.0107
+Alagoa Grande do Oeste,-8.0461,-38.0106
+Alto Alegre do Curimataú,-7.6475,-38.0099
+Sossego da Conceição,-7.9756,-38.0087
+Canaã das Pedras,-6.2906,-38.0082
+Bom Sucesso da Barra,-6.9822,-38.0076
+Alagoa Grande de Santa Luzia,-6.5672,-38.0068
+Alto Branco da Lua,-7.0207,-38.0063
+Serra Branca do Alto,-7.5101,-38.0055
+Pedra Branca da Serra,-8.0915,-38.0040
+Vera Cruz da Barra,-6.5175,-38.0026
+Santa Fé da Esperança,-6.4927,-38.0026
+Candeias do Curimataú,-6.2588,-38.0023
+Luzia da Estrela,-8.1111,-38.0021
+Cachoeira da Paz,-6.7151,-38.0012
+São José da Cruz,-6.4399,-37.9878
+Aroeira da Serra,-7.6232,-37.9874
+Palmeira da Esperança,-6.5274,-37.9869
+Campo Belo das Flores,-7.4150,-37.9866
+São Lourenço do Horizonte,-6.8871,-37.9858
+Serra Verde do Campo,-7.3103,-37.9854
+Cachoeira do Meio,-7.1141,-37.9851
+Pilões da Lagoa,-6.6124,-37.9851
+Santa Rosa do Sol,-7.3566,-37.9848
+São Francisco da Mata,-7.0328,-37.9843
+Serra Verde dos Rios,-6.4966,-37.9841
+Vale Verde da Barra,-6.3003,-37.9836
+Aroeira,-7.6888,-37.9828
+Serra Grande do Vale,-6.6365,-37.9827
+Pedra Branca dos Rios,-6.4217,-37.9825
+Esperança do Litoral,-7.2281,-37.9812
+Rio Verde da Glória,-6.3392,-37.9810
+Candeias do Bom Jesus,-7.1592,-37.9809
+Nazaré da Glória,-6.5546,-37.9796
+Pau Ferro da Lagoa,-6.8406,-37.9794
+Maravilha do Cruzeiro,-7.5090,-37.9791
+Serrote do Brejo,-7.8446,-37.9770
+São José dos Rios,-7.5510,-37.9759
+Flores da Glória,-7.5697,-37.9757
+Serra Branca de Cima,-7.6662,-37.9754
+Rio Verde do Sertão,-6.2671,-37.9743
+São Pedro da Serra Azul,-7.7796,-37.9738
+Candeias do Vale,-6.1375,-37.9723
+Vale Verde de Baixo,-7.4574,-37.9722
+Alagoa Nova de Santa Luzia,-7.2672,-37.9719
+Monte Belo de Fátima,-6.9552,-37.9717
+Alcantil do Engenho,-8.1282,-37.9705
+Pilões das Águas,-6.9106,-37.9705
+Santo Antônio do Cruzeiro,-6.6883,-37.9703
+Terra Nova do Sertão,-6.9882,-37.9701
+Maravilha do Campo,-6.7608,-37.9697
+Sossego das Águas,-8.0817,-37.9697
+Pau Ferro do Carmo,-6.2247,-37.9696
+Pedra Branca do Oeste,-8.0386,-37.9690
+Campo Belo de Fátima,-6.1034,-37.9688
+São Geraldo do Triunfo,-6.7345,-37.9687
+Monte Verde da Várzea,-7.3893,-37.9686
+Pau Ferro do Meio,-7.9675,-37.9677
+Nova Esperança do Meio,-6.1711,-37.9671
+Remígio do Oeste,-6.3639,-37.9666
+Flores de Nazaré,-7.8064,-37.9664
+Jerusalém dos Montes,-7.0699,-37.9663
+Graça da Serra Azul,-6.7950,-37.9653
+Canaã do Sol,-8.0162,-37.9651
+Alto Bonito do Brejo,-7.9311,-37.9650
+Floresta do Cruzeiro,-7.7204,-37.9636
+Redenção do Alto,-7.8942,-37.9636
+Santo Antônio do Campo,-8.1547,-37.9630
+Monte Alto do Horizonte,-7.1966,-37.9623
+Riacho Fundo da Barra,-6.2510,-37.9472
+Graça do Sertão,-7.1541,-37.9466
+São Domingos do Meio,-7.4210,-37.9464
+Nazaré do Carmo,-6.5779,-37.9448
+São Miguel das Pedras,-6.9490,-37.9446
+Água Branca dos Ventos,-7.1105,-37.9445
+São Francisco da Estrela,-6.6874,-37.9434
+Maravilha do Sul,-6.2947,-37.9432
+Vitória da Lagoa,-7.0211,-37.9432
+Rio Verde de Cima,-6.4424,-37.9429
+Misericórdia de Fátima,-7.9640,-37.9428
+Conceição do Engenho,-8.1730,-37.9426
+São Geraldo de Cima,-7.7449,-37.9417
+Floresta do Sítio,-7.8230,-37.9405
+Monte Belo das Pedras,-6.5152,-37.9405
+Jerusalém da Lua,-6.3335,-37.9386
+Candeias do Triunfo,-6.9931,-37.9383
+São Judas da Serra,-7.3365,-37.9380
+São Braz dos Montes,-7.1878,-37.9379
+Redenção de Fátima,-7.9282,-37.9373
+Alcantil do Litoral,-8.0873,-37.9367
+Cachoeira do Curimataú,-7.3776,-37.9355
+Santo Antônio do Alto,-7.6847,-37.9351
+Barreira do Curimataú,-7.6423,-37.9351
+Nova Vida do Alto,-7.3125,-37.9346
+Santa Helena da Lua,-6.1833,-37.9343
+Monte Verde do Engenho,-7.4674,-37.9335
+Rio Claro do Sítio,-6.2151,-37.9330
+Fortaleza do Engenho,-6.7261,-37.9321
+São Lourenço da Cruz,-7.8763,-37.9313
+Olho d'Água do Campo,-6.7526,-37.9311
+Floresta do Agreste,-7.4867,-37.9307
+Piedade do Cariri,-6.8465,-37.9302
+Nazaré de Nazaré,-7.2399,-37.9293
+Rio Verde da Lua,-6.4955,-37.9292
+Prata da Lua,-7.0649,-37.9290
+Aroeira do Norte,-7.7625,-37.9289
+Candeias do Norte,-7.8380,-37.9285
+Liberdade do Oeste,-7.5468,-37.9285
+Campo Belo do Norte,-8.1108,-37.9283
+Canaã do Sítio,-6.9111,-37.9277
+Princesa do Cruzeiro,-7.5712,-37.9276
+Vale Verde do Agreste,-6.8084,-37.9271
+Aliança das Águas,-6.3739,-37.9270
+Remígio do Sol,-6.6392,-37.9265
+Luzia,-6.4046,-37.9264
+Liberdade dos Montes,-6.8776,-37.9262
+Salgadinho da Paz,-6.1115,-37.9262
+Ipiranga da Esperança,-8.0536,-37.9255
+Pedra Lavrada do Leste,-7.2568,-37.9250
+Soledade do Sol,-7.6056,-37.9248
+Floresta da Fazenda,-6.6107,-37.9247
+Primavera do Sul,-6.1331,-37.9244
+União de Nazaré,-8.0130,-37.9239
+Maravilha da Barra,-6.4014,-37.9096
+Triunfo da Mata,-6.1789,-37.9096
+Nova Vida da Lua,-7.7216,-37.9096
+Pedra Branca do Bom Jesus,-6.9511,-37.9095
+Santa Cruz de Fátima,-7.0447,-37.9089
+Maravilha da Serra Azul,-6.9233,-37.9084
+Alto Branco da Glória,-7.5850,-37.9084
+São João da Estrela,-7.4565,-37.9077
+Alto Branco do Sítio,-7.3446,-37.9072
+Remígio da Lagoa,-6.5365,-37.9052
+União,-7.3950,-37.9038
+Estrela das Flores,-7.8425,-37.9033
+Campo Grande do Brejo,-7.3027,-37.9031
+Olho d'Água do Bom Jesus,-6.6773,-37.9028
+São Bento do Cariri,-7.0825,-37.9025
+São Judas do Alto,-7.5114,-37.9012
+Mangabeira da Barra,-6.7681,-37.8995
+Horizonte do Leste,-7.2599,-37.8995
+Lagoa Seca do Sertão,-6.3771,-37.8994
+Bom Sucesso do Sul,-7.7653,-37.8993
+Ipiranga dos Rios,-8.1229,-37.8992
+Alto da Serra da Várzea,-6.1414,-37.8985
+Cristal do Bom Jesus,-7.9605,-37.8981
+Estrela da Cruz,-6.5596,-37.8972
+Caridade da Conceição,-7.6818,-37.8971
+São Braz do Brejo,-8.0815,-37.8970
+Estrela dos Rios,-7.4137,-37.8959
+Ipiranga das Pedras,-7.6424,-37.8958
+Alcantil da Lua,-7.8020,-37.8957
+Vitória do Cariri,-6.8738,-37.8952
+São Judas do Sertão,-7.8862,-37.8939
+Remígio da Barra,-7.6226,-37.8939
+Olho d'Água dos Montes,-7.9144,-37.8925
+Serra Verde de Cima,-7.1396,-37.8922
+Palmeira,-6.7326,-37.8915
+Umbuzeiro,-6.2882,-37.8907
+Liberdade da Conceição,-6.6388,-37.8904
+Bom Jesus do Meio,-6.2246,-37.8902
+São Geraldo da Várzea,-7.2245,-37.8900
+São Braz do Sítio,-8.1610,-37.8899
+Barra do Rio do Cruzeiro,-7.2001,-37.8897
+São Francisco do Campo,-6.8101,-37.8894
+Pedra Branca de Fátima,-6.4450,-37.8894
+Piedade da Esperança,-8.0080,-37.8882
+Pilões da Barra,-6.5988,-37.8870
+Salgadinho do Sol,-6.3347,-37.8869
+Barra Grande,-7.5379,-37.8866
+Maravilha das Pedras,-6.2658,-37.8864
+Vera Cruz do Alto,-6.4756,-37.8857
+Aurora do Riacho,-8.0517,-37.8855
+Sossego da Serra,-6.9872,-37.8844
+Rio Claro,-6.8262,-37.8844
+São Paulo do Horizonte,-6.1078,-37.8842
+São Bento do Sítio,-6.6892,-37.8707
+Glória da Esperança,-8.0106,-37.8699
+Conceição das Águas,-8.1687,-37.8689
+Vale Verde das Flores,-7.9175,-37.8687
+Baraúna dos Ventos,-6.9451,-37.8685
+São Judas do Cariri,-6.8764,-37.8678
+Santa Helena da Conceição,-6.8262,-37.8673
+São Braz da Esperança,-6.4056,-37.8671
+Monte Alto do Açude,-7.0640,-37.8660
+Redenção dos Ventos,-7.8884,-37.8657
+Nazaré da Lagoa,-7.6824,-37.8656
+Barra do Rio da Cruz,-6.2632,-37.8652
+São Pedro dos Ventos,-8.0711,-37.8647
+Misericórdia de Cima,-6.9089,-37.8644
+São João da Glória,-6.2135,-37.8644
+Aroeira dos Montes,-7.4981,-37.8644
+Alto do Cruzeiro do Oeste,-6.5962,-37.8640
+Santa Cruz do Alto,-7.2374,-37.8625
+Luzia das Pedras,-7.1057,-37.8618
+Monte Belo da Glória,-7.0335,-37.8616
+Santa Maria da Mata,-7.1499,-37.8611
+Independência da Glória,-6.1366,-37.8609
+Bom Sucesso da Mata,-6.9933,-37.8602
+Estrela da Esperança,-7.1877,-37.8599
+Alto Bonito da Barra,-7.5739,-37.8596
+Salgadinho de Baixo,-6.2895,-37.8592
+Águas Belas de Baixo,-7.6558,-37.8583
+Nova Aurora do Oeste,-6.6381,-37.8578
+São Sebastião do Vale,-7.8119,-37.8578
+Santo André do Triunfo,-7.3924,-37.8576
+Riacho Fundo do Carmo,-6.3445,-37.8571
+Cachoeira do Carmo,-7.6214,-37.8562
+Serrote da Lagoa,-7.9678,-37.8562
+Alagoa Nova do Curimataú,-7.7613,-37.8551
+Rio Bonito de Baixo,-6.4556,-37.8537
+Serra Grande,-7.2730,-37.8536
+Lagoa Seca da Cruz,-7.3121,-37.8533
+Glória de Cima,-7.3443,-37.8531
+Nova Esperança da Glória,-6.0975,-37.8523
+Misericórdia do Campo,-6.8063,-37.8510
+Nova Vida do Oeste,-6.5661,-37.8508
+Santo Antônio de Fátima,-7.5458,-37.8504
+Triunfo do Sol,-6.1663,-37.8504
+Tabuleiro do Sertão,-7.4094,-37.8501
+Caridade dos Montes,-6.4973,-37.8498
+Boa Esperança do Engenho,-6.7132,-37.8490
+São Lourenço da Paz,-7.4677,-37.8483
+Esperança do Leste,-6.5254,-37.8480
+Alto Branco da Cruz,-6.7653,-37.8479
+Vitória do Leste,-7.8516,-37.8472
+Rio Bonito dos Rios,-7.7290,-37.8464
+Serrote do Triunfo,-8.1300,-37.8462
+Conceição dos Rios,-6.3837,-37.8458
+Barra Grande do Triunfo,-8.0449,-37.8451
+Campo Belo da Lua,-6.3382,-37.8316
+São Pedro do Alto,-7.8963,-37.8309
+São João do Engenho,-7.7280,-37.8302
+Aliança de Nazaré,-7.4520,-37.8301
+Estrela da Glória,-7.4297,-37.8298
+Pedra Lavrada da Conceição,-7.7708,-37.8297
+Candeias do Sertão,-7.0409,-37.8295
+Monte Alto da Conceição,-6.0897,-37.8292
+Barra Clara dos Ventos,-6.1711,-37.8260
+Barra Clara da Conceição,-7.2593,-37.8251
+Vale Verde do Oeste,-7.3708,-37.8249
+Tabuleiro das Águas,-8.0956,-37.8246
+Candeias da Serra Azul,-6.2261,-37.8245
+Monte Verde do Curimataú,-6.4443,-37.8238
+Rio Verde do Norte,-7.9633,-37.8236
+Rio Bonito de Santa Luzia,-6.6537,-37.8233
+Esperança da Mata,-6.9149,-37.8228
+Pedra Branca do Açude,-7.6673,-37.8225
+Varjota da Lagoa,-6.7612,-37.8221
+Pau Ferro dos Rios,-7.0829,-37.8218
+Riacho Verde do Bom Jesus,-7.1214,-37.8216
+Alagoa Nova da Várzea,-6.8405,-37.8210
+Floresta de Fátima,-6.2939,-37.8209
+Bom Jesus das Flores,-7.5407,-37.8199
+Conceição do Alto,-6.8849,-37.8198
+São Paulo do Açude,-6.9944,-37.8195
+Paraíso do Agreste,-6.6879,-37.8191
+Rio Claro da Cruz,-7.9166,-37.8190
+Olho d'Água do Engenho,-6.4803,-37.8187
+Serra Verde da Estrela,-7.1423,-37.8175
+Bom Jesus do Cruzeiro,-7.5857,-37.8174
+Nova Aurora do Brejo,-6.1356,-37.8168
+Cedro do Carmo,-6.2653,-37.8163
+Vitória da Lua,-8.0057,-37.8148
+São Vicente das Flores,-6.4228,-37.8147
+São Francisco das Pedras,-7.6953,-37.8140
+Campo Belo de Baixo,-6.3668,-37.8131
+Campo Grande do Sul,-7.8391,-37.8117
+Barra Bonita do Oeste,-6.9597,-37.8114
+São Geraldo do Sítio,-8.1704,-37.8112
+Riacho Fundo do Litoral,-7.8028,-37.8108
+São Vicente da Esperança,-7.2348,-37.8106
+São Domingos do Cruzeiro,-8.1309,-37.8105
+Serra Azul de Santa Luzia,-7.4949,-37.8105
+Palmeira da Lagoa,-7.6199,-37.8104
+Floresta das Águas,-6.7245,-37.8104
+Alto Branco do Sol,-6.6039,-37.8094
+São Miguel do Cariri,-8.0326,-37.8089
+Alcantil do Vale,-7.1791,-37.8089
+Rio Claro do Horizonte,-7.3148,-37.8077
+Olho d'Água do Sul,-7.3524,-37.8074
+Nova Aurora da Paz,-6.5535,-37.8070
+Santa Cruz da Conceição,-6.8115,-37.8062
+Pau Ferro,-6.5268,-37.8060
+Barra Grande dos Ventos,-7.4614,-37.7920
+Liberdade do Cariri,-6.4554,-37.7887
+Paraíso do Cruzeiro,-8.0754,-37.7883
+Cedro dos Rios,-7.3050,-37.7880
+Santa Teresinha do Campo,-7.6110,-37.7877
+Flores de Santa Luzia,-8.1249,-37.7877
+Campo Grande do Norte,-7.7431,-37.7875
+Riacho Verde do Meio,-7.0722,-37.7872
+Bela Vista da Serra Azul,-6.8693,-37.7860
+Alegria da Esperança,-7.2593,-37.7856
+Graça do Campo,-6.7236,-37.7852
+Nova Aurora do Riacho,-8.0545,-37.7851
+Vale Verde da Esperança,-7.8582,-37.7847
+Estrela do Engenho,-6.9121,-37.7844
+Esperança do Agreste,-6.7572,-37.7842
+Liberdade da Glória,-6.3727,-37.7842
+Vale Verde da Lagoa,-7.7689,-37.7842
+Águas Belas dos Rios,-7.5821,-37.7838
+São Vicente do Cruzeiro,-7.9601,-37.7834
+Santa Cruz da Mata,-6.8261,-37.7830
+Floresta do Horizonte,-7.8954,-37.7822
+Redenção das Flores,-7.9945,-37.7822
+Pedra Lavrada do Sul,-6.3033,-37.7822
+Nova Vida do Sertão,-7.3946,-37.7819
+Santa Cruz do Litoral,-7.1113,-37.7817
+São Braz da Glória,-7.4120,-37.7795
+Santa Cruz do Cariri,-6.1478,-37.7789
+Alto da Serra do Carmo,-7.1932,-37.7789
+Alto Branco do Sertão,-6.6787,-37.7775
+Cachoeira do Sítio,-6.4806,-37.7771
+São Francisco do Engenho,-7.1379,-37.7763
+São Vicente do Engenho,-7.6991,-37.7754
+Caridade do Cariri,-6.7908,-37.7748
+Rio Bonito das Pedras,-6.4033,-37.7745
+Bom Jesus do Bom Jesus,-6.6128,-37.7741
+Graça das Águas,-7.3511,-37.7736
+Nova Esperança do Vale,-8.1487,-37.7736
+Nazaré do Sol,-6.9474,-37.7734
+Rio Claro da Estrela,-7.5276,-37.7733
+São Braz da Paz,-6.5289,-37.7732
+Santa Luzia de Fátima,-6.0914,-37.7726
+Pedra Lavrada do Vale,-7.0384,-37.7719
+Águas Belas das Flores,-6.5778,-37.7710
+Nova Aurora de Fátima,-7.8036,-37.7705
+Palmeira dos Ventos,-6.2084,-37.7698
+Monte Alto das Pedras,-6.2643,-37.7697
+Sossego de Santa Luzia,-7.2204,-37.7695
+Mangabeira do Carmo,-7.5110,-37.7692
+Olho d'Água do Alto,-6.3276,-37.7691
+Baraúna do Norte,-6.6320,-37.7684
+São Lourenço da Várzea,-6.9868,-37.7683
+Monte Verde do Cruzeiro,-7.9286,-37.7679
+Cedro de Santa Luzia,-7.6515,-37.7670
+Barra Clara das Flores,-6.3295,-37.7526
+Triunfo das Pedras,-8.0369,-37.7525
+Soledade dos Montes,-6.1834,-37.7519
+Serra Branca da Glória,-7.3105,-37.7516
+Terra Nova do Oeste,-7.5880,-37.7488
+Água Branca do Carmo,-6.4561,-37.7484
+Maravilha das Águas,-6.4781,-37.7482
+União da Conceição,-6.8654,-37.7480
+Aliança da Mata,-6.1350,-37.7479
+Santa Helena do Riacho,-6.6480,-37.7477
+Santa Helena do Açude,-7.7994,-37.7459
+Água Doce do Engenho,-6.7956,-37.7456
+Pilões da Serra,-6.5324,-37.7455
+Barra Clara de Baixo,-6.7157,-37.7453
+São Braz da Estrela,-7.9948,-37.7450
+Nova Aurora dos Rios,-7.0634,-37.7448
+Fortaleza do Bom Jesus,-6.3842,-37.7434
+Santa Luzia de Cima,-7.4097,-37.7433
+Barra do Rio do Horizonte,-7.1611,-37.7423
+Nova Vida do Riacho,-6.9643,-37.7420
+Boa Esperança do Açude,-8.1216,-37.7411
+Santo Antônio da Fazenda,-6.4225,-37.7411
+Graça do Sítio,-7.2548,-37.7410
+Barra Bonita da Fazenda,-7.7414,-37.7409
+Palmeira do Curimataú,-6.3025,-37.7408
+Cruz do Meio do Horizonte,-7.7807,-37.7404
+Barreira do Alto,-7.6217,-37.7403
+Serra Grande de Cima,-6.0873,-37.7401
+São João dos Montes,-7.3840,-37.7398
+União do Litoral,-7.2162,-37.7396
+Cristal do Alto,-7.0299,-37.7395
+Santa Helena da Barra,-6.7595,-37.7394
+Independência do Engenho,-7.9273,-37.7388
+Alto Bonito do Sítio,-6.2645,-37.7387
+Riacho Verde do Sertão,-6.8357,-37.7386
+Serra Azul do Leste,-8.1660,-37.7385
+São Vicente dos Ventos,-7.3528,-37.7383
+Aroeira das Águas,-7.9665,-37.7380
+Campo Grande do Meio,-7.8955,-37.7378
+Boa Esperança da Glória,-7.6649,-37.7366
+Campo Grande do Sol,-7.4598,-37.7359
+Barra Grande da Conceição,-8.0704,-37.7358
+Santa Teresinha do Curimataú,-7.8510,-37.7357
+Aroeira das Pedras,-6.6892,-37.7351
+Primavera de Santa Luzia,-6.2144,-37.7349
+Rio Bonito do Engenho,-7.6820,-37.7346
+Tabuleiro do Curimataú,-7.1086,-37.7343
+Rio Verde do Engenho,-7.5343,-37.7338
+Água Branca do Alto,-6.9936,-37.7331
+Sossego do Meio,-6.9167,-37.7309
+São Domingos da Serra Azul,-7.1902,-37.7296
+São Lourenço do Engenho,-6.5673,-37.7293
+Umbuzeiro do Bom Jesus,-7.4884,-37.7292
+Barra Bonita da Conceição,-6.5968,-37.7289
+Pilões da Fazenda,-8.0716,-37.7140
+Flores das Águas,-6.4127,-37.7136
+Bela Vista de Baixo,-6.5360,-37.7135
+Alto Bonito do Sul,-6.6546,-37.7128
+Tabuleiro da Serra Azul,-6.2287,-37.7127
+Mangabeira do Cruzeiro,-7.4211,-37.7123
+Maravilha da Fazenda,-7.8987,-37.7107
+Mangabeira do Oeste,-7.6574,-37.7102
+Remígio do Vale,-8.0552,-37.7087
+Santa Luzia do Oeste,-7.8045,-37.7084
+São João do Norte,-6.9238,-37.7083
+Nazaré da Barra,-6.1458,-37.7079
+Misericórdia do Sol,-6.7485,-37.7078
+Águas Belas do Sertão,-6.8385,-37.7071
+Santa Fé da Lagoa,-7.2209,-37.7062
+Palmeira do Litoral,-6.7963,-37.7054
+Alto Bonito do Alto,-7.5257,-37.7054
+Santa Teresinha do Riacho,-7.3090,-37.7043
+Monte Alto da Várzea,-7.6063,-37.7041
+Graça do Litoral,-6.5671,-37.7028
+Lagoa Seca do Cariri,-7.1098,-37.7025
+Riacho Verde da Fazenda,-7.7740,-37.7012
+Barra Clara do Sítio,-6.0967,-37.7001
+Barra Bonita do Agreste,-6.3780,-37.7000
+Umbuzeiro da Lua,-7.5645,-37.6999
+Esperança dos Ventos,-6.1671,-37.6997
+São Judas da Mata,-7.3849,-37.6997
+Pedra Branca dos Ventos,-7.6837,-37.6992
+Monte Belo dos Rios,-7.3377,-37.6987
+Serra Verde do Litoral,-6.4521,-37.6982
+Santa Helena do Carmo,-6.2912,-37.6975
+São Bento do Meio,-8.1713,-37.6972
+São Geraldo da Conceição,-6.7193,-37.6972
+Prata do Leste,-7.4872,-37.6964
+Alto Branco do Campo,-7.0224,-37.6961
+Princesa do Norte,-7.1791,-37.6955
+Barra Clara do Agreste,-7.0808,-37.6952
+Santa Teresinha das Flores,-7.8598,-37.6946
+Conceição do Campo,-7.1428,-37.6946
+Cachoeira de Cima,-7.2705,-37.6946
+Palmeira das Pedras,-6.2450,-37.6945
+Alagoa Grande do Horizonte,-8.0005,-37.6945
+Santa Rosa do Alto,-6.3404,-37.6937
+Misericórdia da Serra,-6.9916,-37.6929
+Maravilha dos Rios,-6.6142,-37.6924
+Alcantil das Águas,-6.8779,-37.6920
+Pau Ferro do Cruzeiro,-7.7336,-37.6918
+Águas Belas de Santa Luzia,-6.9440,-37.6911
+Campo Belo do Litoral,-6.4788,-37.6909
+Alagoa Grande,-7.9359,-37.6906
+Lagoa Seca das Flores,-7.4517,-37.6902
+Alto Branco do Brejo,-6.6729,-37.6895
+Riacho Verde dos Ventos,-7.9676,-37.6894
+Campo Grande,-8.1147,-37.6889
+Santo Antônio de Santa Luzia,-7.4582,-37.6755
+Soledade do Sítio,-6.3598,-37.6754
+Monte Belo do Carmo,-6.8814,-37.6747
+Fortaleza da Glória,-7.2636,-37.6745
+Cedro do Sertão,-8.1643,-37.6744
+Cristal de Fátima,-6.3030,-37.6734
+Vale Verde das Águas,-6.4215,-37.6734
+Independência da Serra,-6.0963,-37.6727
+Santa Cruz do Açude,-8.0796,-37.6723
+Cristal do Riacho,-6.6423,-37.6723
+Vera Cruz do Triunfo,-6.6088,-37.6722
+Horizonte da Fazenda,-6.5661,-37.6694
+São Bento dos Rios,-7.2265,-37.6692
+Alto da Serra do Leste,-7.4927,-37.6685
+São Vicente de Fátima,-7.9690,-37.6683
+Nova Vida do Curimataú,-6.5391,-37.6683
+Alto da Serra da Barra,-7.3112,-37.6676
+Aliança da Lagoa,-7.7055,-37.6674
+Rio Verde dos Rios,-6.2562,-37.6668
+Floresta do Alto,-7.5280,-37.6668
+Bom Sucesso dos Montes,-7.3885,-37.6664
+Barreira do Meio,-8.1213,-37.6662
+Soledade do Brejo,-6.7650,-37.6657
+Alto Branco,-7.7366,-37.6654
+União dos Rios,-7.3420,-37.6654
+Barra Clara da Várzea,-7.8609,-37.6651
+São Bento do Sertão,-7.1598,-37.6648
+Estrela da Serra Azul,-6.9934,-37.6641
+São Domingos da Lagoa,-7.6072,-37.6640
+União das Pedras,-7.9260,-37.6638
+Jerusalém do Leste,-6.1270,-37.6632
+Pilões dos Ventos,-7.7669,-37.6607
+São Bento do Leste,-6.4446,-37.6586
+Graça do Brejo,-6.6893,-37.6583
+Alto da Serra do Cruzeiro,-7.0368,-37.6582
+Floresta das Flores,-6.9122,-37.6579
+São Francisco do Sítio,-6.9422,-37.6570
+Paraíso da Serra Azul,-6.8261,-37.6565
+Rio Verde do Litoral,-7.0844,-37.6557
+Sossego da Serra Azul,-6.7324,-37.6556
+Conceição do Litoral,-6.1745,-37.6555
+Fátima do Sul,-6.7922,-37.6546
+São João da Esperança,-6.4849,-37.6540
+Serra Branca do Leste,-7.5805,-37.6538
+Cedro do Sul,-8.0382,-37.6535
+Graça da Cruz,-7.4236,-37.6534
+Serrote dos Montes,-6.3389,-37.6532
+Glória do Riacho,-8.0137,-37.6532
+Alcantil da Barra,-7.6591,-37.6522
+Rio Claro de Cima,-7.8985,-37.6522
+São Bento do Carmo,-7.8211,-37.6514
+Cedro da Fazenda,-7.1823,-37.6509
+Campo Grande do Sertão,-7.0980,-37.6504
+São Bento,-8.1094,-37.6357
+Pedra Lavrada,-7.8576,-37.6354
+Santa Luzia do Alto,-6.2830,-37.6352
+Riacho Verde do Vale,-7.5710,-37.6346
+Barra Bonita da Cruz,-7.6960,-37.6338
+Alto do Cruzeiro do Riacho,-7.8193,-37.6320
+Barreira da Cruz,-6.9472,-37.6320
+São Braz do Curimataú,-6.8799,-37.6315
+Independência da Barra,-6.4520,-37.6309
+Estrela das Águas,-6.2619,-37.6307
+São José da Paz,-8.0056,-37.6305
+Liberdade de Baixo,-7.6110,-37.6298
+Maravilha do Açude,-6.1089,-37.6298
+Santa Helena de Santa Luzia,-6.1722,-37.6296
+Alto da Serra do Cariri,-7.1533,-37.6296
+Piedade da Serra,-6.6319,-37.6280
+Fortaleza do Norte,-6.8395,-37.6275
+Riacho Fundo do Cariri,-7.5292,-37.6269
+Baraúna da Mata,-6.9907,-37.6268
+São João dos Ventos,-7.1956,-37.6261
+Prata da Lagoa,-7.4484,-37.6246
+Boa Esperança do Sul,-6.5651,-37.6238
+Campo Grande do Bom Jesus,-7.0779,-37.6236
+Água Branca do Agreste,-6.6913,-37.6235
+Ventura do Campo,-7.9275,-37.6232
+Nova Vida da Estrela,-8.1726,-37.6224
+Barra Grande do Leste,-8.0545,-37.6217
+Pedra Lavrada dos Ventos,-7.3036,-37.6216
+Salgadinho do Leste,-6.5361,-37.6211
+Graça dos Montes,-6.7635,-37.6209
+Candeias do Engenho,-6.4978,-37.6203
+Varjota do Vale,-8.0792,-37.6193
+Barra Clara da Cruz,-7.3884,-37.6192
+Santa Rosa da Mata,-7.6472,-37.6190
+Liberdade,-7.8798,-37.6185
+Santa Luzia do Agreste,-7.3518,-37.6185
+São Paulo do Litoral,-7.4933,-37.6185
+Vera Cruz do Brejo,-7.7795,-37.6180
+Palmeira da Barra,-6.7968,-37.6176
+Monte Alto do Cariri,-7.2384,-37.6171
+Alto do Cruzeiro da Serra Azul,-6.3281,-37.6166
+Olho d'Água do Carmo,-6.1360,-37.6164
+São Sebastião,-7.0989,-37.6158
+Água Doce do Carmo,-6.6117,-37.6158
+São Sebastião do Triunfo,-6.4067,-37.6145
+Carmo do Sítio,-7.4117,-37.6144
+Rio Verde da Fazenda,-7.0255,-37.6142
+Liberdade do Agreste,-7.2667,-37.6139
+Remígio de Baixo,-6.2201,-37.6135
+Águas Belas da Barra,-6.9116,-37.6127
+Pedra Branca dos Montes,-6.7096,-37.6120
+Monte Belo do Horizonte,-7.9589,-37.6115
+Soledade do Horizonte,-6.4899,-37.5968
+Salgadinho das Águas,-6.5644,-37.5961
+Nova Vida do Triunfo,-6.3717,-37.5956
+Independência das Águas,-6.1010,-37.5951
+Aliança do Agreste,-6.1500,-37.5948
+Alagoa Nova da Estrela,-6.7573,-37.5943
+Aroeira do Sítio,-6.4610,-37.5940
+Salgadinho de Cima,-7.1164,-37.5938
+Santa Maria do Triunfo,-7.4515,-37.5936
+Ipiranga do Triunfo,-6.4040,-37.5933
+Conceição do Curimataú,-6.6461,-37.5917
+Campo Belo de Santa Luzia,-6.9984,-37.5909
+Maravilha do Triunfo,-7.6934,-37.5907
+Bom Sucesso da Estrela,-7.0646,-37.5907
+Nova Vida das Pedras,-7.6649,-37.5902
+Água Branca do Cariri,-6.8272,-37.5887
+Estrela do Litoral,-8.1529,-37.5883
+Campo Belo dos Ventos,-7.2180,-37.5882
+Santo Antônio da Mata,-6.6913,-37.5877
+Bela Vista da Estrela,-7.7589,-37.5876
+São Vicente do Agreste,-7.7375,-37.5870
+Água Doce da Glória,-7.8467,-37.5861
+Riacho Fundo da Conceição,-7.6087,-37.5861
+Nova Aurora das Pedras,-8.0555,-37.5857
+Pilões da Estrela,-6.9475,-37.5849
+Maravilha do Leste,-7.8049,-37.5847
+Estrela do Bom Jesus,-7.4231,-37.5845
+Alagoa Nova do Sul,-6.5339,-37.5844
+Jardim da Paz,-7.5505,-37.5842
+Campo Grande da Lagoa,-7.2590,-37.5836
+Alto do Cruzeiro do Agreste,-7.5731,-37.5835
+Santo André de Nazaré,-7.2938,-37.5820
+Alto da Serra do Açude,-7.1382,-37.5810
+Alagoa Grande da Paz,-6.2235,-37.5808
+Cedro do Bom Jesus,-6.8670,-37.5804
+Serrote do Agreste,-8.0715,-37.5800
+Prata da Serra,-6.3294,-37.5798
+Estrela do Triunfo,-7.9327,-37.5797
+Luzia do Agreste,-7.8948,-37.5788
+Primavera da Estrela,-6.3011,-37.5783
+Rio Verde da Serra Azul,-6.1647,-37.5781
+União da Lua,-6.7977,-37.5781
+Lagoa Seca da Barra,-7.3865,-37.5779
+São José da Lagoa,-7.5040,-37.5774
+Campo Belo do Cruzeiro,-7.0258,-37.5774
+São Domingos da Mata,-6.7178,-37.5768
+Paraíso do Brejo,-8.0113,-37.5766
+São Lourenço,-8.1179,-37.5750
+Princesa do Cariri,-7.1942,-37.5738
+Glória das Águas,-7.3485,-37.5735
+Barreira do Leste,-7.9655,-37.5733
+Água Branca do Litoral,-6.6055,-37.5733
+Soledade da Várzea,-6.2601,-37.5725
+Glória de Santa Luzia,-8.1675,-37.5563
+Baraúna do Riacho,-6.1428,-37.5552
+Graça do Cruzeiro,-6.1857,-37.5549
+Caridade de Santa Luzia,-6.7164,-37.5546
+Alto da Serra do Agreste,-7.1012,-37.5530
+Liberdade do Sol,-7.3120,-37.5529
+Alto do Cruzeiro do Carmo,-8.0346,-37.5528
+Ipiranga da Conceição,-7.0767,-37.5522
+Glória da Mata,-7.2145,-37.5519
+Santa Helena do Bom Jesus,-6.6952,-37.5516
+Triunfo do Sul,-6.2588,-37.5515
+Sossego da Lagoa,-7.5852,-37.5508
+Misericórdia da Cruz,-6.8718,-37.5507
+Floresta do Cariri,-8.0141,-37.5507
+Triunfo de Cima,-7.1530,-37.5506
+São Lourenço das Águas,-7.5115,-37.5502
+São Sebastião do Açude,-6.2279,-37.5495
+Paraíso dos Rios,-7.0277,-37.5492
+Pau Ferro do Curimataú,-7.8928,-37.5485
+Triunfo da Barra,-7.6605,-37.5479
+Paraíso de Fátima,-7.6158,-37.5467
+Caridade das Águas,-7.1966,-37.5464
+Santa Maria do Cariri,-6.3336,-37.5454
+São Bento das Pedras,-6.3671,-37.5448
+Santa Rosa da Fazenda,-7.5502,-37.5446
+Liberdade dos Ventos,-6.8024,-37.5442
+Santa Luzia,-8.1213,-37.5437
+Alto Bonito do Campo,-7.9292,-37.5423
+Campo Belo da Estrela,-6.9202,-37.5418
+Fortaleza dos Montes,-6.1004,-37.5410
+Glória do Sítio,-6.5340,-37.5408
+Vera Cruz dos Rios,-6.3063,-37.5396
+Bom Jesus do Riacho,-6.9914,-37.5379
+Palmeira do Oeste,-6.6518,-37.5376
+Monte Alto da Cruz,-7.8525,-37.5373
+São Vicente do Sertão,-6.9457,-37.5369
+Nazaré da Cruz,-7.4172,-37.5364
+Nova Aurora do Horizonte,-7.4628,-37.5360
+Barreira da Lua,-7.7743,-37.5357
+São Braz das Águas,-6.6071,-37.5357
+Nova Aurora do Agreste,-6.4164,-37.5356
+Esperança do Sol,-7.2616,-37.5355
+Soledade do Riacho,-7.7369,-37.5354
+Bela Vista do Vale,-7.3378,-37.5353
+São José do Sertão,-6.4764,-37.5350
+Varjota da Várzea,-8.0739,-37.5348
+Mangabeira da Lua,-6.4497,-37.5345
+Cruz do Meio do Cariri,-7.8025,-37.5340
+Cristal do Meio,-6.5684,-37.5338
+Graça da Lagoa,-6.7537,-37.5335
+São Vicente do Vale,-7.7001,-37.5331
+Monte Belo do Bom Jesus,-7.3737,-37.5331
+Rio Claro de Nazaré,-7.9535,-37.5330
+Água Branca do Engenho,-6.8428,-37.5330
+Santa Fé dos Montes,-6.6448,-37.5194
+Barra Grande da Paz,-6.5331,-37.5194
+Nazaré da Serra Azul,-6.5679,-37.5189
+Serra Branca do Campo,-6.4488,-37.5180
+Tabuleiro da Fazenda,-6.8342,-37.5174
+Nova Esperança do Cruzeiro,-8.0166,-37.5174
+São Domingos de Baixo,-8.1286,-37.5173
+Rio Bonito da Glória,-7.7272,-37.5173
+Palmeira da Serra,-6.8015,-37.5165
+Alto do Cruzeiro,-7.6516,-37.5163
+Independência do Cruzeiro,-7.6073,-37.5161
+Candeias das Flores,-6.3592,-37.5158
+Independência do Litoral,-7.0748,-37.5141
+São João da Várzea,-7.1563,-37.5131
+Campo Belo do Brejo,-7.0346,-37.5131
+Canaã dos Montes,-6.5008,-37.5126
+Santa Maria do Açude,-7.3842,-37.5125
+Olho d'Água da Estrela,-7.4710,-37.5122
+Carmo das Águas,-6.9055,-37.5119
+Caridade da Serra Azul,-8.0888,-37.5112
+Serra Branca da Barra,-7.7658,-37.5111
+Cachoeira dos Montes,-6.1822,-37.5109
+Alto da Serra do Engenho,-6.2160,-37.5106
+São Geraldo do Sul,-6.9465,-37.5097
+Carmo de Cima,-7.8894,-37.5097
+Horizonte do Bom Jesus,-6.6857,-37.5082
+Maravilha da Paz,-7.3158,-37.5073
+Cachoeira do Bom Jesus,-7.3318,-37.5072
+Lagoa Seca do Açude,-6.2480,-37.5071
+Campo Grande da Mata,-6.5977,-37.5068
+Pilões de Cima,-6.3400,-37.5060
+Aurora da Cruz,-6.3052,-37.5060
+Vitória do Norte,-7.9359,-37.5055
+Fortaleza dos Rios,-7.5299,-37.5040
+Alcantil do Cruzeiro,-7.2294,-37.5035
+São Domingos de Fátima,-6.1447,-37.5033
+Alagoa Nova do Campo,-7.9776,-37.5024
+Redenção de Baixo,-6.8663,-37.5010
+Conceição do Sertão,-6.9884,-37.5010
+Maravilha do Meio,-7.1866,-37.5009
+Monte Alto de Fátima,-7.4926,-37.5009
+Lagoa Seca das Pedras,-7.4303,-37.4990
+Nova Vida do Agreste,-6.4142,-37.4988
+São Miguel da Fazenda,-7.6995,-37.4987
+Alegria do Oeste,-8.1621,-37.4978
+Alagoa Nova da Esperança,-7.8606,-37.4975
+Pedra Branca do Vale,-7.8221,-37.4975
+Monte Alto do Meio,-7.1153,-37.4969
+São Domingos,-8.0370,-37.4962
+Nova Aurora dos Ventos,-7.2704,-37.4956
+Jerusalém dos Rios,-7.5744,-37.4954
+Serra Verde da Serra Azul,-6.1072,-37.4953
+Nazaré do Agreste,-6.7181,-37.4948
+Barra Clara do Açude,-6.7649,-37.4939
+Alto Branco do Oeste,-6.5641,-37.4798
+Santo Antônio da Serra,-6.4608,-37.4795
+Maravilha da Conceição,-6.1833,-37.4788
+Nova Esperança dos Rios,-7.8072,-37.4782
+Monte Verde de Fátima,-7.2787,-37.4782
+Alcantil do Meio,-6.7490,-37.4777
+Rio Verde do Agreste,-7.3449,-37.4771
+Primavera do Açude,-7.8581,-37.4764
+Boa Esperança da Paz,-6.5954,-37.4764
+Paraíso do Cariri,-6.3427,-37.4763
+Barra Bonita do Riacho,-6.4762,-37.4762
+Palmeira da Várzea,-6.3718,-37.4756
+Monte Verde do Campo,-6.2905,-37.4754
+Glória da Lagoa,-7.1877,-37.4743
+Olho d'Água do Litoral,-6.7213,-37.4739
+São Domingos da Estrela,-7.3742,-37.4738
+Conceição da Lua,-8.0035,-37.4730
+Aliança do Cruzeiro,-7.1436,-37.4729
+São Francisco do Açude,-7.8982,-37.4728
+Umbuzeiro da Várzea,-7.6458,-37.4724
+Paraíso do Horizonte,-6.9245,-37.4722
+Fátima do Triunfo,-7.0362,-37.4714
+Independência dos Ventos,-7.5436,-37.4713
+Serra Verde do Oeste,-8.1197,-37.4711
+Pilões de Nazaré,-7.7252,-37.4710
+Monte Alto de Baixo,-7.9283,-37.4705
+Barra Grande do Brejo,-8.1694,-37.4696
+Rio Verde do Brejo,-7.5050,-37.4695
+Baraúna do Oeste,-7.3085,-37.4675
+Fátima do Sol,-6.8732,-37.4663
+Nova Esperança do Horizonte,-6.9886,-37.4663
+Nova Aurora do Meio,-6.4137,-37.4654
+Aurora do Leste,-6.2145,-37.4645
+Alegria do Triunfo,-6.9450,-37.4632
+Maravilha do Sítio,-6.1047,-37.4617
+Alto Branco do Horizonte,-7.6190,-37.4616
+Monte Verde do Agreste,-6.2622,-37.4615
+Candeias do Cruzeiro,-6.8071,-37.4614
+Bom Jesus do Curimataú,-7.6826,-37.4610
+Jerusalém do Litoral,-7.4675,-37.4606
+Santo Antônio dos Ventos,-6.1354,-37.4598
+Riacho Fundo do Sul,-7.0707,-37.4594
+Nova Vida do Cruzeiro,-7.2169,-37.4591
+Triunfo do Horizonte,-7.1021,-37.4581
+Rio Claro do Sol,-6.6854,-37.4575
+Estrela do Campo,-8.0496,-37.4568
+Cachoeira da Estrela,-7.7641,-37.4564
+Pau Ferro das Pedras,-7.5778,-37.4562
+Santo André do Meio,-7.4135,-37.4559
+Barra Clara do Horizonte,-7.9666,-37.4558
+Boa Esperança do Bom Jesus,-6.8262,-37.4556
+Santa Teresinha do Bom Jesus,-6.5366,-37.4551
+Vitória de Santa Luzia,-6.6468,-37.4549
+Cruz do Meio da Cruz,-8.0709,-37.4549
+Serra Azul da Várzea,-7.3341,-37.4414
+Sossego do Açude,-7.8580,-37.4412
+Santa Luzia da Glória,-7.5499,-37.4397
+Vitória de Nazaré,-7.3853,-37.4397
+Fortaleza de Nazaré,-6.4026,-37.4390
+Redenção do Oeste,-7.4104,-37.4387
+Salgadinho do Carmo,-8.0381,-37.4379
+Santa Cruz da Glória,-7.4539,-37.4375
+Misericórdia da Fazenda,-7.1837,-37.4366
+Palmeira do Norte,-7.0612,-37.4344
+Santo André da Mata,-7.5082,-37.4342
+Horizonte da Conceição,-7.2934,-37.4335
+Riacho Fundo do Engenho,-7.6182,-37.4335
+Maravilha do Cariri,-6.8656,-37.4333
+Aliança do Riacho,-8.0902,-37.4332
+Alto Bonito do Horizonte,-7.1586,-37.4328
+Serra Branca do Litoral,-6.5218,-37.4328
+Barra Grande do Bom Jesus,-6.1833,-37.4321
+Monte Alto da Fazenda,-6.9167,-37.4317
+União de Santa Luzia,-6.5005,-37.4292
+Soledade do Oeste,-7.9572,-37.4290
+Aroeira da Fazenda,-6.2533,-37.4288
+Riacho Verde do Oeste,-7.6866,-37.4286
+Boa Esperança de Cima,-7.2758,-37.4286
+Baraúna da Serra,-7.8880,-37.4273
+Primavera do Oeste,-6.7894,-37.4266
+Águas Belas do Campo,-7.0241,-37.4264
+São Sebastião da Serra,-7.8047,-37.4263
+Alagoa Nova do Bom Jesus,-6.4490,-37.4262
+Soledade do Agreste,-8.1707,-37.4260
+Fátima do Horizonte,-6.6454,-37.4258
+Lagoa Seca da Glória,-6.7260,-37.4252
+São Judas do Agreste,-6.0974,-37.4245
+Princesa de Nazaré,-7.5834,-37.4234
+Flores do Engenho,-6.2917,-37.4232
+Prata de Baixo,-6.5635,-37.4228
+Alto Alegre do Campo,-7.1224,-37.4225
+Jerusalém do Campo,-6.3242,-37.4222
+Palmeira da Conceição,-7.9966,-37.4222
+Liberdade do Leste,-7.7318,-37.4221
+Palmeira do Bom Jesus,-6.6000,-37.4220
+Nazaré,-6.2266,-37.4215
+Serra Verde do Horizonte,-6.9655,-37.4210
+Caridade da Glória,-6.3670,-37.4209
+Flores da Serra Azul,-7.9310,-37.4206
+Santa Rosa de Baixo,-6.6841,-37.4197
+Cristal do Cruzeiro,-8.1127,-37.4193
+Terra Nova das Pedras,-6.8404,-37.4189
+Triunfo dos Ventos,-6.7480,-37.4184
+Redenção,-7.6591,-37.4182
+Santa Teresinha dos Ventos,-7.7749,-37.4164
+Prata da Glória,-7.0004,-37.4164
+Alto da Serra da Glória,-6.1304,-37.4163
+São Sebastião do Bom Jesus,-7.2249,-37.4162
+Monte Verde do Horizonte,-7.6979,-37.4023
+Água Doce das Águas,-6.0947,-37.4021
+Boa Esperança da Várzea,-6.6348,-37.4018
+Alagoa Nova da Glória,-7.7259,-37.4001
+Barreira do Vale,-7.1547,-37.3995
+Salgadinho do Cruzeiro,-6.6036,-37.3995
+Serra Branca do Triunfo,-8.1564,-37.3995
+Barra do Rio de Cima,-7.3130,-37.3988
+Sossego dos Rios,-7.5795,-37.3985
+Barra do Rio do Alto,-6.9075,-37.3980
+Barreira do Açude,-6.8493,-37.3977
+Prata da Serra Azul,-6.3423,-37.3976
+Nova Aurora da Cruz,-6.3594,-37.3971
+Campo Belo do Sertão,-6.7714,-37.3969
+Pedra Branca do Carmo,-7.4700,-37.3956
+Triunfo do Brejo,-7.5497,-37.3955
+Serra Grande do Campo,-8.0798,-37.3946
+Santa Fé da Conceição,-6.2174,-37.3945
+Alto Alegre da Fazenda,-7.9566,-37.3941
+Ipiranga do Sul,-6.4001,-37.3937
+São Braz de Nazaré,-7.3409,-37.3935
+São Francisco do Agreste,-6.8735,-37.3934
+Aliança do Meio,-6.5306,-37.3930
+São Vicente do Norte,-7.4957,-37.3926
+Alto do Cruzeiro das Águas,-7.0411,-37.3923
+Água Branca das Flores,-7.1009,-37.3911
+São Paulo do Sol,-7.6550,-37.3905
+Barra do Rio da Serra Azul,-8.1292,-37.3898
+Pedra Lavrada da Paz,-6.1309,-37.3898
+Cruz do Meio da Conceição,-8.0017,-37.3890
+Glória da Lua,-6.9432,-37.3889
+Lagoa Seca do Horizonte,-7.2396,-37.3885
+São Domingos da Cruz,-6.4947,-37.3883
+Jerusalém da Serra,-7.9174,-37.3879
+Umbuzeiro do Campo,-8.0484,-37.3866
+Salgadinho do Litoral,-7.8037,-37.3865
+Serra Azul,-6.5636,-37.3859
+Mangabeira de Fátima,-7.0718,-37.3853
+Monte Verde das Flores,-6.1805,-37.3850
+Canaã do Sertão,-6.6821,-37.3840
+São Pedro do Sertão,-7.8502,-37.3840
+Alcantil das Flores,-6.2949,-37.3836
+Carmo de Fátima,-6.9881,-37.3833
+Lagoa Seca do Engenho,-7.6077,-37.3832
+Umbuzeiro do Carmo,-6.7344,-37.3832
+Prata do Sul,-7.7632,-37.3831
+Maravilha do Oeste,-6.8062,-37.3814
+São Bento do Norte,-6.4511,-37.3814
+Alcantil da Cruz,-7.2706,-37.3796
+Barra Clara do Cruzeiro,-7.8762,-37.3796
+Pau Ferro da Fazenda,-7.2009,-37.3795
+Bela Vista do Agreste,-6.2464,-37.3794
+Aurora da Conceição,-7.4328,-37.3792
+Serra Grande do Cruzeiro,-7.3842,-37.3786
+Cedro dos Ventos,-8.1343,-37.3631
+Alcantil da Várzea,-6.2129,-37.3619
+Alagoa Nova do Alto,-7.8874,-37.3618
+Cruz do Meio do Brejo,-7.5264,-37.3614
+Jardim do Cruzeiro,-7.9639,-37.3614
+São Miguel do Litoral,-7.6241,-37.3609
+Serra Grande dos Rios,-7.6879,-37.3605
+Serra Verde da Mata,-6.9441,-37.3596
+Caridade do Bom Jesus,-7.9331,-37.3584
+Santa Fé do Leste,-6.2907,-37.3563
+Alcantil do Sítio,-7.8157,-37.3560
+São Pedro do Meio,-7.0380,-37.3557
+Bom Jesus do Engenho,-6.4855,-37.3551
+Prata do Oeste,-6.4373,-37.3549
+Santa Maria do Horizonte,-6.1870,-37.3542
+Glória da Várzea,-7.3556,-37.3529
+São Paulo do Oeste,-8.1577,-37.3529
+Santa Maria do Oeste,-6.8650,-37.3523
+Monte Alto do Engenho,-6.6710,-37.3520
+Bom Jesus da Várzea,-7.3724,-37.3515
+Lagoa Seca do Brejo,-6.3377,-37.3515
+Pedra Lavrada do Agreste,-6.1353,-37.3513
+Canaã da Conceição,-6.7947,-37.3510
+Alegria do Sítio,-7.7680,-37.3510
+Serrote do Riacho,-6.0888,-37.3502
+Serrote de Nazaré,-7.4290,-37.3501
+Cedro do Engenho,-7.1445,-37.3499
+Paraíso da Várzea,-7.6657,-37.3497
+Fátima do Cariri,-7.4693,-37.3497
+Tabuleiro do Sol,-6.5294,-37.3486
+Estrela do Vale,-6.7587,-37.3479
+Rio Bonito do Sertão,-6.4101,-37.3474
+São Paulo do Sítio,-6.6457,-37.3467
+Canaã da Várzea,-6.8379,-37.3467
+Bom Sucesso do Sertão,-6.2539,-37.3457
+Serra Grande do Litoral,-6.5575,-37.3440
+Mangabeira do Açude,-6.9114,-37.3436
+Umbuzeiro do Engenho,-7.0775,-37.3429
+Serra Azul do Engenho,-7.2264,-37.3427
+Santo André do Engenho,-7.2687,-37.3426
+Maravilha de Fátima,-8.0107,-37.3425
+Primavera do Cariri,-7.5862,-37.3424
+Santo André do Brejo,-7.7322,-37.3419
+Monte Belo da Cruz,-7.1945,-37.3418
+Alegria do Litoral,-7.1216,-37.3417
+São José do Meio,-8.0531,-37.3411
+São Lourenço do Campo,-6.7120,-37.3411
+Serra Verde da Paz,-7.3141,-37.3399
+Alegria de Nazaré,-6.3741,-37.3398
+Santo Antônio da Estrela,-6.9842,-37.3393
+Lagoa Seca de Santa Luzia,-7.4946,-37.3392
+Palmeira do Sítio,-7.8466,-37.3389
+Piedade da Estrela,-6.6093,-37.3383
+Candeias da Esperança,-8.0759,-37.3378
+São Geraldo da Esperança,-7.6862,-37.3238
+Vitória do Engenho,-6.7648,-37.3235
+Santa Maria dos Montes,-7.8493,-37.3230
+Piedade das Águas,-7.4712,-37.3225
+Ventura da Estrela,-7.5765,-37.3208
+Paraíso do Alto,-7.2649,-37.3198
+Cristal do Leste,-7.6089,-37.3197
+Alto Branco do Leste,-6.9649,-37.3188
+Flores do Meio,-6.2229,-37.3178
+Pedra Branca da Serra Azul,-7.2380,-37.3177
+Santa Luzia da Lagoa,-7.6641,-37.3175
+Pedra Lavrada do Cruzeiro,-6.8894,-37.3175
+Triunfo de Fátima,-6.2510,-37.3166
+Estrela do Horizonte,-8.1722,-37.3161
+Olho d'Água de Cima,-6.3437,-37.3161
+Horizonte dos Montes,-6.1728,-37.3160
+Prata da Esperança,-6.4618,-37.3157
+Terra Nova do Alto,-6.8428,-37.3156
+Vitória do Sul,-8.0935,-37.3154
+Riacho Verde da Serra,-7.3009,-37.3148
+Nova Esperança de Baixo,-6.9843,-37.3146
+São João do Horizonte,-6.4894,-37.3145
+Lagoa Seca da Conceição,-6.7266,-37.3144
+Pedra Branca de Santa Luzia,-7.1968,-37.3138
+Misericórdia do Meio,-8.1213,-37.3135
+Monte Belo de Baixo,-6.6069,-37.3134
+Redenção da Paz,-7.7358,-37.3128
+Barra Grande da Cruz,-8.0342,-37.3124
+Campo Belo do Sul,-7.0991,-37.3121
+Serra Branca do Curimataú,-6.4187,-37.3116
+Jardim do Leste,-6.5219,-37.3113
+Carmo da Serra,-6.5700,-37.3109
+São Bento do Oeste,-6.0996,-37.3108
+Mangabeira do Campo,-6.9048,-37.3105
+Barra Grande do Campo,-6.1436,-37.3104
+São Vicente das Águas,-7.0283,-37.3086
+São Bento do Curimataú,-7.3759,-37.3085
+Umbuzeiro da Fazenda,-6.8101,-37.3083
+Nova Esperança da Serra,-7.3368,-37.3082
+Luzia da Barra,-7.8133,-37.3069
+Palmeira do Carmo,-7.4878,-37.3068
+São Miguel dos Montes,-7.0648,-37.3064
+Piedade de Santa Luzia,-6.6494,-37.3057
+Paraíso do Campo,-7.9943,-37.3055
+Serra Grande da Lagoa,-7.9690,-37.3048
+Barra Bonita do Sol,-7.7635,-37.3046
+Palmeira do Brejo,-7.1506,-37.3034
+Pedra Lavrada do Litoral,-7.5356,-37.3028
+Nova Aurora do Vale,-6.6792,-37.3024
+Riacho Verde do Leste,-6.3736,-37.3022
+São Judas das Flores,-7.4233,-37.3006
+Pau Ferro do Horizonte,-7.9210,-37.3001
+São Geraldo do Carmo,-7.8889,-37.2998
+Liberdade do Sul,-6.2913,-37.2988
+Serra Branca do Horizonte,-7.2610,-37.2843
+Olho d'Água do Açude,-7.9946,-37.2840
+Santa Teresinha da Paz,-8.1481,-37.2830
+Princesa do Litoral,-7.8024,-37.2830
+Barra do Rio do Meio,-7.8864,-37.2830
+Rio Claro da Serra,-7.0753,-37.2829
+Santo Antônio das Águas,-6.8404,-37.2823
+Santa Fé do Brejo,-6.3734,-37.2822
+Ipiranga das Flores,-6.1827,-37.2821
+Pau Ferro de Fátima,-6.9865,-37.2814
+Bela Vista do Meio,-8.0754,-37.2808
+Santa Helena do Oeste,-6.7237,-37.2806
+Tabuleiro de Cima,-7.9314,-37.2806
+Serrote,-6.2240,-37.2799
+Serra Grande do Açude,-7.1415,-37.2796
+São Sebastião do Sul,-6.4830,-37.2792
+Barra do Rio de Nazaré,-7.6960,-37.2784
+Alto Bonito do Bom Jesus,-6.3326,-37.2778
+Luzia da Serra Azul,-7.5364,-37.2770
+Barra Clara da Serra Azul,-6.9582,-37.2763
+Riacho Verde da Esperança,-6.6343,-37.2755
+Santa Helena do Cruzeiro,-6.4097,-37.2755
+Águas Belas da Mata,-7.4278,-37.2753
+Varjota do Carmo,-7.9673,-37.2753
+Primavera do Brejo,-7.3954,-37.2746
+São Judas da Serra Azul,-6.5762,-37.2745
+São Braz do Vale,-7.3488,-37.2743
+Santa Fé de Baixo,-7.6671,-37.2736
+Santo Antônio dos Rios,-7.4603,-37.2726
+Estrela do Riacho,-7.2247,-37.2719
+Misericórdia da Barra,-6.5945,-37.2718
+Rio Bonito do Norte,-6.8018,-37.2714
+Alto do Cruzeiro da Estrela,-8.0557,-37.2703
+Triunfo de Nazaré,-6.7624,-37.2695
+Santa Rosa dos Montes,-7.6038,-37.2691
+Sossego da Fazenda,-7.2951,-37.2688
+São Judas da Várzea,-6.5356,-37.2686
+Piedade da Fazenda,-6.6758,-37.2678
+Nova Aurora das Águas,-7.1789,-37.2678
+Aurora de Cima,-6.2661,-37.2675
+Carmo do Triunfo,-8.1281,-37.2672
+Palmeira do Leste,-6.3003,-37.2669
+Vera Cruz do Sertão,-7.4999,-37.2662
+Ventura da Conceição,-7.1090,-37.2661
+Santa Teresinha do Sertão,-7.7299,-37.2655
+Esperança das Flores,-6.1020,-37.2653
+Santa Teresinha da Conceição,-6.1418,-37.2640
+Princesa do Engenho,-7.5761,-37.2631
+Rio Bonito do Bom Jesus,-7.8573,-37.2630
+Soledade da Barra,-6.4567,-37.2618
+Vera Cruz da Estrela,-7.0280,-37.2612
+Nova Aurora do Campo,-6.8652,-37.2604
+São Sebastião de Santa Luzia,-6.9135,-37.2601
+Vale Verde do Riacho,-7.7773,-37.2598
+Cristal da Lagoa,-7.2987,-37.2452
+Santa Fé do Açude,-6.8819,-37.2444
+Boa Esperança de Fátima,-6.7105,-37.2437
+Terra Nova do Açude,-6.3448,-37.2433
+Cachoeira do Sertão,-6.9971,-37.2424
+São Judas de Santa Luzia,-7.9196,-37.2421
+Conceição dos Montes,-6.9158,-37.2416
+Tabuleiro do Açude,-7.0347,-37.2412
+Cruz do Meio do Meio,-8.0900,-37.2411
+Nazaré da Várzea,-7.7729,-37.2410
+São Braz do Triunfo,-6.0981,-37.2405
+Graça do Oeste,-6.4119,-37.2404
+Alagoa Nova da Fazenda,-7.7372,-37.2401
+Graça,-7.6641,-37.2393
+Canaã dos Rios,-7.1518,-37.2383
+Redenção do Sertão,-7.3896,-37.2382
+Floresta da Conceição,-6.4767,-37.2380
+Santa Rosa da Lagoa,-8.0141,-37.2375
+Alto Alegre do Sul,-6.9462,-37.2360
+Alcantil da Esperança,-6.6917,-37.2359
+São Pedro do Leste,-7.2762,-37.2345
+Alto da Serra do Horizonte,-7.8101,-37.2344
+Luzia do Horizonte,-7.8599,-37.2340
+São Miguel do Sul,-7.6185,-37.2336
+Barra Clara do Vale,-6.2911,-37.2336
+Alto da Serra da Mata,-7.4530,-37.2325
+Barra Bonita do Alto,-8.1304,-37.2321
+Lagoa Seca da Fazenda,-7.1182,-37.2318
+Santa Luzia da Lua,-6.4457,-37.2316
+Nazaré do Bom Jesus,-6.1471,-37.2315
+Barreira de Cima,-6.7577,-37.2313
+Pau Ferro do Cariri,-7.5275,-37.2312
+Pilões do Sítio,-6.2641,-37.2309
+Triunfo de Santa Luzia,-6.8040,-37.2296
+Rio Verde do Açude,-7.2345,-37.2294
+Nova Esperança da Estrela,-7.1793,-37.2290
+Águas Belas da Fazenda,-6.5244,-37.2281
+Alto Alegre do Litoral,-7.8783,-37.2277
+Terra Nova da Barra,-7.4915,-37.2263
+Ipiranga do Horizonte,-6.2101,-37.2260
+Princesa do Agreste,-7.6955,-37.2255
+Campo Belo da Várzea,-6.8372,-37.2255
+Maravilha do Sertão,-8.1554,-37.2245
+Vale Verde do Brejo,-8.0529,-37.2245
+São Geraldo de Fátima,-7.4331,-37.2241
+Bela Vista da Serra,-6.5760,-37.2238
+Varjota da Cruz,-7.9707,-37.2236
+Cristal dos Rios,-6.3661,-37.2232
+Santo Antônio de Nazaré,-6.1862,-37.2227
+Alto Branco da Lagoa,-7.5899,-37.2223
+Jardim de Baixo,-7.3340,-37.2219
+Fátima da Esperança,-7.0724,-37.2215
+Barra Grande da Lua,-6.6523,-37.2214
+Alagoa Grande do Norte,-6.5989,-37.2212
+Misericórdia do Horizonte,-8.0927,-37.2069
+Barra Clara do Bom Jesus,-6.3240,-37.2069
+São Judas do Sítio,-6.5317,-37.2065
+Floresta da Barra,-6.5538,-37.2061
+Bom Jesus da Glória,-7.3045,-37.2055
+Serra Verde do Brejo,-8.0467,-37.2055
+Carmo do Meio,-6.8839,-37.2049
+Prata do Litoral,-6.1705,-37.2047
+Pilões das Pedras,-7.3386,-37.2047
+São Sebastião da Lagoa,-6.1114,-37.2042
+Piedade da Lagoa,-7.4281,-37.2039
+Paraíso de Cima,-6.8424,-37.2031
+Redenção de Santa Luzia,-7.5867,-37.2022
+Santa Fé das Pedras,-6.4191,-37.2015
+Jardim da Esperança,-6.4906,-37.2014
+São João do Sertão,-6.6007,-37.1999
+Alagoa Nova de Fátima,-6.9182,-37.1995
+Monte Verde da Esperança,-6.3591,-37.1993
+São Vicente da Várzea,-6.1406,-37.1991
+Prata do Agreste,-7.6880,-37.1985
+Santa Luzia dos Ventos,-7.6264,-37.1980
+São Lourenço da Mata,-7.2648,-37.1978
+Tabuleiro da Cruz,-6.2922,-37.1976
+Maravilha de Nazaré,-6.4504,-37.1968
+Prata do Curimataú,-6.6435,-37.1965
+Princesa do Riacho,-7.0043,-37.1959
+Misericórdia de Santa Luzia,-7.8884,-37.1959
+São Paulo de Fátima,-6.9514,-37.1959
+São Lourenço da Esperança,-7.7231,-37.1953
+Nazaré de Baixo,-6.6836,-37.1949
+Santa Helena da Mata,-8.1513,-37.1946
+Água Branca do Leste,-6.2107,-37.1936
+Mangabeira da Serra,-7.2168,-37.1936
+Água Branca da Serra Azul,-8.0028,-37.1916
+Jerusalém do Sítio,-7.6467,-37.1914
+Prata do Norte,-7.0724,-37.1911
+Luzia do Meio,-7.7703,-37.1908
+Floresta dos Montes,-7.9271,-37.1896
+Terra Nova do Bom Jesus,-7.4669,-37.1885
+Maravilha da Lagoa,-7.8076,-37.1879
+Alegria do Cruzeiro,-7.5461,-37.1878
+Santa Fé de Santa Luzia,-7.1233,-37.1869
+Piedade do Leste,-7.5072,-37.1864
+Pilões,-7.1891,-37.1860
+Ventura da Fazenda,-8.1148,-37.1859
+Campo Grande da Serra,-7.9582,-37.1851
+Serra Branca da Paz,-7.1606,-37.1848
+Glória do Horizonte,-7.8497,-37.1841
+Piedade da Mata,-6.7877,-37.1838
+Tabuleiro das Pedras,-6.2429,-37.1837
+Boa Esperança do Carmo,-7.0347,-37.1834
+Liberdade do Açude,-6.7141,-37.1832
+Esperança da Estrela,-7.3857,-37.1825
+Santa Helena de Cima,-6.7522,-37.1817
+Alagoa Nova do Meio,-6.6408,-37.1675
+Ventura do Sul,-7.8391,-37.1673
+Barra Grande do Sertão,-6.5305,-37.1664
+Serra Azul da Cruz,-6.1710,-37.1658
+Santo Antônio do Oeste,-6.9619,-37.1657
+São Judas do Brejo,-7.1095,-37.1651
+Serra Azul do Agreste,-6.0917,-37.1646
+Água Doce de Baixo,-7.8955,-37.1639
+Pedra Lavrada do Campo,-7.9196,-37.1639
+Bela Vista do Norte,-7.0406,-37.1638
+São Miguel do Sol,-7.9734,-37.1635
+Alagoa Nova da Conceição,-7.7722,-37.1632
+Alto Bonito de Cima,-6.3277,-37.1630
+Olho d'Água de Nazaré,-6.4939,-37.1629
+Soledade das Flores,-6.7622,-37.1629
+Alegria do Riacho,-7.1984,-37.1628
+Rio Verde da Lagoa,-8.1262,-37.1622
+Redenção do Carmo,-6.7908,-37.1614
+São Paulo do Carmo,-7.6429,-37.1603
+Caridade do Meio,-6.3672,-37.1600
+Santa Luzia do Sol,-7.7385,-37.1600
+Monte Belo do Vale,-7.6902,-37.1589
+Alto Alegre das Flores,-8.0338,-37.1586
+Campo Belo dos Montes,-6.2087,-37.1574
+Aurora dos Ventos,-6.2665,-37.1572
+Rio Claro da Mata,-6.9058,-37.1562
+Alagoa Grande do Riacho,-7.1436,-37.1559
+Esperança de Santa Luzia,-6.2930,-37.1559
+Santa Luzia dos Rios,-7.3396,-37.1544
+Barreira das Flores,-7.2942,-37.1543
+Alcantil do Açude,-7.5057,-37.1543
+Candeias da Barra,-7.8074,-37.1542
+São Pedro da Várzea,-7.4655,-37.1541
+Barra Grande do Norte,-7.3846,-37.1536
+Varjota do Meio,-7.5854,-37.1524
+Alto Alegre do Alto,-6.9934,-37.1520
+Barra Clara da Paz,-6.8476,-37.1504
+Maravilha da Glória,-7.2150,-37.1500
+Candeias das Águas,-6.6727,-37.1482
+Campo Belo da Fazenda,-7.2672,-37.1481
+Aroeira de Cima,-7.0678,-37.1476
+Serra Azul do Sol,-8.1566,-37.1470
+São Pedro das Águas,-6.4027,-37.1465
+São Domingos da Conceição,-7.5326,-37.1465
+Salgadinho da Fazenda,-7.6242,-37.1462
+Aliança da Cruz,-6.5708,-37.1453
+São Francisco do Cruzeiro,-6.8728,-37.1449
+Alto Bonito do Vale,-6.1498,-37.1447
+Alto Alegre das Pedras,-7.4253,-37.1446
+Pedra Lavrada do Carmo,-6.4556,-37.1444
+Santa Maria das Águas,-6.7311,-37.1437
+Água Branca da Serra,-8.0783,-37.1436
+Ipiranga da Lagoa,-6.6124,-37.1432
+Vera Cruz do Curimataú,-6.7687,-37.1285
+Monte Belo do Engenho,-6.9113,-37.1280
+Aliança dos Montes,-6.4761,-37.1275
+São Judas de Baixo,-6.1294,-37.1272
+São Bento da Cruz,-7.0764,-37.1264
+Esperança dos Montes,-6.7108,-37.1258
+São Domingos do Curimataú,-6.8074,-37.1252
+Pau Ferro de Baixo,-7.4174,-37.1247
+Cedro do Sol,-6.6038,-37.1246
+Ventura do Meio,-7.9296,-37.1244
+Jerusalém da Barra,-7.8990,-37.1244
+Esperança de Cima,-6.1664,-37.1238
+Ipiranga do Leste,-7.8068,-37.1228
+Mangabeira da Glória,-7.4609,-37.1223
+Estrela do Carmo,-7.6638,-37.1223
+Luzia das Flores,-7.9973,-37.1207
+Cruz do Meio da Lua,-6.4216,-37.1202
+São Sebastião do Sertão,-6.2037,-37.1200
+Fortaleza dos Ventos,-7.6966,-37.1197
+Santa Rosa do Vale,-7.5325,-37.1192
+Barra Grande da Esperança,-7.5724,-37.1183
+São Lourenço de Nazaré,-7.3549,-37.1177
+Santa Cruz do Curimataú,-7.9624,-37.1174
+Santo André da Serra,-8.1564,-37.1172
+Santa Maria,-7.5102,-37.1171
+Água Branca do Sítio,-6.9840,-37.1169
+São Braz de Santa Luzia,-7.1169,-37.1169
+Serra Branca de Nazaré,-7.7410,-37.1169
+Alto da Serra dos Ventos,-6.0967,-37.1161
+Palmeira da Cruz,-7.2269,-37.1158
+Nova Vida do Leste,-6.9646,-37.1155
+Serra Grande da Conceição,-7.2666,-37.1154
+Vera Cruz do Bom Jesus,-6.8309,-37.1144
+São Paulo do Leste,-6.4521,-37.1142
+Triunfo do Carmo,-6.3597,-37.1124
+São Lourenço da Estrela,-7.3162,-37.1118
+Princesa da Esperança,-6.3360,-37.1112
+Santa Teresinha da Serra Azul,-6.2584,-37.1112
+Soledade do Campo,-6.5246,-37.1110
+Canaã do Oeste,-6.6395,-37.1110
+Olho d'Água do Agreste,-6.5769,-37.1097
+Fátima da Conceição,-7.0268,-37.1096
+Santo Antônio da Serra Azul,-7.7763,-37.1094
+Barra do Rio do Sul,-7.8618,-37.1082
+São Judas do Campo,-7.1976,-37.1082
+Luzia do Curimataú,-8.0863,-37.1075
+Salgadinho dos Montes,-6.2823,-37.1073
+Terra Nova do Triunfo,-8.0482,-37.1071
+Cedro do Oeste,-6.8893,-37.1056
+Riacho Verde do Horizonte,-7.3822,-37.1051
+Estrela do Brejo,-7.6245,-37.1040
+Barra Grande do Agreste,-8.1157,-37.1039
+Monte Alto do Oeste,-6.6896,-37.1039
+Barra Clara do Carmo,-7.1519,-37.1037
+Jardim de Fátima,-6.1107,-37.0898
+Água Doce da Esperança,-6.9219,-37.0896
+Nova Aurora da Esperança,-7.1180,-37.0895
+Redenção da Mata,-7.9973,-37.0880
+Paraíso do Triunfo,-6.8479,-37.0875
+Pedra Branca da Barra,-6.4402,-37.0868
+Alagoa Grande da Serra,-7.6096,-37.0863
+Barra Grande do Sul,-6.4962,-37.0862
+Campo Grande da Barra,-7.5442,-37.0855
+Mangabeira do Sol,-6.1425,-37.0848
+Graça da Conceição,-7.8992,-37.0845
+Sossego dos Ventos,-7.2351,-37.0843
+Mangabeira do Horizonte,-8.0936,-37.0838
+Primavera do Engenho,-7.4320,-37.0826
+Barra do Rio da Estrela,-6.7204,-37.0825
+Primavera,-6.5995,-37.0822
+Barra Clara do Campo,-7.7610,-37.0822
+São Pedro do Norte,-7.3754,-37.0812
+São José da Fazenda,-7.9776,-37.0799
+Independência do Sul,-7.9361,-37.0793
+Nova Esperança do Açude,-6.5748,-37.0778
+Prata de Cima,-7.6471,-37.0777
+São Miguel do Triunfo,-7.8614,-37.0763
+Fortaleza da Paz,-7.7448,-37.0761
+Santa Luzia do Açude,-7.1845,-37.0760
+Ventura do Açude,-8.0562,-37.0759
+Águas Belas da Lagoa,-6.3390,-37.0758
+Cruz do Meio de Baixo,-7.5764,-37.0755
+Ventura do Curimataú,-6.9863,-37.0749
+São Bento de Nazaré,-7.2985,-37.0746
+Caridade dos Ventos,-7.4617,-37.0732
+Princesa do Açude,-8.1211,-37.0719
+Cedro do Triunfo,-7.3371,-37.0718
+Riacho Verde das Águas,-6.6418,-37.0710
+Pedra Branca de Baixo,-6.9541,-37.0705
+Campo Belo da Lagoa,-6.6792,-37.0704
+Água Doce de Cima,-6.3753,-37.0702
+Santo Antônio do Triunfo,-6.5348,-37.0701
+Rio Claro da Paz,-6.2052,-37.0699
+Vale Verde do Cariri,-6.2825,-37.0693
+Olho d'Água do Cariri,-6.4031,-37.0692
+Remígio do Riacho,-8.1555,-37.0691
+Soledade do Sul,-7.2757,-37.0682
+Santa Teresinha do Açude,-6.1663,-37.0680
+Misericórdia do Agreste,-6.2509,-37.0678
+Jardim da Barra,-7.5076,-37.0677
+Cristal das Pedras,-7.6863,-37.0662
+Riacho Verde do Norte,-7.8062,-37.0659
+Campo Grande do Riacho,-6.8753,-37.0653
+Bela Vista do Curimataú,-7.0241,-37.0652
+Fátima da Fazenda,-6.7914,-37.0647
+Bom Sucesso das Águas,-7.0657,-37.0646
+São Miguel do Engenho,-6.7698,-37.0645
+Monte Alto do Triunfo,-7.3740,-37.0510
+Aliança dos Ventos,-6.4013,-37.0505
+Rio Claro das Flores,-7.9229,-37.0489
+Barra do Rio da Serra,-7.6481,-37.0484
+Conceição da Serra Azul,-7.2727,-37.0477
+Esperança do Sul,-6.4968,-37.0472
+Campo Belo do Sol,-6.1858,-37.0470
+Vitória dos Montes,-6.2985,-37.0470
+São Vicente da Estrela,-6.9514,-37.0455
+Serra Grande do Engenho,-7.4126,-37.0445
+Terra Nova dos Ventos,-7.0787,-37.0441
+Aurora do Carmo,-6.7907,-37.0434
+Remígio do Sertão,-6.4620,-37.0433
+São Sebastião da Esperança,-7.2265,-37.0427
+Misericórdia do Engenho,-7.8789,-37.0416
+Aliança do Vale,-6.7589,-37.0413
+Canaã do Vale,-6.2201,-37.0413
+Vera Cruz do Oeste,-6.1358,-37.0404
+Pedra Lavrada do Sol,-7.7713,-37.0399
+Pedra Lavrada do Alto,-7.5110,-37.0396
+Serra Grande da Lua,-6.3655,-37.0388
+Remígio da Serra Azul,-8.1497,-37.0386
+Pau Ferro do Litoral,-7.8079,-37.0384
+Cachoeira do Litoral,-7.5491,-37.0381
+Barra Grande de Fátima,-6.5276,-37.0381
+Serra Grande do Riacho,-6.8875,-37.0373
+Candeias da Cruz,-7.7440,-37.0373
+Baraúna da Conceição,-8.0153,-37.0367
+Bom Jesus de Santa Luzia,-8.1283,-37.0367
+Pedra Lavrada dos Montes,-7.1073,-37.0363
+Liberdade de Fátima,-6.5710,-37.0362
+Bela Vista do Oeste,-8.0380,-37.0351
+São Paulo da Várzea,-7.9788,-37.0349
+Cristal da Serra,-6.9035,-37.0343
+Baraúna da Paz,-6.6066,-37.0342
+Fortaleza da Várzea,-7.1784,-37.0335
+Remígio da Serra,-6.8321,-37.0330
+Aliança do Brejo,-7.0298,-37.0329
+União do Sítio,-7.3021,-37.0317
+Pedra Branca da Lua,-6.2428,-37.0313
+Serra Azul da Conceição,-7.7038,-37.0312
+Santa Luzia da Mata,-7.4661,-37.0310
+Aroeira do Alto,-7.3421,-37.0310
+Remígio do Campo,-6.0991,-37.0309
+União das Flores,-8.0804,-37.0300
+Monte Verde da Barra,-7.5711,-37.0299
+São Miguel da Conceição,-6.7291,-37.0299
+Barra Grande do Carmo,-6.9952,-37.0298
+Rio Claro do Sul,-6.6768,-37.0294
+Rio Verde do Alto,-7.6065,-37.0290
+Conceição do Carmo,-6.6472,-37.0289
+Alto Branco do Engenho,-6.3259,-37.0286
+Fátima do Brejo,-7.8422,-37.0267
+São Miguel do Brejo,-7.1436,-37.0261
+Lagoa Seca do Oeste,-6.8838,-37.0113
+Alto da Serra da Estrela,-6.6343,-37.0110
+Campo Belo de Cima,-6.9675,-37.0103
+Águas Belas do Cariri,-8.0771,-37.0095
+Olho d'Água da Cruz,-7.3735,-37.0091
+Nazaré das Águas,-7.7818,-37.0067
+Vitória da Conceição,-6.3808,-37.0062
+Água Doce do Oeste,-7.6450,-37.0058
+Alto Branco dos Rios,-6.4596,-37.0050
+Independência da Várzea,-7.5796,-37.0044
+Fátima do Carmo,-6.7604,-37.0036
+Barreira dos Rios,-6.2638,-37.0034
+Independência do Agreste,-7.2398,-37.0022
+Alagoa Grande do Vale,-6.4888,-37.0021
+Serra Azul do Campo,-7.1468,-37.0019
+Água Branca da Esperança,-7.3009,-37.0016
+Ventura da Esperança,-7.9622,-37.0016
+Campo Grande do Litoral,-6.6786,-37.0010
+Água Branca da Cruz,-6.1096,-36.9998
+Cedro do Açude,-7.5048,-36.9990
+Candeias da Mata,-6.2998,-36.9987
+São Bento da Estrela,-7.8928,-36.9987
+São Braz das Pedras,-6.7135,-36.9984
+Água Branca,-8.1173,-36.9979
+Boa Esperança de Nazaré,-6.2134,-36.9976
+Vera Cruz das Pedras,-7.7436,-36.9975
+São João de Santa Luzia,-7.9326,-36.9969
+Primavera de Nazaré,-7.8606,-36.9969
+Nova Aurora da Glória,-6.3309,-36.9969
+Santa Teresinha da Estrela,-6.7874,-36.9966
+Nova Aurora da Mata,-7.5437,-36.9965
+Alagoa Grande da Conceição,-7.8050,-36.9962
+Alegria dos Montes,-8.0332,-36.9959
+Santa Maria do Carmo,-7.6205,-36.9951
+São Judas da Estrela,-7.4265,-36.9949
+Barreira do Bom Jesus,-7.1878,-36.9936
+Barreira das Pedras,-7.0334,-36.9923
+Serrote do Curimataú,-6.1744,-36.9921
+Caridade do Curimataú,-7.6859,-36.9916
+Alcantil de Cima,-7.9952,-36.9916
+Triunfo do Leste,-7.4510,-36.9914
+Piedade dos Rios,-7.1015,-36.9914
+Nazaré da Esperança,-6.6002,-36.9905
+Santo Antônio do Agreste,-6.1291,-36.9905
+Lagoa Seca do Sítio,-7.0782,-36.9904
+Luzia do Brejo,-8.1639,-36.9897
+Candeias do Leste,-6.9962,-36.9895
+Piedade do Sertão,-6.5677,-36.9895
+Caridade das Pedras,-6.5341,-36.9894
+Santa Cruz do Oeste,-6.9172,-36.9893
+Barreira do Riacho,-6.4226,-36.9889
+Santa Teresinha da Barra,-6.8374,-36.9870
+Ventura do Litoral,-7.2676,-36.9867
+Cedro da Várzea,-7.3534,-36.9866
+São Braz do Leste,-7.9187,-36.9729
+São Geraldo do Leste,-7.9995,-36.9728
+Serra Grande do Brejo,-7.3955,-36.9717
+Piedade do Açude,-6.5620,-36.9716
+Alto do Cruzeiro da Cruz,-6.4426,-36.9709
+Fátima do Vale,-7.0322,-36.9709
+São Vicente do Brejo,-7.5813,-36.9707
+Campo Grande das Flores,-7.5433,-36.9703
+São Paulo da Conceição,-7.0048,-36.9701
+Graça do Bom Jesus,-8.1687,-36.9700
+Aurora do Triunfo,-7.4233,-36.9696
+Boa Esperança das Flores,-7.7382,-36.9694
+São Miguel de Cima,-8.1314,-36.9689
+Santa Rosa do Sertão,-6.1396,-36.9682
+Piedade da Paz,-6.5317,-36.9676
+Barra Clara do Alto,-6.4032,-36.9675
+Santo André da Estrela,-7.0661,-36.9670
+Palmeira do Horizonte,-6.9620,-36.9661
+Alagoa Grande do Sertão,-7.7765,-36.9661
+Bela Vista do Engenho,-6.7328,-36.9661
+Alcantil do Horizonte,-6.3434,-36.9658
+Glória da Conceição,-7.3026,-36.9653
+Alto Alegre do Horizonte,-7.1234,-36.9624
+Monte Alto da Serra,-7.4674,-36.9620
+Barra Bonita da Barra,-6.2082,-36.9619
+Santa Fé da Várzea,-6.8692,-36.9617
+Independência de Nazaré,-7.8986,-36.9612
+Alagoa Nova da Lagoa,-7.6960,-36.9606
+Alto Bonito do Curimataú,-6.6865,-36.9605
+Santo Antônio da Várzea,-7.3509,-36.9594
+Nova Esperança dos Ventos,-6.2870,-36.9591
+Alto do Cruzeiro da Barra,-7.1771,-36.9588
+Santa Helena dos Montes,-7.1603,-36.9584
+Rio Bonito do Oeste,-6.5972,-36.9584
+Riacho Fundo do Oeste,-7.2600,-36.9582
+Graça da Paz,-6.7676,-36.9582
+Boa Esperança do Cariri,-7.4950,-36.9570
+Paraíso do Curimataú,-7.6620,-36.9565
+Redenção do Litoral,-6.9281,-36.9556
+Alto Alegre do Cariri,-6.1721,-36.9549
+Conceição da Paz,-7.2378,-36.9548
+Vera Cruz de Nazaré,-6.4891,-36.9544
+Riacho Fundo do Campo,-6.6537,-36.9534
+São Pedro do Brejo,-7.8101,-36.9533
+Santa Maria da Serra Azul,-8.0565,-36.9530
+Rio Verde do Sítio,-8.0954,-36.9523
+São Geraldo da Serra Azul,-7.6259,-36.9521
+Sossego de Baixo,-6.2614,-36.9512
+Aurora da Várzea,-6.3670,-36.9510
+Santo Antônio da Cruz,-6.8060,-36.9510
+São Braz da Fazenda,-7.9641,-36.9507
+Lagoa Seca do Alto,-7.8529,-36.9499
+Riacho Verde da Mata,-6.8302,-36.9498
+Carmo da Serra Azul,-6.1044,-36.9495
+Barreira do Cariri,-7.6425,-36.9331
+Cachoeira de Fátima,-6.0916,-36.9327
+Lagoa Seca dos Ventos,-7.7610,-36.9326
+São Miguel da Barra,-8.0783,-36.9326
+São Sebastião da Glória,-6.9845,-36.9318
+Santa Rosa do Triunfo,-7.5504,-36.9313
+Ipiranga das Águas,-7.6866,-36.9306
+Rio Bonito das Flores,-6.4996,-36.9296
+Bela Vista do Cruzeiro,-7.9786,-36.9295
+Candeias do Sítio,-6.7095,-36.9295
+Carmo de Baixo,-7.6128,-36.9293
+Santa Teresinha da Lua,-6.3022,-36.9291
+Santa Helena do Cariri,-6.8878,-36.9288
+Riacho Fundo da Estrela,-8.1318,-36.9281
+Palmeira do Açude,-7.0735,-36.9263
+Esperança do Curimataú,-7.1769,-36.9260
+Santa Helena da Lagoa,-7.4137,-36.9257
+Barreira do Sul,-7.9969,-36.9255
+Jardim do Bom Jesus,-6.9068,-36.9255
+Luzia do Engenho,-7.8608,-36.9245
+Bom Sucesso da Conceição,-6.2571,-36.9243
+Pilões do Triunfo,-7.1555,-36.9224
+Nazaré da Fazenda,-8.0516,-36.9221
+São Braz da Serra,-7.5749,-36.9215
+Aroeira do Açude,-7.4566,-36.9215
+Riacho Verde dos Rios,-6.8461,-36.9207
+Rio Claro da Lagoa,-6.4433,-36.9204
+Horizonte do Litoral,-7.8802,-36.9201
+Bom Jesus do Litoral,-6.8044,-36.9184
+Barra do Rio do Cariri,-7.4887,-36.9182
+Piedade do Campo,-6.4213,-36.9181
+Misericórdia da Conceição,-7.3111,-36.9165
+Alto Alegre do Vale,-7.8059,-36.9159
+Campo Grande do Curimataú,-7.0284,-36.9159
+Alagoa Grande do Campo,-6.3761,-36.9152
+Ipiranga do Meio,-6.5220,-36.9150
+Nazaré das Flores,-7.1102,-36.9149
+São Braz de Cima,-7.9349,-36.9149
+Serra Azul das Pedras,-8.1524,-36.9148
+Conceição da Glória,-6.1394,-36.9143
+Aurora do Brejo,-6.6159,-36.9138
+Pau Ferro do Agreste,-6.1819,-36.9137
+Fortaleza do Cruzeiro,-7.2692,-36.9135
+São Lourenço dos Rios,-7.3786,-36.9130
+São Miguel de Baixo,-6.5742,-36.9108
+Rio Verde do Triunfo,-6.9576,-36.9107
+Cachoeira do Sol,-6.7663,-36.9107
+Cristal da Esperança,-6.6813,-36.9097
+São Lourenço do Açude,-6.6335,-36.9095
+São Judas da Cruz,-7.3315,-36.9094
+Águas Belas das Águas,-7.2187,-36.9092
+Serra Azul da Glória,-7.7291,-36.9092
+Serra Grande do Cariri,-6.3323,-36.9089
+Santa Maria de Cima,-6.2190,-36.9085
+Águas Belas do Brejo,-7.8756,-36.8944
+Remígio de Fátima,-7.3784,-36.8941
+Monte Alto da Barra,-6.5700,-36.8937
+Cristal do Oeste,-8.1558,-36.8934
+Rio Claro do Vale,-6.0958,-36.8927
+Nazaré das Pedras,-7.0246,-36.8926
+Serra Verde da Lagoa,-7.9613,-36.8910
+Santo Antônio do Sítio,-7.0993,-36.8908
+Santa Teresinha das Pedras,-6.6784,-36.8889
+Riacho Verde do Cruzeiro,-6.2506,-36.8882
+Santa Fé do Sul,-6.4114,-36.8874
+Pilões do Curimataú,-7.2201,-36.8872
+Luzia da Fazenda,-7.3143,-36.8867
+Santa Rosa do Bom Jesus,-7.3405,-36.8865
+São Miguel do Cruzeiro,-6.1263,-36.8863
+Misericórdia do Cruzeiro,-7.7648,-36.8863
+Santa Rosa da Cruz,-6.3004,-36.8863
+Barreira do Sítio,-8.0930,-36.8836
+Triunfo da Lua,-6.3215,-36.8830
+São Paulo do Sertão,-6.9858,-36.8824
+Flores de Fátima,-7.8455,-36.8818
+São Geraldo das Flores,-7.6909,-36.8815
+Água Doce de Nazaré,-7.5510,-36.8813
+Boa Esperança do Curimataú,-8.1113,-36.8812
+Barra Grande do Cariri,-7.5103,-36.8807
+Santa Maria da Estrela,-6.8334,-36.8804
+União do Sul,-6.7268,-36.8800
+Bela Vista do Sertão,-6.4994,-36.8799
+Monte Alto dos Rios,-7.4224,-36.8796
+Pedra Branca de Nazaré,-6.9057,-36.8796
+Bom Jesus da Conceição,-7.1787,-36.8794
+Independência da Estrela,-8.0335,-36.8794
+São José da Mata,-7.2702,-36.8787
+Jerusalém de Nazaré,-6.1707,-36.8785
+Bela Vista do Sol,-6.7650,-36.8781
+Caridade do Engenho,-7.0615,-36.8778
+União da Cruz,-7.6652,-36.8776
+Lagoa Seca do Leste,-7.9286,-36.8772
+São Domingos dos Montes,-7.9936,-36.8771
+Serrote dos Ventos,-6.6119,-36.8767
+Horizonte da Serra,-6.3691,-36.8767
+Alcantil do Oeste,-7.1428,-36.8761
+Aurora do Oeste,-6.5315,-36.8749
+Caridade do Campo,-6.9557,-36.8744
+São Sebastião do Alto,-6.8899,-36.8733
+São João do Carmo,-6.6561,-36.8732
+São Judas do Triunfo,-6.4414,-36.8731
+Barra do Rio do Brejo,-7.8042,-36.8705
+Serra Verde do Riacho,-7.4529,-36.8701
+Serrote da Serra Azul,-7.5763,-36.8700
+Barra Grande das Pedras,-6.2181,-36.8698
+Nova Vida de Nazaré,-7.7400,-36.8696
+Glória do Norte,-7.6258,-36.8694
+São Pedro da Estrela,-6.7872,-36.8692
+Fátima do Cruzeiro,-7.1571,-36.8554
+Alagoa Grande do Cariri,-7.2631,-36.8550
+Bom Jesus das Pedras,-8.1340,-36.8539
+Vitória da Glória,-6.5276,-36.8531
+Flores do Litoral,-6.4070,-36.8531
+Flores do Bom Jesus,-6.7210,-36.8530
+Graça do Triunfo,-7.7788,-36.8528
+Serra Branca dos Montes,-7.5745,-36.8525
+Bom Sucesso do Triunfo,-7.7019,-36.8523
+Aurora da Paz,-6.9277,-36.8520
+Barreira dos Ventos,-6.3709,-36.8512
+Flores das Pedras,-6.6331,-36.8510
+Monte Verde do Oeste,-7.6073,-36.8503
+Aurora das Águas,-6.2122,-36.8503
+Bela Vista do Horizonte,-6.1457,-36.8497
+Bom Jesus da Esperança,-7.4721,-36.8496
+Horizonte do Sol,-6.6922,-36.8491
+Alto do Cruzeiro do Cruzeiro,-6.6159,-36.8486
+Serrote de Fátima,-8.0803,-36.8479
+Nova Vida das Águas,-6.3331,-36.8478
+São Francisco de Baixo,-7.2922,-36.8478
+Varjota da Fazenda,-7.9652,-36.8477
+Estrela de Fátima,-7.0748,-36.8472
+Princesa do Oeste,-6.8280,-36.8470
+São Francisco dos Rios,-7.1058,-36.8463
+Redenção do Leste,-6.1706,-36.8462
+São Sebastião do Brejo,-7.8995,-36.8454
+Água Doce dos Ventos,-6.1084,-36.8443
+Água Doce da Barra,-7.6657,-36.8440
+Boa Esperança do Sol,-7.8166,-36.8438
+Monte Verde da Serra,-7.5003,-36.8431
+Nazaré da Paz,-8.1717,-36.8430
+Nova Esperança da Serra Azul,-6.5655,-36.8420
+Remígio de Cima,-6.2487,-36.8418
+União do Meio,-6.4867,-36.8404
+Jardim da Lua,-7.1915,-36.8395
+Caridade do Riacho,-6.7926,-36.8393
+Remígio do Sítio,-7.7258,-36.8391
+São Braz do Agreste,-7.3715,-36.8380
+Barra Clara da Serra,-6.9889,-36.8379
+Tabuleiro do Litoral,-7.8584,-36.8360
+Monte Verde do Riacho,-7.2383,-36.8357
+Barra Grande do Sítio,-6.4511,-36.8354
+Bom Sucesso do Cariri,-7.3434,-36.8351
+Fortaleza da Lua,-7.9173,-36.8341
+Misericórdia do Curimataú,-7.0292,-36.8340
+Santo André do Cariri,-6.9595,-36.8336
+São Domingos das Flores,-6.8796,-36.8334
+Alto Bonito do Carmo,-8.0077,-36.8334
+São Francisco da Fazenda,-8.0552,-36.8334
+Mangabeira do Engenho,-7.5294,-36.8328
+Boa Esperança do Agreste,-6.7602,-36.8328
+Serra Verde de Fátima,-7.4098,-36.8320
+São Braz das Flores,-6.3043,-36.8304
+Triunfo,-7.7051,-36.8161
+Sossego das Flores,-7.5784,-36.8151
+Pedra Branca das Pedras,-7.8924,-36.8150
+Estrela dos Ventos,-6.3013,-36.8150
+São Francisco da Esperança,-7.9947,-36.8150
+Água Branca do Bom Jesus,-7.2952,-36.8143
+Primavera da Barra,-7.8020,-36.8138
+Serra Grande do Norte,-6.0897,-36.8129
+Nova Esperança do Sol,-7.2206,-36.8121
+Nova Aurora do Cariri,-6.6378,-36.8115
+São João do Meio,-8.0324,-36.8109
+Serra Azul de Baixo,-6.9906,-36.8103
+Aliança da Glória,-6.7618,-36.8102
+Alagoa Grande do Bom Jesus,-6.2427,-36.8101
+Santo André da Glória,-7.2712,-36.8097
+Santo Antônio da Conceição,-7.0435,-36.8094
+Flores do Cariri,-7.5009,-36.8091
+Fortaleza do Triunfo,-7.1133,-36.8084
+Flores do Sítio,-6.3209,-36.8082
+Triunfo da Esperança,-6.8716,-36.8080
+Aroeira da Conceição,-6.2283,-36.8078
+São Lourenço da Fazenda,-7.9584,-36.8073
+São Lourenço de Fátima,-7.8443,-36.8068
+Cristal das Flores,-7.1444,-36.8058
+Salgadinho do Horizonte,-6.9652,-36.8056
+Cristal,-7.4259,-36.8054
+Rio Bonito da Serra,-7.6196,-36.8051
+Remígio do Açude,-6.1435,-36.8039
+Rio Bonito de Nazaré,-6.8376,-36.8037
+Conceição do Sol,-6.4048,-36.8032
+Alto Bonito do Sertão,-7.7787,-36.8027
+Primavera das Flores,-6.6873,-36.8023
+Carmo do Engenho,-7.7287,-36.8020
+Cedro do Brejo,-7.3869,-36.8018
+Santa Fé da Mata,-6.4552,-36.8004
+São Francisco do Triunfo,-7.9398,-36.7995
+Alto do Cruzeiro da Lagoa,-7.3391,-36.7994
+Jardim dos Ventos,-7.5317,-36.7993
+Pedra Branca da Cruz,-6.5221,-36.7989
+Baraúna,-8.1623,-36.7982
+Conceição do Brejo,-7.0732,-36.7981
+Santa Maria de Baixo,-6.7243,-36.7973
+Princesa do Leste,-8.0765,-36.7961
+Alto Alegre da Glória,-6.4907,-36.7950
+Alagoa Grande das Pedras,-7.4708,-36.7949
+Independência do Açude,-8.1204,-36.7949
+Vitória do Horizonte,-7.6508,-36.7949
+Horizonte dos Ventos,-6.1776,-36.7945
+Candeias do Litoral,-6.6112,-36.7944
+Água Doce do Cariri,-6.3685,-36.7935
+Conceição da Serra,-6.9195,-36.7935
+São Paulo da Paz,-6.5687,-36.7921
+Jerusalém do Curimataú,-6.8068,-36.7916
+Jerusalém do Norte,-7.1828,-36.7913
+Estrela do Açude,-7.7639,-36.7768
+Remígio de Nazaré,-7.9574,-36.7758
+Nova Aurora do Sol,-6.2216,-36.7745
+Redenção da Glória,-6.3705,-36.7738
+São José do Agreste,-6.7629,-36.7736
+Fátima da Mata,-6.9446,-36.7723
+Riacho Fundo da Glória,-7.3367,-36.7716
+Santa Fé da Glória,-8.0099,-36.7714
+Riacho Verde da Conceição,-7.3019,-36.7708
+São Francisco das Flores,-6.9829,-36.7701
+Baraúna do Agreste,-8.0847,-36.7701
+São José de Santa Luzia,-6.7237,-36.7697
+Serra Azul do Norte,-7.5880,-36.7697
+Alcantil do Sertão,-7.9253,-36.7691
+São João das Flores,-7.4340,-36.7682
+Misericórdia do Bom Jesus,-6.4504,-36.7680
+Vale Verde do Campo,-6.1436,-36.7675
+São José da Várzea,-7.6631,-36.7675
+Prata do Bom Jesus,-6.4089,-36.7673
+Monte Alto das Flores,-6.1847,-36.7673
+Glória das Pedras,-7.5285,-36.7662
+Glória do Bom Jesus,-7.8947,-36.7659
+São Judas das Águas,-6.6828,-36.7640
+Soledade de Nazaré,-7.4606,-36.7640
+Nova Vida da Glória,-6.3319,-36.7627
+Palmeira da Mata,-6.6384,-36.7626
+Santo André da Esperança,-6.2506,-36.7622
+Ventura da Cruz,-7.1501,-36.7621
+Soledade da Serra,-6.6032,-36.7621
+Graça do Sol,-7.8587,-36.7619
+São Lourenço do Leste,-6.9097,-36.7616
+Santa Luzia do Engenho,-6.8502,-36.7613
+Tabuleiro da Serra,-7.0716,-36.7612
+Santa Teresinha do Cruzeiro,-7.1210,-36.7612
+Jerusalém das Pedras,-7.2626,-36.7602
+Candeias dos Ventos,-7.4874,-36.7596
+Misericórdia da Lua,-6.5600,-36.7591
+Riacho Fundo da Fazenda,-7.8076,-36.7588
+Paraíso da Lagoa,-6.8708,-36.7587
+Remígio do Norte,-6.4883,-36.7584
+Águas Belas do Sol,-7.2358,-36.7583
+Aroeira dos Rios,-7.6049,-36.7576
+São Paulo da Mata,-8.1145,-36.7575
+Salgadinho,-7.7358,-36.7557
+Conceição de Fátima,-7.6848,-36.7550
+São Francisco de Cima,-6.7879,-36.7548
+Triunfo do Cruzeiro,-7.0361,-36.7542
+Alegria da Serra Azul,-7.1901,-36.7541
+Maravilha da Lua,-6.0970,-36.7539
+Pau Ferro do Sul,-7.3759,-36.7536
+Soledade da Glória,-8.1623,-36.7532
+Rio Verde do Oeste,-6.2820,-36.7527
+Candeias dos Rios,-6.5166,-36.7527
+Vitória do Sertão,-8.0421,-36.7522
+Conceição da Mata,-6.1296,-36.7384
+São Miguel do Sítio,-7.1827,-36.7380
+Alcantil do Riacho,-7.7064,-36.7379
+Esperança da Esperança,-6.9072,-36.7375
+Horizonte da Cruz,-8.0746,-36.7366
+Redenção do Norte,-8.1230,-36.7365
+Salgadinho da Cruz,-6.2164,-36.7364
+Fortaleza do Litoral,-7.2975,-36.7362
+Barra Bonita do Carmo,-7.2742,-36.7355
+São Lourenço da Lagoa,-6.6522,-36.7353
+Ventura do Leste,-6.3361,-36.7348
+Jardim do Sul,-7.4518,-36.7345
+Ipiranga do Agreste,-8.0156,-36.7344
+Liberdade do Campo,-6.3603,-36.7328
+Água Doce do Vale,-6.9602,-36.7324
+Rio Verde do Vale,-7.0758,-36.7322
+Santo André do Carmo,-6.8496,-36.7313
+Jerusalém da Lagoa,-7.5701,-36.7308
+Nova Esperança de Santa Luzia,-6.8023,-36.7302
+Flores da Conceição,-6.5779,-36.7298
+Aliança da Estrela,-6.5996,-36.7298
+Águas Belas do Triunfo,-6.8692,-36.7291
+Alegria do Sertão,-6.5372,-36.7284
+Alto do Cruzeiro do Brejo,-6.7658,-36.7283
+Canaã do Bom Jesus,-6.1858,-36.7266
+Campo Belo dos Rios,-6.9901,-36.7266
+Cachoeira do Horizonte,-7.0351,-36.7263
+Aroeira da Cruz,-6.4104,-36.7258
+Pau Ferro de Nazaré,-7.7651,-36.7251
+Monte Alto da Paz,-7.9786,-36.7248
+Rio Bonito do Meio,-8.1599,-36.7244
+Ventura do Riacho,-6.4386,-36.7243
+Palmeira de Santa Luzia,-7.1433,-36.7236
+Canaã da Esperança,-6.4853,-36.7223
+Barra Grande do Meio,-7.8221,-36.7223
+Floresta da Lagoa,-7.8881,-36.7219
+São José do Bom Jesus,-7.3439,-36.7218
+São Judas dos Rios,-6.0909,-36.7218
+Pedra Lavrada do Meio,-7.6093,-36.7216
+São Vicente do Oeste,-6.2461,-36.7211
+Barra Clara de Cima,-7.9362,-36.7211
+São Sebastião da Barra,-7.4112,-36.7200
+Santa Teresinha da Serra,-7.8529,-36.7196
+Candeias da Conceição,-7.3848,-36.7195
+Alto Alegre dos Rios,-7.7356,-36.7186
+São Vicente do Sol,-7.1099,-36.7184
+São Sebastião do Cariri,-7.5343,-36.7177
+Santa Teresinha do Engenho,-7.5053,-36.7176
+Luzia da Serra,-7.2166,-36.7167
+Pedra Branca da Esperança,-6.6851,-36.7159
+São João dos Rios,-8.0418,-36.7155
+Aurora dos Rios,-6.7338,-36.7153
+São José do Cariri,-6.2926,-36.7146
+Monte Alto da Estrela,-7.6462,-36.7136
+Pedra Branca das Flores,-6.7324,-36.6974
+Nova Aurora do Carmo,-7.7373,-36.6969
+Liberdade da Cruz,-7.3033,-36.6965
+Nazaré do Sertão,-6.8697,-36.6964
+Bela Vista do Açude,-6.1844,-36.6958
+Barra Grande das Águas,-7.8475,-36.6956
+Santa Teresinha de Baixo,-6.0974,-36.6956
+Barra Bonita do Litoral,-7.0286,-36.6950
+Serra Branca do Carmo,-6.7993,-36.6948
+Riacho Verde do Curimataú,-7.0721,-36.6945
+Caridade da Barra,-6.3986,-36.6939
+União do Agreste,-6.9102,-36.6938
+Serra Azul de Nazaré,-7.2677,-36.6937
+São Braz da Conceição,-7.3823,-36.6931
+Alcantil,-7.6553,-36.6913
+Mangabeira da Serra Azul,-6.6453,-36.6912
+Alto Bonito da Fazenda,-7.1028,-36.6908
+Aroeira da Glória,-7.9250,-36.6906
+Baraúna do Cruzeiro,-6.3313,-36.6903
+Graça da Mata,-7.4975,-36.6903
+Santa Rosa do Carmo,-8.1683,-36.6899
+Riacho Fundo de Cima,-7.7042,-36.6896
+Remígio do Brejo,-7.5392,-36.6896
+Águas Belas da Paz,-7.6168,-36.6894
+Floresta do Sol,-8.0327,-36.6886
+São Pedro do Agreste,-6.2964,-36.6882
+Serra Verde da Fazenda,-6.8402,-36.6881
+Barra Bonita do Sertão,-7.1547,-36.6872
+Serra Verde do Leste,-6.9903,-36.6862
+Bom Jesus da Lagoa,-7.8130,-36.6859
+Nova Esperança de Fátima,-7.3458,-36.6858
+Riacho Fundo do Bom Jesus,-7.4221,-36.6857
+Mangabeira do Litoral,-6.4773,-36.6851
+Mangabeira do Curimataú,-6.5646,-36.6844
+Alagoa Nova da Lua,-6.9534,-36.6834
+Santa Fé dos Ventos,-8.0060,-36.6820
+Pilões do Bom Jesus,-7.4648,-36.6813
+Candeias de Santa Luzia,-7.5789,-36.6809
+Alto do Cruzeiro do Sul,-7.7730,-36.6808
+Aroeira das Flores,-7.9618,-36.6801
+Cedro do Horizonte,-6.1321,-36.6800
+São Judas da Barra,-6.2531,-36.6800
+Alagoa Grande da Lagoa,-6.4586,-36.6793
+Canaã de Santa Luzia,-6.6740,-36.6788
+Barra Grande do Açude,-8.1274,-36.6784
+Vale Verde da Mata,-6.3811,-36.6783
+Santa Cruz do Sítio,-7.8883,-36.6778
+Cachoeira do Norte,-7.1928,-36.6773
+Alto do Cruzeiro da Fazenda,-6.5380,-36.6763
+Vale Verde dos Rios,-6.6027,-36.6756
+Cachoeira da Cruz,-7.2163,-36.6751
+São Geraldo do Cariri,-6.2189,-36.6749
+Sossego do Curimataú,-6.7632,-36.6743
+Nova Vida dos Rios,-8.0881,-36.6742
+Vitória do Triunfo,-7.5023,-36.6605
+Misericórdia do Litoral,-6.3617,-36.6595
+Bom Jesus do Alto,-8.0908,-36.6589
+Ventura do Triunfo,-6.2433,-36.6582
+Pilões da Cruz,-8.1614,-36.6573
+Misericórdia das Águas,-6.4228,-36.6568
+Rio Bonito do Litoral,-6.9125,-36.6567
+Horizonte das Flores,-7.6132,-36.6567
+Pilões de Fátima,-7.3093,-36.6566
+Serrote de Santa Luzia,-6.2224,-36.6564
+Monte Belo do Triunfo,-8.1148,-36.6544
+Horizonte do Campo,-7.3916,-36.6531
+Rio Verde da Conceição,-6.1269,-36.6530
+Boa Esperança da Serra,-6.8803,-36.6517
+Baraúna do Sítio,-6.0989,-36.6515
+Varjota do Sul,-6.1892,-36.6514
+Santa Luzia do Vale,-7.7418,-36.6509
+Serra Azul dos Montes,-6.8462,-36.6507
+São Miguel das Águas,-6.7588,-36.6505
+São Sebastião do Meio,-7.2565,-36.6504
+Nazaré do Campo,-6.6053,-36.6503
+União do Vale,-7.9269,-36.6499
+Aliança do Alto,-7.5325,-36.6495
+Fátima dos Montes,-7.4278,-36.6493
+Santa Luzia da Paz,-8.0328,-36.6487
+Esperança do Triunfo,-6.4781,-36.6486
+Remígio do Bom Jesus,-7.0321,-36.6477
+Aliança dos Rios,-7.1619,-36.6475
+Nova Esperança do Curimataú,-7.1757,-36.6473
+Aurora da Esperança,-6.5357,-36.6466
+Riacho Verde da Paz,-7.9955,-36.6460
+Pedra Branca do Meio,-6.5536,-36.6459
+Serra Azul da Lagoa,-7.7766,-36.6452
+Cedro das Flores,-7.8440,-36.6451
+Floresta do Curimataú,-6.2858,-36.6447
+Conceição,-6.7167,-36.6442
+São Paulo do Campo,-7.3375,-36.6422
+Pau Ferro da Serra,-6.6457,-36.6420
+São Pedro do Litoral,-7.8945,-36.6411
+Alegria do Leste,-6.9632,-36.6410
+Santa Helena do Agreste,-7.1094,-36.6398
+Flores do Vale,-7.0623,-36.6395
+Alagoa Grande do Agreste,-7.9627,-36.6391
+São Vicente dos Rios,-6.3264,-36.6391
+Independência do Vale,-6.4590,-36.6388
+Serra Branca da Lua,-7.0038,-36.6385
+Olho d'Água do Triunfo,-7.2385,-36.6380
+Lagoa Seca da Paz,-7.7018,-36.6379
+Canaã de Cima,-7.4502,-36.6371
+Terra Nova da Paz,-7.6427,-36.6366
+São Domingos do Horizonte,-6.7987,-36.6366
+São João da Fazenda,-7.5899,-36.6362
+Bom Sucesso do Açude,-7.8129,-36.6360
+Santo Antônio do Sol,-6.6730,-36.6355
+São José do Brejo,-7.6550,-36.6204
+Baraúna de Cima,-7.1097,-36.6204
+Serra Verde da Várzea,-6.5671,-36.6202
+Água Doce da Paz,-6.3734,-36.6201
+Alagoa Grande da Lua,-7.3856,-36.6199
+Pedra Lavrada do Triunfo,-8.0934,-36.6196
+Santa Maria da Fazenda,-6.0980,-36.6194
+Santa Cruz de Santa Luzia,-6.2902,-36.6192
+Pedra Lavrada da Estrela,-6.1510,-36.6192
+Santa Helena da Serra Azul,-7.4541,-36.6186
+Liberdade do Curimataú,-7.2271,-36.6182
+Serra Azul do Meio,-7.7441,-36.6182
+Santa Rosa do Campo,-7.7687,-36.6176
+São Sebastião da Conceição,-7.2785,-36.6172
+Fortaleza de Fátima,-8.1155,-36.6160
+Campo Belo do Alto,-6.5958,-36.6157
+Alagoa Nova do Engenho,-8.0373,-36.6155
+Nova Vida da Serra Azul,-7.0036,-36.6151
+Cruz do Meio das Águas,-7.3419,-36.6149
+Vera Cruz do Vale,-6.2062,-36.6143
+Barra do Rio das Flores,-7.5699,-36.6142
+Sossego de Nazaré,-6.1881,-36.6140
+Vitória dos Rios,-6.4422,-36.6139
+Ventura da Mata,-8.1700,-36.6129
+Cedro do Meio,-6.4891,-36.6128
+Redenção da Barra,-6.9260,-36.6122
+Serra Branca da Várzea,-6.8054,-36.6115
+Fátima do Norte,-7.8536,-36.6114
+São Lourenço do Cruzeiro,-7.6107,-36.6106
+Graça da Esperança,-6.7645,-36.6103
+Nova Esperança da Paz,-7.0402,-36.6101
+Santa Teresinha do Leste,-6.6319,-36.6100
+Carmo da Fazenda,-6.5220,-36.6100
+Varjota do Alto,-7.0757,-36.6093
+São Paulo das Pedras,-6.3434,-36.6090
+Carmo do Sul,-7.9984,-36.6084
+Flores do Leste,-7.9346,-36.6083
+São José do Engenho,-7.8852,-36.6082
+Triunfo do Sítio,-6.6857,-36.6081
+Mangabeira do Norte,-6.8372,-36.6073
+Riacho Verde do Engenho,-7.5000,-36.6066
+Santa Cruz do Norte,-6.9536,-36.6056
+Pau Ferro do Triunfo,-6.2555,-36.6054
+Alto do Cruzeiro do Curimataú,-7.1438,-36.6053
+União das Águas,-7.9624,-36.6051
+Monte Alto do Norte,-7.1847,-36.6041
+Fortaleza do Sertão,-7.7018,-36.6033
+Glória do Triunfo,-7.3169,-36.6003
+Esperança do Alto,-7.8123,-36.6003
+São Geraldo do Açude,-7.5301,-36.6001
+Luzia dos Montes,-6.8849,-36.5998
+São Braz do Oeste,-6.3985,-36.5982
+São João de Nazaré,-7.4234,-36.5976
+Serra Branca da Conceição,-6.7168,-36.5970
+Santo Antônio do Horizonte,-6.4414,-36.5826
+São Pedro de Baixo,-6.1322,-36.5826
+Princesa do Alto,-6.2048,-36.5823
+Alagoa Nova dos Ventos,-7.1479,-36.5820
+Caridade do Litoral,-7.3170,-36.5818
+União do Brejo,-6.1897,-36.5806
+Palmeira do Riacho,-6.9485,-36.5798
+São João de Cima,-7.4233,-36.5798
+Santo André do Horizonte,-7.6220,-36.5795
+Alcantil de Baixo,-7.7040,-36.5782
+Rio Claro dos Montes,-6.3618,-36.5782
+São Geraldo do Litoral,-6.8742,-36.5779
+Liberdade do Sertão,-7.8786,-36.5773
+Água Branca do Meio,-7.9985,-36.5772
+Boa Esperança do Alto,-7.0594,-36.5766
+Santa Teresinha,-8.0736,-36.5765
+Alegria do Agreste,-7.1967,-36.5760
+Santa Helena do Brejo,-7.5725,-36.5755
+Alto da Serra do Oeste,-7.3324,-36.5748
+Santa Teresinha do Alto,-6.5544,-36.5736
+Boa Esperança,-6.5357,-36.5735
+São Francisco da Lua,-6.4130,-36.5731
+Água Doce do Horizonte,-7.2705,-36.5728
+São Pedro do Triunfo,-6.7115,-36.5727
+Umbuzeiro do Norte,-6.8012,-36.5708
+Água Branca do Sul,-6.7593,-36.5696
+Cruz do Meio do Bom Jesus,-6.4786,-36.5693
+Monte Verde de Cima,-7.0296,-36.5687
+Pilões do Alto,-6.3364,-36.5683
+Horizonte da Lagoa,-6.9187,-36.5678
+Rio Claro da Glória,-7.7983,-36.5676
+Campo Grande do Leste,-6.5976,-36.5672
+Independência de Santa Luzia,-6.8292,-36.5671
+Barra Bonita do Sítio,-7.5050,-36.5671
+Monte Belo do Sítio,-7.9313,-36.5671
+Maravilha do Riacho,-7.6584,-36.5668
+Aroeira dos Ventos,-7.9533,-36.5662
+Rio Verde do Cruzeiro,-6.1096,-36.5662
+Vera Cruz da Lagoa,-6.6953,-36.5652
+Bom Sucesso dos Rios,-7.5474,-36.5650
+Paraíso dos Montes,-8.1481,-36.5641
+Misericórdia da Serra Azul,-7.7694,-36.5640
+Sossego do Engenho,-7.7423,-36.5638
+Pedra Branca do Sítio,-6.2854,-36.5635
+Tabuleiro do Oeste,-7.8418,-36.5632
+Baraúna da Cruz,-8.0344,-36.5624
+Tabuleiro do Carmo,-7.4515,-36.5617
+Monte Verde de Nazaré,-7.3740,-36.5614
+Alegria da Fazenda,-6.9873,-36.5609
+Palmeira da Estrela,-7.1041,-36.5609
+Nova Esperança do Riacho,-6.2606,-36.5609
+São Sebastião da Lua,-6.6449,-36.5606
+São Braz do Sertão,-8.1210,-36.5588
+Serra Grande das Pedras,-7.2386,-36.5581
+Canaã da Serra Azul,-6.3346,-36.5426
+Candeias da Fazenda,-8.1324,-36.5417
+Campo Belo do Agreste,-6.2457,-36.5416
+Santa Fé do Engenho,-6.3803,-36.5401
+Santo Antônio da Esperança,-6.5610,-36.5395
+Ventura de Fátima,-8.0338,-36.5392
+Santo André da Várzea,-7.5361,-36.5392
+Glória da Serra,-6.5011,-36.5386
+Esperança do Bom Jesus,-6.0935,-36.5379
+Barra Grande da Serra,-7.8017,-36.5376
+Glória do Oeste,-7.3433,-36.5373
+São Paulo de Cima,-7.4655,-36.5367
+Rio Verde da Barra,-6.6533,-36.5349
+Monte Belo dos Ventos,-7.7836,-36.5348
+Bom Jesus do Açude,-7.1860,-36.5347
+São Vicente do Triunfo,-7.4318,-36.5334
+Campo Belo do Campo,-7.7290,-36.5332
+Tabuleiro da Glória,-7.5010,-36.5327
+Cruz do Meio do Carmo,-6.9591,-36.5326
+Monte Belo do Curimataú,-6.9055,-36.5325
+Lagoa Seca da Estrela,-7.0626,-36.5318
+Alto da Serra do Brejo,-7.1551,-36.5317
+Monte Verde dos Ventos,-7.2789,-36.5315
+Barra Bonita do Horizonte,-6.8418,-36.5306
+Alto da Serra do Meio,-7.9782,-36.5304
+São Geraldo da Lagoa,-7.0371,-36.5296
+Cruz do Meio das Flores,-7.9260,-36.5285
+São Lourenço das Flores,-6.1458,-36.5284
+Conceição de Santa Luzia,-6.4471,-36.5283
+Alto Alegre do Sertão,-7.5671,-36.5281
+Riacho Fundo das Flores,-7.1184,-36.5280
+São José dos Montes,-8.0771,-36.5276
+São Geraldo do Norte,-6.2836,-36.5270
+Bom Sucesso das Pedras,-7.8584,-36.5266
+Santa Helena do Meio,-6.6029,-36.5263
+União do Leste,-7.3898,-36.5261
+Terra Nova dos Montes,-6.4054,-36.5261
+Campo Grande da Estrela,-8.0092,-36.5254
+Pilões da Lua,-7.8856,-36.5253
+Princesa das Flores,-6.7578,-36.5249
+Princesa do Meio,-7.2964,-36.5246
+Santa Helena do Alto,-7.2346,-36.5245
+Alto Alegre da Esperança,-6.6812,-36.5231
+União da Estrela,-6.2280,-36.5228
+Luzia do Vale,-6.1647,-36.5227
+Alagoa Nova da Barra,-6.9953,-36.5225
+Cedro do Leste,-7.6437,-36.5225
+Água Branca das Águas,-8.1513,-36.5217
+Jardim da Conceição,-6.5342,-36.5215
+Bom Jesus do Oeste,-6.7891,-36.5208
+São Bento de Fátima,-6.8851,-36.5207
+Floresta do Campo,-7.6289,-36.5203
+Monte Alto do Litoral,-7.7023,-36.5189
+São Sebastião de Baixo,-6.7276,-36.5185
+Redenção da Serra,-7.8389,-36.5045
+Águas Belas do Agreste,-7.1951,-36.5027
+Terra Nova da Cruz,-6.1089,-36.5021
+Redenção do Agreste,-7.4909,-36.5009
+São Judas de Nazaré,-7.9591,-36.5004
+São Bento do Sul,-6.8874,-36.4999
+Santo Antônio do Riacho,-6.7334,-36.4989
+Umbuzeiro do Sertão,-7.0366,-36.4985
+Água Doce dos Rios,-7.5256,-36.4966
+Barra Clara da Lagoa,-8.1306,-36.4962
+Alcantil de Santa Luzia,-6.4492,-36.4961
+Santa Helena dos Ventos,-7.3842,-36.4959
+Terra Nova da Mata,-6.3287,-36.4954
+São Lourenço do Sol,-6.4062,-36.4945
+Alagoa Nova,-7.1584,-36.4941
+Graça do Sul,-7.4141,-36.4941
+Santa Luzia da Serra,-6.5338,-36.4937
+Varjota de Fátima,-8.0399,-36.4934
+Liberdade do Triunfo,-7.6440,-36.4930
+Estrela do Oeste,-7.1065,-36.4928
+Barra Bonita do Norte,-8.0861,-36.4925
+Água Branca das Pedras,-7.0017,-36.4912
+Serra Verde do Vale,-6.5966,-36.4911
+Graça de Nazaré,-8.1630,-36.4909
+Primavera do Litoral,-6.1728,-36.4899
+Primavera da Lagoa,-7.6154,-36.4887
+Água Branca do Campo,-6.7940,-36.4887
+Santo Antônio da Barra,-7.2649,-36.4886
+Santa Teresinha do Carmo,-6.6344,-36.4882
+São Sebastião dos Montes,-7.7380,-36.4877
+Pedra Branca do Riacho,-8.0071,-36.4876
+Alagoa Nova de Nazaré,-7.9257,-36.4873
+Piedade do Riacho,-7.7646,-36.4873
+Santa Cruz das Pedras,-6.2977,-36.4871
+Água Doce,-7.8868,-36.4870
+Barra do Rio do Campo,-7.4521,-36.4865
+Barra Clara do Norte,-7.0767,-36.4857
+Vale Verde da Paz,-7.3004,-36.4854
+Alegria do Curimataú,-6.2466,-36.4851
+Olho d'Água,-7.8013,-36.4850
+Ventura do Carmo,-6.1487,-36.4850
+Monte Verde da Mata,-6.5608,-36.4847
+Santa Maria do Sertão,-7.5879,-36.4839
+Santa Luzia da Fazenda,-6.9523,-36.4834
+Campo Grande do Triunfo,-7.7017,-36.4826
+São José do Cruzeiro,-6.3614,-36.4826
+Cedro do Norte,-6.2214,-36.4815
+Rio Claro de Baixo,-6.7494,-36.4815
+Serrote do Bom Jesus,-7.2356,-36.4800
+São Braz do Alto,-7.3400,-36.4797
+Santa Rosa do Riacho,-6.4918,-36.4790
+Alto Alegre da Cruz,-6.8406,-36.4789
+Aliança do Curimataú,-6.1346,-36.4655
+Barra Bonita da Serra Azul,-6.5547,-36.4655
+Fátima da Cruz,-7.6260,-36.4653
+Rio Claro da Várzea,-8.1523,-36.4652
+Barra Clara da Esperança,-7.9767,-36.4641
+Vale Verde da Cruz,-6.7551,-36.4636
+Nova Aurora,-6.3809,-36.4629
+Piedade do Cruzeiro,-6.1720,-36.4621
+São Miguel de Nazaré,-7.4246,-36.4611
+Liberdade de Cima,-6.5145,-36.4597
+Pedra Branca da Mata,-6.8343,-36.4596
+Flores da Estrela,-6.4832,-36.4586
+Barra Bonita do Cruzeiro,-7.4541,-36.4579
+Glória dos Rios,-7.4991,-36.4578
+São Vicente da Conceição,-7.5763,-36.4576
+Rio Verde do Leste,-6.7998,-36.4564
+Glória do Agreste,-7.8906,-36.4560
+Floresta do Riacho,-6.3389,-36.4558
+Ipiranga do Oeste,-6.9242,-36.4552
+Umbuzeiro do Sul,-6.6724,-36.4551
+Tabuleiro do Horizonte,-7.8132,-36.4547
+Serra Branca de Fátima,-6.9584,-36.4541
+Santo André das Águas,-7.0627,-36.4537
+Bom Sucesso de Santa Luzia,-6.8718,-36.4520
+Boa Esperança da Fazenda,-7.9924,-36.4511
+Olho d'Água do Sertão,-7.1534,-36.4509
+Rio Claro do Cruzeiro,-7.6453,-36.4508
+Varjota da Conceição,-6.2649,-36.4504
+Floresta da Lua,-7.7609,-36.4497
+Santa Teresinha do Litoral,-6.3062,-36.4496
+São Lourenço do Sul,-7.1164,-36.4479
+Umbuzeiro da Estrela,-7.3343,-36.4479
+Alto da Serra do Sul,-8.0933,-36.4478
+Barra do Rio dos Montes,-7.1836,-36.4475
+Tabuleiro do Sul,-7.3097,-36.4471
+Triunfo das Águas,-6.2250,-36.4469
+Misericórdia da Várzea,-6.5965,-36.4459
+Barra Clara da Mata,-6.6439,-36.4454
+Triunfo do Curimataú,-6.7117,-36.4450
+Jerusalém do Meio,-7.5438,-36.4447
+São Lourenço das Pedras,-8.1271,-36.4443
+São Paulo de Santa Luzia,-7.3732,-36.4440
+Alto Bonito dos Rios,-6.4476,-36.4439
+Monte Belo da Lua,-6.9970,-36.4437
+São José do Sítio,-6.4129,-36.4433
+São Paulo da Serra,-7.0422,-36.4431
+Liberdade das Flores,-7.2572,-36.4424
+Jerusalém de Santa Luzia,-7.2222,-36.4424
+Rio Claro do Riacho,-7.9149,-36.4421
+Carmo da Lagoa,-6.1022,-36.4418
+Água Branca do Cruzeiro,-7.8437,-36.4411
+Santa Maria da Lagoa,-7.7011,-36.4409
+São Pedro do Campo,-8.0360,-36.4405
+Alto da Serra do Triunfo,-7.7211,-36.4399
+Riacho Verde da Cruz,-6.1693,-36.4265
+Esperança do Brejo,-7.3040,-36.4264
+Esperança da Fazenda,-7.8591,-36.4258
+Fortaleza do Oeste,-7.0242,-36.4255
+Água Doce do Brejo,-6.7524,-36.4233
+Bela Vista do Riacho,-7.1118,-36.4232
+Alagoa Nova do Sítio,-7.4636,-36.4229
+Vitória,-7.7219,-36.4229
+Boa Esperança das Pedras,-6.6954,-36.4226
+Bom Jesus do Cariri,-8.1722,-36.4219
+Barreira do Litoral,-6.2171,-36.4212
+São Francisco da Cruz,-7.6268,-36.4210
+Misericórdia do Oeste,-6.4591,-36.4208
+Palmeira do Triunfo,-6.8765,-36.4207
+Campo Belo do Açude,-6.4154,-36.4194
+Rio Bonito da Lua,-7.8909,-36.4190
+Nova Aurora do Sítio,-6.6115,-36.4190
+Alagoa Nova dos Rios,-6.7980,-36.4185
+Alagoa Nova do Litoral,-7.2676,-36.4184
+Salgadinho do Bom Jesus,-7.9158,-36.4178
+Bom Jesus de Cima,-7.3759,-36.4174
+Cedro do Agreste,-7.6631,-36.4171
+São Paulo do Meio,-6.9037,-36.4165
+Princesa de Fátima,-7.5359,-36.4162
+Palmeira da Serra Azul,-8.0749,-36.4162
+São Bento do Brejo,-7.9587,-36.4160
+Bom Sucesso de Fátima,-7.4969,-36.4155
+Vale Verde do Engenho,-7.1865,-36.4150
+Fortaleza da Esperança,-6.6515,-36.4133
+São Braz,-8.1192,-36.4133
+São Vicente da Cruz,-7.3387,-36.4115
+Pau Ferro do Sol,-7.7700,-36.4113
+Piedade dos Ventos,-7.4300,-36.4106
+Lagoa Seca do Norte,-6.7182,-36.4105
+Triunfo dos Rios,-6.9499,-36.4104
+Misericórdia das Flores,-6.3805,-36.4097
+Monte Verde da Paz,-6.1489,-36.4092
+Santo André de Fátima,-7.8196,-36.4083
+Caridade,-6.3441,-36.4082
+Riacho Verde do Campo,-6.2861,-36.4074
+Santa Fé,-6.2555,-36.4068
+Monte Belo de Nazaré,-6.5326,-36.4068
+Serra Grande da Fazenda,-7.0720,-36.4066
+Terra Nova de Cima,-8.0560,-36.4063
+Varjota do Horizonte,-7.1541,-36.4062
+Carmo do Horizonte,-6.4886,-36.4052
+Cachoeira do Açude,-7.2366,-36.4051
+Glória do Sul,-8.0091,-36.4048
+Carmo de Santa Luzia,-6.5623,-36.4046
+Umbuzeiro do Açude,-7.5679,-36.4040
+Baraúna do Vale,-7.6942,-36.4037
+Caridade das Flores,-6.0911,-36.4028
+Mangabeira da Fazenda,-6.9815,-36.4028
+Rio Verde dos Ventos,-6.8464,-36.4016
+Vale Verde do Horizonte,-6.8122,-36.3872
+Misericórdia do Sítio,-6.7490,-36.3871
+Alto Branco da Estrela,-6.5363,-36.3865
+Remígio dos Rios,-6.5986,-36.3849
+Serrote da Várzea,-6.6423,-36.3847
+São Sebastião dos Rios,-6.7232,-36.3841
+Maravilha da Cruz,-7.0394,-36.3835
+Candeias da Lua,-8.0828,-36.3831
+Princesa da Conceição,-6.3778,-36.3831
+Baraúna da Lagoa,-6.2477,-36.3829
+São Lourenço do Carmo,-6.8718,-36.3807
+Aliança do Açude,-6.6924,-36.3800
+Monte Verde do Açude,-7.5122,-36.3799
+Pau Ferro de Cima,-7.8965,-36.3795
+Jerusalém da Serra Azul,-7.8444,-36.3793
+Canaã do Norte,-7.9368,-36.3791
+Nova Esperança das Pedras,-7.9754,-36.3789
+Horizonte de Santa Luzia,-6.3045,-36.3778
+Glória do Engenho,-7.5384,-36.3768
+Misericórdia da Paz,-7.0831,-36.3763
+Redenção da Várzea,-6.4943,-36.3761
+Campo Grande de Santa Luzia,-6.8412,-36.3760
+Bom Jesus dos Ventos,-6.2073,-36.3756
+Alto Alegre dos Ventos,-7.2203,-36.3755
+Aliança da Esperança,-7.7057,-36.3755
+Ventura do Agreste,-7.4223,-36.3748
+Monte Verde do Cariri,-6.0888,-36.3745
+Aroeira da Esperança,-7.6657,-36.3742
+Alcantil do Sul,-7.6051,-36.3741
+Graça do Açude,-6.9856,-36.3738
+Aroeira do Curimataú,-6.1292,-36.3730
+Boa Esperança do Triunfo,-8.1122,-36.3729
+Graça da Várzea,-8.0442,-36.3724
+Rio Bonito do Alto,-7.3004,-36.3720
+Terra Nova do Norte,-7.5675,-36.3716
+Monte Belo da Mata,-7.3382,-36.3710
+Aroeira de Baixo,-6.9244,-36.3703
+Horizonte do Norte,-6.3387,-36.3700
+Barra Bonita do Vale,-7.1155,-36.3700
+Rio Bonito dos Montes,-7.2665,-36.3698
+Alagoa Grande de Cima,-7.7435,-36.3696
+Barra do Rio do Agreste,-6.4203,-36.3693
+Esperança do Cariri,-7.3936,-36.3691
+Soledade do Meio,-7.7697,-36.3686
+União da Barra,-8.1700,-36.3659
+Canaã da Paz,-7.1931,-36.3646
+Santa Helena do Curimataú,-6.1807,-36.3640
+Fortaleza da Mata,-7.8216,-36.3639
+Nova Aurora das Flores,-7.1584,-36.3629
+São Geraldo do Oeste,-6.9559,-36.3629
+Alagoa Nova do Sertão,-8.0076,-36.3626
+Riacho Verde do Alto,-6.4490,-36.3621
+Santa Cruz do Vale,-7.4607,-36.3619
+Jardim do Campo,-6.5543,-36.3619
+Tabuleiro do Engenho,-6.4771,-36.3485
+Prata da Paz,-7.9231,-36.3483
+Alagoa Grande do Sol,-7.7330,-36.3481
+Terra Nova da Lagoa,-7.6663,-36.3470
+Tabuleiro do Norte,-6.2036,-36.3463
+Baraúna da Fazenda,-7.7763,-36.3461
+Alto da Serra da Cruz,-6.1659,-36.3459
+Jerusalém das Flores,-6.7497,-36.3459
+Liberdade da Lagoa,-7.3371,-36.3455
+Jardim do Carmo,-7.3052,-36.3446
+Umbuzeiro da Lagoa,-8.1640,-36.3437
+Alegria da Paz,-7.0634,-36.3430
+União do Oeste,-6.3695,-36.3428
+Primavera da Fazenda,-6.9173,-36.3424
+Tabuleiro dos Montes,-7.8037,-36.3424
+Cristal do Norte,-6.1356,-36.3422
+Fátima da Várzea,-6.2514,-36.3421
+Canaã do Triunfo,-7.9784,-36.3419
+Barra Bonita do Meio,-7.5785,-36.3409
+Água Doce da Conceição,-7.2374,-36.3408
+Aliança do Leste,-7.8890,-36.3405
+Floresta da Glória,-6.7895,-36.3403
+São José da Serra Azul,-7.9995,-36.3398
+Bela Vista do Sul,-7.0354,-36.3390
+Monte Belo do Meio,-6.7126,-36.3388
+Conceição de Cima,-7.3790,-36.3387
+Pedra Lavrada do Cariri,-8.1283,-36.3378
+Santa Luzia da Barra,-7.6963,-36.3376
+Cedro da Cruz,-6.5746,-36.3372
+Barra Bonita de Nazaré,-6.1031,-36.3362
+Rio Bonito do Açude,-7.6234,-36.3357
+Independência da Conceição,-7.4345,-36.3343
+São Judas do Horizonte,-6.9984,-36.3336
+Barra Clara de Fátima,-7.5437,-36.3336
+Alto da Serra da Serra,-7.4676,-36.3333
+Jerusalém do Oeste,-8.0883,-36.3330
+Triunfo do Norte,-6.3023,-36.3313
+São Domingos da Serra,-6.6807,-36.3299
+Nova Aurora da Várzea,-7.1973,-36.3296
+Aliança do Oeste,-6.8297,-36.3295
+Paraíso de Nazaré,-7.1450,-36.3289
+Maravilha da Esperança,-6.9561,-36.3286
+São João da Serra Azul,-6.8685,-36.3279
+Santa Rosa do Norte,-6.5221,-36.3275
+Barra Grande do Oeste,-6.4528,-36.3264
+Aroeira da Mata,-6.6415,-36.3261
+Monte Verde do Vale,-6.3324,-36.3258
+Aurora da Serra Azul,-8.0367,-36.3242
+São Vicente do Leste,-6.5957,-36.3242
+Rio Bonito do Sul,-7.1065,-36.3239
+Alto Bonito do Riacho,-7.5011,-36.3236
+Barra do Rio das Pedras,-6.4038,-36.3230
+Aroeira da Paz,-7.2574,-36.3229
+Umbuzeiro da Serra Azul,-7.8523,-36.3229
+São Lourenço de Baixo,-7.8056,-36.3095
+Barra Grande do Cruzeiro,-6.8085,-36.3088
+São Braz do Sul,-7.3376,-36.3080
+Canaã da Serra,-8.0858,-36.3076
+Redenção do Bom Jesus,-6.7205,-36.3076
+Alto Alegre da Estrela,-6.4441,-36.3066
+Alto Branco dos Ventos,-7.1809,-36.3061
+Pedra Lavrada de Fátima,-6.4830,-36.3051
+Cristal da Várzea,-6.1724,-36.3047
+Varjota do Sítio,-6.8882,-36.3043
+União de Cima,-7.2332,-36.3041
+Ipiranga do Carmo,-7.6447,-36.3040
+Riacho Fundo da Serra Azul,-7.5758,-36.3039
+Santa Teresinha do Sol,-7.9726,-36.3036
+Soledade da Mata,-6.2185,-36.3036
+Alagoa Grande da Fazenda,-6.3796,-36.3027
+Vale Verde do Açude,-6.1365,-36.3024
+Piedade do Bom Jesus,-6.5309,-36.3022
+Santa Rosa da Glória,-6.9067,-36.3022
+Olho d'Água do Brejo,-7.1422,-36.3016
+Maravilha da Várzea,-7.9217,-36.3010
+Água Doce da Mata,-7.6126,-36.3008
+Carmo do Leste,-6.6148,-36.3004
+Cristal do Triunfo,-6.4089,-36.3000
+Ipiranga da Lua,-6.2513,-36.2998
+Triunfo do Sertão,-7.7358,-36.2986
+Alto Alegre da Várzea,-8.1112,-36.2978
+Caridade da Serra,-7.9967,-36.2974
+Água Doce do Sítio,-7.7812,-36.2967
+Paraíso da Cruz,-6.6935,-36.2966
+Pedra Branca das Águas,-6.3063,-36.2966
+Soledade do Açude,-7.4572,-36.2963
+Água Branca do Curimataú,-6.7701,-36.2960
+Liberdade das Águas,-7.3830,-36.2956
+São Paulo do Vale,-7.5461,-36.2952
+Liberdade do Brejo,-7.0019,-36.2942
+Horizonte do Açude,-7.0293,-36.2936
+Serra Verde do Agreste,-8.1718,-36.2933
+Sossego da Paz,-7.0731,-36.2932
+Serra Branca da Esperança,-7.1050,-36.2927
+Rio Bonito do Cariri,-6.9661,-36.2922
+Alto da Serra das Águas,-7.8841,-36.2917
+São Domingos dos Rios,-7.4983,-36.2914
+São Geraldo da Mata,-7.2637,-36.2908
+Esperança de Nazaré,-6.1087,-36.2900
+Alto Branco do Norte,-6.3404,-36.2896
+Alto da Serra da Esperança,-8.0376,-36.2892
+Esperança do Cruzeiro,-6.5690,-36.2868
+Rio Verde de Baixo,-6.6411,-36.2862
+Santa Maria das Pedras,-7.3055,-36.2861
+Ipiranga da Cruz,-6.8264,-36.2853
+Primavera dos Rios,-7.6887,-36.2852
+São Geraldo das Águas,-7.8445,-36.2840
+Riacho Fundo das Pedras,-7.4139,-36.2838
+Maravilha do Brejo,-7.1455,-36.2704
+Aurora do Sol,-7.5303,-36.2693
+Lagoa Seca do Litoral,-7.7375,-36.2691
+Serra Grande de Fátima,-6.9662,-36.2680
+Santo André dos Montes,-7.0010,-36.2670
+Glória do Brejo,-6.2638,-36.2664
+Misericórdia das Pedras,-6.5597,-36.2658
+União do Carmo,-7.4546,-36.2656
+São Bento das Flores,-6.9221,-36.2655
+São José do Oeste,-7.9164,-36.2653
+São João do Cruzeiro,-6.5984,-36.2651
+Rio Verde do Bom Jesus,-7.6121,-36.2647
+Pau Ferro do Açude,-6.8374,-36.2643
+Cachoeira de Baixo,-8.1550,-36.2641
+Palmeira da Glória,-7.8012,-36.2639
+Pedra Lavrada do Sertão,-6.3744,-36.2638
+Nova Esperança do Campo,-6.5332,-36.2637
+Santa Luzia do Leste,-7.2283,-36.2629
+Alto do Cruzeiro do Sertão,-7.9550,-36.2626
+Alagoa Grande da Várzea,-6.2988,-36.2625
+Aroeira da Serra Azul,-6.7987,-36.2614
+Santa Cruz das Flores,-6.4385,-36.2607
+Conceição do Leste,-6.6712,-36.2604
+Água Doce do Campo,-6.2166,-36.2600
+Mangabeira do Triunfo,-6.4017,-36.2599
+Terra Nova da Glória,-7.5032,-36.2596
+Bela Vista da Glória,-6.1291,-36.2587
+Santa Fé do Bom Jesus,-7.0803,-36.2567
+São Francisco do Sul,-7.8878,-36.2561
+Jardim do Sítio,-6.1887,-36.2560
+Bom Jesus dos Rios,-7.2696,-36.2557
+Barra Bonita do Bom Jesus,-7.6971,-36.2555
+Baraúna das Flores,-7.3452,-36.2546
+Pedra Lavrada do Açude,-7.6643,-36.2536
+Barreira do Engenho,-6.0878,-36.2535
+Fortaleza do Leste,-7.5733,-36.2528
+Jerusalém do Cariri,-7.3788,-36.2525
+Vera Cruz do Sul,-6.7313,-36.2525
+Misericórdia de Baixo,-8.0802,-36.2515
+Bom Sucesso do Vale,-7.4119,-36.2514
+Água Branca do Riacho,-8.0105,-36.2513
+Água Branca do Oeste,-6.8819,-36.2511
+Bela Vista da Esperança,-7.7842,-36.2508
+Rio Verde do Curimataú,-7.1953,-36.2504
+Riacho Fundo dos Rios,-6.6494,-36.2496
+Glória da Paz,-7.3146,-36.2495
+Varjota do Campo,-6.3300,-36.2491
+Santa Cruz das Águas,-7.8379,-36.2475
+Serra Azul da Mata,-8.0323,-36.2464
+São Lourenço da Barra,-8.1258,-36.2464
+Serrote do Leste,-7.0379,-36.2459
+Cruz do Meio da Paz,-6.4854,-36.2455
+Serra Azul da Esperança,-6.7492,-36.2452
+Alcantil da Serra,-7.1124,-36.2448
+Sossego da Barra,-7.1128,-36.2307
+Princesa da Mata,-7.8895,-36.2303
+Santa Teresinha do Oeste,-7.0292,-36.2300
+Alto Bonito de Baixo,-6.8279,-36.2300
+São João do Açude,-6.2994,-36.2298
+Ipiranga da Serra Azul,-7.8003,-36.2287
+Luzia da Várzea,-7.2643,-36.2287
+Aurora das Pedras,-7.4982,-36.2282
+Água Doce de Fátima,-7.3470,-36.2272
+Independência dos Montes,-6.5750,-36.2263
+Jerusalém do Bom Jesus,-6.3355,-36.2259
+Fortaleza do Carmo,-6.8754,-36.2259
+Vera Cruz do Cariri,-6.7984,-36.2256
+Serra Branca da Lagoa,-6.6864,-36.2255
+Independência de Baixo,-6.2440,-36.2251
+Candeias do Brejo,-7.1381,-36.2250
+Serra Branca do Brejo,-7.5644,-36.2238
+Alto da Serra das Flores,-7.6096,-36.2237
+Soledade de Baixo,-7.4505,-36.2236
+Alto Branco de Santa Luzia,-7.3844,-36.2228
+Graça da Fazenda,-7.7336,-36.2224
+Canaã da Lagoa,-7.2934,-36.2221
+Santa Teresinha da Lagoa,-6.6119,-36.2216
+Alto Branco das Pedras,-7.7649,-36.2211
+Alto da Serra do Litoral,-6.5311,-36.2208
+São Francisco de Nazaré,-8.1135,-36.2205
+Barra do Rio do Engenho,-6.7213,-36.2200
+Jerusalém da Esperança,-6.9285,-36.2195
+Lagoa Seca do Carmo,-6.3638,-36.2192
+Alegria do Engenho,-6.2088,-36.2183
+Pilões do Cruzeiro,-7.9960,-36.2181
+Sossego do Sol,-6.4157,-36.2177
+Cachoeira das Águas,-7.6503,-36.2172
+Santa Teresinha da Várzea,-8.0820,-36.2168
+Vitória do Curimataú,-8.1702,-36.2163
+Água Doce do Sol,-7.1891,-36.2163
+Alagoa Nova de Baixo,-7.0626,-36.2160
+Prata do Engenho,-7.5418,-36.2157
+São Pedro do Cruzeiro,-7.8566,-36.2156
+Umbuzeiro do Curimataú,-7.9777,-36.2151
+Santa Fé de Cima,-6.1006,-36.2132
+Riacho Fundo da Lagoa,-6.7601,-36.2128
+Aroeira de Santa Luzia,-7.4291,-36.2122
+Cruz do Meio da Serra Azul,-6.6485,-36.2113
+Santa Luzia da Várzea,-7.6905,-36.2113
+Bom Sucesso do Carmo,-6.4370,-36.2110
+Piedade do Alto,-6.1701,-36.2099
+Campo Belo do Curimataú,-7.9336,-36.2099
+São Lourenço do Oeste,-8.0335,-36.2093
+Água Doce do Açude,-6.9887,-36.2091
+Estrela do Norte,-6.4958,-36.2086
+Monte Alto dos Montes,-7.2293,-36.2068
+Soledade de Cima,-6.1291,-36.2062
+Pilões de Santa Luzia,-6.9599,-36.2062
+Paraíso da Lua,-7.7405,-36.1914
+Bom Sucesso do Sol,-7.3426,-36.1911
+São Geraldo do Meio,-7.1599,-36.1906
+Campo Grande de Baixo,-7.7590,-36.1902
+Carmo da Paz,-6.6151,-36.1901
+Lagoa Seca,-7.8148,-36.1901
+Flores,-6.4063,-36.1900
+Pedra Lavrada das Águas,-6.5400,-36.1899
+Campo Belo do Sítio,-8.0417,-36.1897
+Liberdade do Horizonte,-7.2297,-36.1896
+Barra Grande da Lagoa,-7.0339,-36.1888
+Cachoeira do Sul,-6.4621,-36.1884
+Olho d'Água das Águas,-6.1824,-36.1883
+Misericórdia de Nazaré,-6.9501,-36.1878
+Nova Vida do Campo,-8.0018,-36.1878
+Alto Bonito das Pedras,-8.0879,-36.1876
+Glória do Cruzeiro,-6.8720,-36.1875
+Lagoa Seca do Agreste,-7.3147,-36.1865
+Maravilha do Engenho,-6.1443,-36.1863
+Alto do Cruzeiro do Açude,-6.5656,-36.1860
+Horizonte do Engenho,-6.6806,-36.1860
+Lagoa Seca do Curimataú,-7.6058,-36.1848
+Campo Belo do Engenho,-6.6485,-36.1847
+Maravilha da Estrela,-7.5649,-36.1844
+Santa Helena do Horizonte,-6.1108,-36.1832
+Monte Belo do Cariri,-6.3790,-36.1829
+Ipiranga do Riacho,-7.1836,-36.1825
+São Sebastião de Fátima,-7.6944,-36.1824
+Água Branca do Norte,-7.2787,-36.1808
+Nazaré de Fátima,-7.5038,-36.1805
+Santa Luzia das Águas,-6.4935,-36.1803
+Piedade da Cruz,-7.8923,-36.1792
+Terra Nova da Esperança,-7.6544,-36.1792
+Barra Bonita da Lua,-7.9624,-36.1785
+Ventura da Serra,-6.3421,-36.1762
+Santa Maria de Fátima,-6.7281,-36.1754
+Pilões do Açude,-6.7907,-36.1751
+Barra Bonita dos Rios,-7.8436,-36.1745
+Vera Cruz de Santa Luzia,-7.9235,-36.1735
+Remígio da Lua,-6.2892,-36.1729
+Santa Maria do Sol,-7.4552,-36.1725
+Liberdade do Cruzeiro,-6.2425,-36.1720
+Bela Vista do Alto,-7.0725,-36.1719
+Santo André da Serra Azul,-6.9851,-36.1716
+Sossego das Pedras,-8.1546,-36.1714
+Salgadinho do Campo,-7.1055,-36.1694
+Cachoeira do Brejo,-7.4130,-36.1693
+Serrote do Cariri,-8.1194,-36.1689
+São José do Triunfo,-7.3717,-36.1684
+Água Doce da Estrela,-6.9156,-36.1681
+Salgadinho do Cariri,-6.2072,-36.1675
+Santo André de Baixo,-6.7523,-36.1674
+Serra Azul da Estrela,-7.5409,-36.1670
+São Paulo da Lua,-6.8488,-36.1668
+Umbuzeiro da Conceição,-7.6993,-36.1533
+Esperança da Lua,-8.1243,-36.1528
+Lagoa Seca do Vale,-6.5345,-36.1518
+Estrela da Barra,-7.4904,-36.1511
+São Geraldo da Lua,-6.3019,-36.1493
+Luzia de Cima,-7.7423,-36.1489
+Baraúna das Pedras,-6.9114,-36.1489
+Mangabeira do Sertão,-6.0955,-36.1488
+Santa Teresinha dos Rios,-7.6542,-36.1486
+Bom Sucesso da Lua,-7.8979,-36.1484
+Santa Luzia das Flores,-7.4661,-36.1474
+Riacho Verde da Serra Azul,-6.4789,-36.1468
+Monte Verde de Baixo,-6.6171,-36.1462
+Bom Sucesso do Leste,-7.1402,-36.1457
+São Miguel,-8.0763,-36.1451
+São José das Águas,-6.8009,-36.1445
+Nova Esperança do Leste,-6.1481,-36.1433
+Barreira do Brejo,-6.6721,-36.1427
+Nova Aurora do Açude,-6.9826,-36.1423
+Floresta de Cima,-7.5652,-36.1415
+Alto Bonito da Esperança,-7.3382,-36.1405
+Santa Cruz do Sertão,-6.3589,-36.1392
+Vitória da Cruz,-7.9929,-36.1383
+Liberdade de Nazaré,-8.1607,-36.1381
+Jerusalém da Glória,-6.7506,-36.1378
+Floresta do Sul,-7.1800,-36.1369
+Salgadinho do Meio,-7.8616,-36.1364
+São Paulo do Agreste,-6.8733,-36.1350
+Vale Verde do Sol,-7.4113,-36.1348
+Alegria do Norte,-6.5731,-36.1348
+Jerusalém de Cima,-7.6109,-36.1345
+Mangabeira,-7.9754,-36.1341
+Bela Vista do Leste,-6.4197,-36.1336
+Alegria do Meio,-6.4587,-36.1333
+Barra Bonita do Sul,-7.5271,-36.1327
+Pilões de Baixo,-6.7141,-36.1327
+São Sebastião dos Ventos,-7.2351,-36.1324
+Fortaleza do Meio,-6.1718,-36.1319
+Primavera do Riacho,-7.2750,-36.1318
+Pau Ferro dos Ventos,-6.9609,-36.1315
+São José do Açude,-7.9358,-36.1313
+Conceição da Barra,-7.3886,-36.1310
+Mangabeira de Santa Luzia,-8.0318,-36.1301
+Varjota da Estrela,-6.6453,-36.1300
+Aurora dos Montes,-6.3240,-36.1297
+Fortaleza das Pedras,-6.2233,-36.1294
+Prata das Pedras,-7.3031,-36.1292
+Aurora do Alto,-7.0281,-36.1290
+Água Doce do Triunfo,-7.1093,-36.1287
+Salgadinho do Sul,-7.8105,-36.1285
+São Bento do Alto,-7.7704,-36.1285
+Vale Verde da Glória,-6.2423,-36.1281
+Vale Verde de Fátima,-6.8303,-36.1280
+Fátima do Alto,-7.0727,-36.1277
+Rio Claro das Pedras,-7.3120,-36.1136
+Santa Maria dos Ventos,-7.0709,-36.1117
+Serrote da Conceição,-6.6776,-36.1110
+Santa Maria do Sítio,-8.1681,-36.1110
+Ventura da Glória,-7.1153,-36.1098
+Estrela da Várzea,-7.3842,-36.1096
+Primavera de Fátima,-6.5973,-36.1089
+Independência do Triunfo,-7.7999,-36.1081
+Terra Nova do Litoral,-7.2612,-36.1079
+Serra Verde do Curimataú,-7.8564,-36.1071
+Canaã da Estrela,-7.9985,-36.1069
+Campo Grande dos Rios,-6.8319,-36.1063
+Umbuzeiro da Paz,-7.3447,-36.1063
+Olho d'Água da Esperança,-6.4552,-36.1049
+Bela Vista dos Rios,-7.7243,-36.1044
+Carmo do Carmo,-7.6981,-36.1041
+Princesa da Glória,-6.7648,-36.1034
+Palmeira do Sol,-7.6429,-36.1029
+Monte Alto do Cruzeiro,-6.2112,-36.1014
+São Miguel do Riacho,-6.7277,-36.1012
+Candeias do Carmo,-6.4844,-36.1009
+Jardim,-6.6461,-36.1006
+Monte Alto da Glória,-7.9341,-36.1003
+São Francisco do Sertão,-6.5786,-36.1002
+Tabuleiro da Lagoa,-7.5815,-36.1001
+Cruz do Meio do Vale,-7.9536,-36.1000
+Floresta da Paz,-7.4644,-36.0989
+Aroeira do Litoral,-6.1390,-36.0987
+Nova Esperança do Norte,-6.2647,-36.0984
+Nova Aurora dos Montes,-6.9240,-36.0980
+Ventura de Nazaré,-6.0989,-36.0978
+Cruz do Meio do Leste,-6.3413,-36.0967
+Carmo do Cruzeiro,-7.1996,-36.0966
+Nova Vida da Paz,-6.1858,-36.0959
+Maravilha do Agreste,-6.7954,-36.0955
+Santa Helena do Triunfo,-7.4288,-36.0953
+Flores da Lagoa,-7.8760,-36.0952
+Jardim da Várzea,-7.2187,-36.0943
+Fortaleza de Baixo,-8.0421,-36.0943
+São José das Flores,-6.8891,-36.0940
+Pau Ferro do Sertão,-6.3835,-36.0936
+Palmeira do Sul,-7.7706,-36.0934
+Alagoa Grande da Estrela,-7.1613,-36.0930
+Monte Alto da Serra Azul,-7.4948,-36.0924
+Cristal da Estrela,-7.6221,-36.0923
+Fátima do Riacho,-6.9619,-36.0922
+Pedra Branca do Curimataú,-6.5212,-36.0922
+São Geraldo de Baixo,-8.1259,-36.0916
+Santo André do Campo,-7.5450,-36.0906
+Santa Rosa da Serra Azul,-7.0446,-36.0903
+Serra Azul do Brejo,-6.9908,-36.0903
+São Geraldo das Pedras,-6.2956,-36.0901
+Aurora do Campo,-6.4100,-36.0895
+Nova Esperança do Triunfo,-8.0701,-36.0889
+Serrote da Estrela,-6.2630,-36.0750
+Cachoeira,-7.1020,-36.0749
+Tabuleiro da Conceição,-6.2136,-36.0741
+Riacho Verde da Barra,-7.0821,-36.0730
+Santa Helena da Estrela,-7.3944,-36.0724
+Santa Teresinha do Brejo,-7.5336,-36.0714
+Maravilha do Norte,-6.5937,-36.0712
+Liberdade do Vale,-7.7721,-36.0710
+União do Riacho,-7.2159,-36.0705
+Mangabeira da Cruz,-6.3639,-36.0701
+Soledade do Cariri,-7.3525,-36.0700
+Princesa do Bom Jesus,-7.9736,-36.0698
+Serra Branca do Engenho,-7.5778,-36.0696
+Esperança do Oeste,-7.1882,-36.0694
+Prata do Riacho,-8.0431,-36.0693
+Santa Fé do Sítio,-7.1419,-36.0690
+Rio Bonito da Várzea,-7.7241,-36.0684
+São João do Campo,-6.4553,-36.0682
+São Braz da Lua,-8.0879,-36.0678
+Santa Cruz da Lua,-6.0873,-36.0675
+Salgadinho da Lagoa,-7.2638,-36.0674
+Mangabeira das Águas,-7.4919,-36.0671
+Princesa de Baixo,-6.8787,-36.0669
+União da Fazenda,-7.8878,-36.0667
+São Bento da Barra,-6.5622,-36.0661
+Alagoa Nova do Cariri,-6.7886,-36.0658
+Aliança do Carmo,-6.9429,-36.0658
+Salgadinho de Fátima,-7.7044,-36.0652
+Barra do Rio dos Rios,-6.7513,-36.0644
+Alagoa Grande da Esperança,-6.9956,-36.0643
+São Bento do Horizonte,-6.3219,-36.0635
+Caridade da Mata,-7.4531,-36.0632
+Princesa do Horizonte,-6.1507,-36.0630
+Cristal do Brejo,-6.9285,-36.0627
+Pedra Branca,-6.2955,-36.0620
+Prata,-6.1726,-36.0610
+Campo Belo,-7.6127,-36.0586
+Bom Jesus do Brejo,-7.0251,-36.0583
+Alto Alegre da Lagoa,-8.1142,-36.0580
+Fortaleza do Cariri,-7.3086,-36.0577
+Graça dos Rios,-6.6515,-36.0570
+Alcantil do Carmo,-6.6798,-36.0567
+Águas Belas da Várzea,-6.5318,-36.0566
+Primavera de Cima,-6.8433,-36.0565
+Alto do Cruzeiro do Vale,-8.0024,-36.0549
+Alagoa Nova do Sol,-7.4251,-36.0546
+Piedade do Agreste,-7.9232,-36.0543
+Água Doce dos Montes,-8.1536,-36.0533
+Riacho Fundo dos Montes,-7.6436,-36.0525
+Nova Esperança da Cruz,-6.4200,-36.0524
+Independência de Fátima,-7.8370,-36.0520
+Nazaré de Cima,-6.4994,-36.0519
+Fortaleza,-7.8218,-36.0506
+Ipiranga do Vale,-6.7256,-36.0497
+Aurora de Santa Luzia,-6.9275,-36.0363
+Prata da Conceição,-6.3319,-36.0360
+São Domingos do Sol,-6.0998,-36.0357
+Primavera do Bom Jesus,-6.2533,-36.0352
+Vera Cruz do Leste,-8.1717,-36.0352
+Prata do Alto,-7.6170,-36.0345
+Pedra Lavrada do Sítio,-7.4127,-36.0343
+Estrela da Paz,-8.0026,-36.0337
+São José do Alto,-6.6863,-36.0332
+Primavera da Serra Azul,-7.6969,-36.0331
+Cedro da Lua,-7.6583,-36.0330
+Serra Azul do Alto,-7.4670,-36.0325
+Bom Sucesso do Norte,-6.5276,-36.0318
+Alegria do Sul,-6.8101,-36.0301
+Cruz do Meio do Sertão,-7.8130,-36.0300
+Vale Verde das Pedras,-8.0400,-36.0298
+Remígio,-7.1857,-36.0283
+Remígio das Pedras,-7.2924,-36.0281
+Serra Verde do Norte,-7.1200,-36.0269
+Aliança da Paz,-6.7682,-36.0266
+Flores do Agreste,-7.7691,-36.0259
+Bom Jesus do Leste,-6.2271,-36.0259
+Luzia da Paz,-6.4126,-36.0258
+Maravilha dos Montes,-7.0783,-36.0250
+Fortaleza do Sul,-7.5075,-36.0248
+Bom Jesus do Carmo,-7.8597,-36.0243
+Riacho Verde da Lagoa,-7.2353,-36.0239
+São Paulo do Cariri,-6.9636,-36.0237
+Vale Verde do Alto,-6.7316,-36.0234
+Horizonte de Cima,-6.6007,-36.0232
+Santa Luzia da Estrela,-7.2687,-36.0231
+Santa Luzia do Sítio,-7.1408,-36.0223
+Alto Branco do Açude,-6.8285,-36.0221
+Nazaré dos Ventos,-6.1276,-36.0206
+Barreira da Serra Azul,-7.9691,-36.0205
+São Francisco da Lagoa,-7.5269,-36.0203
+São Lourenço do Alto,-7.5869,-36.0195
+Santa Cruz de Baixo,-6.4786,-36.0193
+Cachoeira das Flores,-6.6551,-36.0188
+Redenção do Triunfo,-7.0437,-36.0181
+Campo Belo da Glória,-8.1304,-36.0179
+Cachoeira da Conceição,-6.3689,-36.0170
+Santo André do Oeste,-6.2896,-36.0166
+Serra Branca do Norte,-7.9366,-36.0164
+Carmo de Nazaré,-6.8839,-36.0163
+São José da Serra,-7.8954,-36.0160
+Monte Alto do Curimataú,-7.3761,-36.0160
+Cedro da Serra Azul,-6.9856,-36.0158
+Vera Cruz do Cruzeiro,-6.1817,-36.0156
+Maravilha da Mata,-7.7406,-36.0139
+Lagoa Seca de Cima,-6.5772,-36.0138
+Horizonte do Alto,-6.4495,-36.0130
+São Sebastião do Sítio,-7.3366,-36.0127
+Barra Bonita da Esperança,-8.0780,-36.0117
+Bela Vista do Triunfo,-6.7886,-35.9956
+Alagoa Grande do Alto,-7.4295,-35.9943
+Monte Alto do Sítio,-7.6817,-35.9928
+Primavera do Sítio,-6.4199,-35.9924
+Estrela do Alto,-7.1872,-35.9918
+Piedade da Barra,-6.2458,-35.9917
+Lagoa Seca da Várzea,-7.1230,-35.9911
+São Paulo da Serra Azul,-7.5776,-35.9907
+Santo Antônio,-8.0864,-35.9905
+Conceição das Flores,-6.4764,-35.9902
+Santa Helena de Baixo,-6.8302,-35.9900
+São João do Agreste,-6.2042,-35.9896
+São Bento dos Ventos,-8.1125,-35.9894
+Monte Belo de Santa Luzia,-6.0935,-35.9894
+Rio Claro do Triunfo,-6.9289,-35.9892
+Soledade do Leste,-7.8537,-35.9879
+Nova Esperança da Lua,-6.8791,-35.9879
+Conceição dos Ventos,-6.7106,-35.9875
+Sossego do Riacho,-6.2836,-35.9872
+Riacho Verde do Cariri,-7.7384,-35.9866
+Serra Verde do Sítio,-6.9588,-35.9861
+São Geraldo do Sertão,-6.3210,-35.9856
+Rio Verde da Mata,-7.9547,-35.9855
+Carmo do Sertão,-6.9836,-35.9852
+Barra do Rio do Sol,-6.5158,-35.9848
+São Judas do Bom Jesus,-7.0611,-35.9848
+Santa Helena das Pedras,-7.9153,-35.9846
+Alto do Cruzeiro de Baixo,-6.6818,-35.9836
+Santa Rosa da Lua,-6.1301,-35.9823
+Barra do Rio do Carmo,-8.1608,-35.9821
+Salgadinho do Alto,-6.7664,-35.9819
+Sossego,-7.8187,-35.9817
+Salgadinho de Santa Luzia,-7.8944,-35.9809
+Barreira da Estrela,-7.0229,-35.9804
+Glória do Leste,-6.5724,-35.9803
+Água Branca da Lua,-7.7743,-35.9801
+Tabuleiro de Nazaré,-6.6501,-35.9788
+Alegria das Águas,-6.3592,-35.9788
+Nazaré do Norte,-6.1811,-35.9788
+Carmo da Glória,-8.0116,-35.9784
+Graça do Vale,-7.2957,-35.9775
+Nova Aurora da Lua,-8.0351,-35.9767
+Barra Clara de Santa Luzia,-6.4597,-35.9765
+Monte Belo do Norte,-7.1562,-35.9761
+Alto Bonito das Águas,-7.6592,-35.9757
+Santa Maria do Sul,-7.3915,-35.9756
+Alto Bonito do Sol,-7.6052,-35.9753
+Santa Rosa das Águas,-6.6063,-35.9749
+São Francisco do Norte,-7.3479,-35.9746
+Vale Verde da Estrela,-7.5093,-35.9742
+Pedra Branca do Cruzeiro,-7.2685,-35.9740
+Tabuleiro da Esperança,-7.4649,-35.9726
+Monte Belo do Riacho,-7.2167,-35.9724
+Nazaré do Açude,-7.5475,-35.9723
+Rio Verde das Flores,-7.2937,-35.9578
+Floresta da Várzea,-7.2244,-35.9575
+São Paulo do Sul,-7.5084,-35.9567
+Canaã do Açude,-8.0875,-35.9566
+Canaã da Cruz,-6.4957,-35.9566
+Redenção da Conceição,-8.0087,-35.9565
+Alto Alegre de Cima,-7.6466,-35.9561
+Pilões do Norte,-6.2995,-35.9559
+Bela Vista do Cariri,-7.6244,-35.9558
+Horizonte das Águas,-8.1126,-35.9557
+Floresta da Estrela,-7.5286,-35.9554
+São Geraldo da Barra,-6.2105,-35.9552
+São Judas da Lua,-7.8046,-35.9542
+Serra Azul da Paz,-7.9161,-35.9534
+Alegria do Sol,-7.3768,-35.9532
+Serra Branca dos Ventos,-6.9128,-35.9529
+Monte Belo do Sertão,-6.6017,-35.9525
+São Vicente da Lagoa,-7.7415,-35.9523
+Horizonte de Nazaré,-7.4092,-35.9522
+Bela Vista da Lagoa,-6.2534,-35.9515
+Santo Antônio do Leste,-7.5687,-35.9514
+Santa Cruz da Fazenda,-7.8773,-35.9502
+São Pedro do Sítio,-6.3759,-35.9491
+São Paulo da Estrela,-6.8400,-35.9486
+Alto Alegre do Carmo,-7.0608,-35.9477
+Vera Cruz de Baixo,-6.3208,-35.9476
+Cristal da Serra Azul,-6.5779,-35.9476
+Triunfo da Serra,-6.6791,-35.9461
+Misericórdia do Norte,-6.5397,-35.9461
+Santo André do Açude,-7.7012,-35.9461
+Luzia dos Ventos,-6.8075,-35.9455
+Santa Luzia da Serra Azul,-7.8395,-35.9455
+Alcantil da Lagoa,-6.4162,-35.9431
+Cristal de Baixo,-7.3511,-35.9422
+Cruz do Meio do Sul,-6.9887,-35.9413
+Barra Bonita da Glória,-6.6371,-35.9405
+Candeias de Nazaré,-7.2583,-35.9402
+Carmo da Mata,-6.0966,-35.9399
+Nova Aurora do Sertão,-7.1174,-35.9393
+Pedra Branca do Sertão,-6.4443,-35.9392
+Monte Verde,-7.7682,-35.9385
+Princesa do Vale,-7.9619,-35.9369
+Alcantil da Fazenda,-6.1707,-35.9366
+Vale Verde do Norte,-6.1340,-35.9366
+Graça das Pedras,-8.1559,-35.9365
+Riacho Verde do Sítio,-7.1898,-35.9361
+Pau Ferro do Engenho,-6.9553,-35.9351
+Monte Alto do Sul,-8.0484,-35.9350
+Floresta de Santa Luzia,-7.4672,-35.9344
+Soledade da Fazenda,-7.1398,-35.9338
+Luzia do Sertão,-6.7478,-35.9335
+São Miguel da Paz,-7.0354,-35.9334
+Fátima dos Ventos,-6.7171,-35.9331
+Alcantil do Campo,-6.8777,-35.9329
+Umbuzeiro do Litoral,-7.2686,-35.9188
+Salgadinho dos Ventos,-6.9869,-35.9178
+Serrote do Alto,-6.9037,-35.9172
+Jardim do Norte,-7.0433,-35.9170
+Fátima das Flores,-6.6551,-35.9163
+Serrote dos Rios,-6.2660,-35.9161
+Boa Esperança da Serra Azul,-6.5992,-35.9160
+Palmeira do Sertão,-7.3140,-35.9159
+Nova Esperança do Sul,-6.8336,-35.9158
+Soledade das Águas,-6.4214,-35.9146
+Rio Claro do Cariri,-7.1468,-35.9142
+Triunfo do Cariri,-6.1121,-35.9139
+Tabuleiro dos Ventos,-8.0417,-35.9129
+Sossego dos Montes,-6.4830,-35.9128
+Ventura do Sertão,-8.1260,-35.9114
+Santa Teresinha das Águas,-6.5724,-35.9114
+Alto Alegre da Serra,-7.5761,-35.9112
+Ipiranga da Várzea,-6.6947,-35.9110
+Alto Bonito do Cariri,-6.9457,-35.9096
+Bom Sucesso do Cruzeiro,-7.3772,-35.9091
+Barra Grande do Litoral,-7.7415,-35.9088
+Serra Branca da Serra Azul,-7.8862,-35.9087
+Nova Esperança do Brejo,-6.7309,-35.9066
+Nova Esperança de Cima,-6.1678,-35.9060
+Nova Esperança da Lagoa,-7.6886,-35.9053
+Prata da Fazenda,-7.3351,-35.9041
+Canaã do Sul,-7.5473,-35.9029
+Conceição da Esperança,-6.3804,-35.9025
+Riacho Fundo do Açude,-7.9343,-35.9024
+Jardim do Agreste,-6.7706,-35.9019
+Salgadinho do Brejo,-7.8619,-35.9010
+Serra Azul da Fazenda,-7.9544,-35.9004
+Jardim da Serra Azul,-7.8214,-35.9003
+Misericórdia do Vale,-7.4198,-35.9002
+São Miguel da Mata,-6.8646,-35.9001
+Monte Belo da Conceição,-7.4672,-35.8999
+Vale Verde de Cima,-7.6041,-35.8996
+Cruz do Meio da Barra,-8.0787,-35.8993
+Rio Verde de Fátima,-7.6530,-35.8991
+Olho d'Água do Cruzeiro,-7.0698,-35.8987
+Lagoa Seca das Águas,-7.1200,-35.8983
+Pau Ferro do Brejo,-8.1625,-35.8983
+Baraúna do Açude,-6.4389,-35.8974
+Santo Antônio de Baixo,-6.2104,-35.8971
+Independência do Norte,-7.2332,-35.8969
+Misericórdia do Sertão,-6.5295,-35.8960
+São Francisco do Riacho,-7.4994,-35.8959
+Aurora da Lua,-6.2991,-35.8958
+Boa Esperança do Meio,-7.1762,-35.8949
+Bom Jesus do Agreste,-6.3229,-35.8943
+São Sebastião de Cima,-6.8065,-35.8942
+Fátima do Sertão,-7.7819,-35.8942
+Maravilha,-6.1363,-35.8940
+Esperança do Vale,-7.9955,-35.8934
+Tabuleiro do Meio,-7.5865,-35.8799
+Santa Luzia do Meio,-7.7730,-35.8795
+Barra do Rio da Barra,-7.1161,-35.8788
+Redenção do Sul,-6.1435,-35.8781
+Santo Antônio de Cima,-6.3289,-35.8778
+São Bento do Triunfo,-6.6045,-35.8778
+Rio Verde de Santa Luzia,-7.8125,-35.8771
+Paraíso da Fazenda,-7.5442,-35.8769
+Barra Clara do Engenho,-7.3944,-35.8765
+Paraíso da Conceição,-6.1054,-35.8765
+Barra Bonita do Curimataú,-7.8811,-35.8755
+Palmeira do Campo,-6.7890,-35.8755
+Caridade dos Rios,-6.9050,-35.8753
+Salgadinho do Sertão,-6.2843,-35.8728
+Santa Fé da Paz,-7.9736,-35.8728
+Monte Belo da Lagoa,-7.4263,-35.8718
+Jerusalém da Cruz,-8.0140,-35.8711
+Água Doce do Bom Jesus,-7.4649,-35.8709
+São José do Sul,-6.4128,-35.8708
+São Domingos do Campo,-8.0435,-35.8689
+Cachoeira do Riacho,-8.1308,-35.8687
+São Bento de Santa Luzia,-7.6440,-35.8682
+Tabuleiro do Triunfo,-7.2296,-35.8681
+Independência da Cruz,-7.9277,-35.8660
+Sossego do Alto,-6.5275,-35.8653
+Serra Verde das Pedras,-6.1853,-35.8651
+Baraúna do Alto,-6.6721,-35.8649
+Alto Branco da Barra,-7.3150,-35.8648
+Ipiranga do Brejo,-6.3809,-35.8647
+Nova Aurora do Norte,-7.8567,-35.8647
+Carmo do Vale,-6.9868,-35.8645
+Mangabeira do Sul,-6.5732,-35.8645
+Varjota do Litoral,-7.2701,-35.8645
+Candeias do Alto,-8.0740,-35.8643
+Alto Branco do Cruzeiro,-6.2181,-35.8639
+Horizonte do Oeste,-7.6287,-35.8636
+Horizonte da Lua,-8.1485,-35.8636
+Misericórdia do Brejo,-6.4755,-35.8622
+Serra Grande da Várzea,-6.4559,-35.8615
+Pedra Branca do Horizonte,-6.6388,-35.8610
+Vitória da Serra,-6.9443,-35.8601
+Alagoa Nova do Vale,-6.8339,-35.8600
+Cachoeira do Engenho,-6.8816,-35.8587
+Olho d'Água da Lagoa,-7.5105,-35.8584
+Independência da Fazenda,-6.7256,-35.8582
+Floresta da Mata,-6.2655,-35.8581
+Pilões da Esperança,-7.7298,-35.8580
+Santa Fé da Barra,-7.3311,-35.8571
+Glória das Flores,-7.1913,-35.8557
+Vale Verde da Lua,-7.6814,-35.8551
+Serra Azul do Litoral,-7.0614,-35.8551
+Águas Belas do Curimataú,-6.7657,-35.8550
+Cedro das Pedras,-7.0314,-35.8545
+Fortaleza do Agreste,-6.6794,-35.8405
+Santa Rosa do Cruzeiro,-7.9994,-35.8405
+São Judas do Sul,-7.1558,-35.8388
+Santa Helena do Vale,-6.8871,-35.8383
+Olho d'Água do Sítio,-6.2264,-35.8367
+São Bento dos Montes,-6.1847,-35.8362
+Vera Cruz do Meio,-7.5733,-35.8355
+Paraíso da Esperança,-7.1012,-35.8352
+São Judas dos Montes,-8.0721,-35.8351
+Palmeira da Paz,-7.7232,-35.8350
+Jardim do Horizonte,-6.2897,-35.8337
+Misericórdia do Triunfo,-7.2750,-35.8332
+Boa Esperança dos Montes,-6.8482,-35.8330
+Ipiranga da Estrela,-7.4609,-35.8327
+União do Norte,-6.7612,-35.8321
+Liberdade da Paz,-7.5408,-35.8306
+Sossego da Várzea,-8.0525,-35.8304
+São Geraldo do Agreste,-6.6475,-35.8302
+Carmo do Campo,-7.7732,-35.8297
+Tabuleiro do Sítio,-7.9190,-35.8297
+São Judas do Riacho,-8.1339,-35.8291
+Princesa dos Ventos,-6.4040,-35.8282
+Barra Grande do Alto,-6.3436,-35.8281
+Monte Verde do Alto,-7.4959,-35.8281
+Bom Sucesso do Alto,-7.6102,-35.8280
+Boa Esperança da Cruz,-7.8526,-35.8278
+Flores do Triunfo,-7.0451,-35.8276
+Rio Claro do Carmo,-6.5957,-35.8276
+Nazaré do Brejo,-6.4480,-35.8273
+Santo Antônio da Glória,-6.5332,-35.8272
+São Pedro de Santa Luzia,-6.5632,-35.8269
+Caridade da Lua,-8.1662,-35.8248
+Vale Verde do Leste,-7.6662,-35.8245
+Rio Claro de Fátima,-6.9905,-35.8239
+Alto do Cruzeiro da Mata,-6.8005,-35.8234
+Nazaré do Vale,-7.3481,-35.8234
+Carmo do Litoral,-6.9554,-35.8232
+Monte Belo do Sol,-7.7036,-35.8231
+Rio Claro do Oeste,-6.9089,-35.8228
+Rio Verde da Cruz,-7.8022,-35.8222
+Independência do Brejo,-7.3709,-35.8217
+Rio Claro do Brejo,-6.1121,-35.8215
+Água Doce de Santa Luzia,-6.7168,-35.8208
+São José da Lua,-6.4802,-35.8198
+Campo Grande das Pedras,-7.4332,-35.8189
+Baraúna do Sertão,-7.1897,-35.8184
+Salgadinho do Agreste,-7.8792,-35.8178
+Serra Azul do Triunfo,-7.2166,-35.8171
+Redenção das Pedras,-7.0829,-35.8163
+Santa Maria do Alto,-6.3740,-35.8162
+Alto do Cruzeiro de Cima,-7.3084,-35.8157
+Prata do Sítio,-7.9652,-35.8154
+Alagoa Grande da Serra Azul,-6.1424,-35.8154
+Remígio do Engenho,-7.8181,-35.8020
+Barra Bonita do Açude,-7.2653,-35.8017
+Umbuzeiro de Fátima,-7.6276,-35.8013
+Graça da Glória,-7.4890,-35.7999
+São Vicente da Fazenda,-6.7251,-35.7988
+Bom Sucesso do Riacho,-6.4848,-35.7982
+Nazaré dos Montes,-6.1511,-35.7978
+Horizonte do Horizonte,-7.9360,-35.7977
+Serra Grande do Agreste,-7.2238,-35.7973
+Campo Grande do Agreste,-8.1485,-35.7972
+Alto da Serra das Pedras,-6.3406,-35.7969
+Lagoa Seca da Serra Azul,-7.3016,-35.7961
+Nova Esperança do Cariri,-7.4601,-35.7960
+Prata do Cruzeiro,-6.1651,-35.7951
+Águas Belas do Litoral,-7.0400,-35.7950
+Serrote das Pedras,-6.0979,-35.7949
+Santo Antônio do Curimataú,-7.1511,-35.7947
+Santa Rosa de Santa Luzia,-7.8801,-35.7945
+Alagoa Nova das Flores,-7.3700,-35.7940
+Glória da Glória,-6.2250,-35.7938
+Alto Bonito do Norte,-7.1786,-35.7937
+Jerusalém das Águas,-7.0029,-35.7925
+Canaã do Agreste,-7.5733,-35.7922
+Vitória do Bom Jesus,-6.9642,-35.7919
+Cristal do Sol,-6.5759,-35.7917
+São Miguel da Lagoa,-8.0904,-35.7915
+Santa Cruz do Agreste,-6.6037,-35.7915
+Alto Alegre da Lua,-6.7880,-35.7913
+Riacho Fundo do Alto,-7.4128,-35.7909
+Vera Cruz do Riacho,-6.2819,-35.7908
+Nova Vida da Várzea,-8.0328,-35.7905
+Piedade dos Montes,-7.7805,-35.7903
+Santa Maria de Santa Luzia,-7.5343,-35.7895
+Santa Fé do Sertão,-7.3311,-35.7889
+Salgadinho da Serra Azul,-7.9621,-35.7884
+Barra Grande do Curimataú,-7.7347,-35.7878
+Tabuleiro de Fátima,-7.8618,-35.7877
+Alto Bonito do Triunfo,-8.0031,-35.7871
+São Paulo de Baixo,-7.1117,-35.7862
+Salgadinho da Conceição,-6.4124,-35.7859
+Barra do Rio das Águas,-7.6846,-35.7858
+Esperança da Cruz,-6.5161,-35.7846
+Jerusalém do Vale,-6.4549,-35.7845
+Serra Azul do Cariri,-6.2640,-35.7833
+Santa Fé da Cruz,-6.8867,-35.7827
+Baraúna do Engenho,-8.1198,-35.7822
+Candeias do Cariri,-6.8384,-35.7817
+Alto Branco de Nazaré,-6.6527,-35.7814
+Serrote da Glória,-6.7688,-35.7810
+Olho d'Água do Leste,-7.6460,-35.7804
+Prata do Vale,-7.0757,-35.7803
+São Francisco da Serra Azul,-6.9096,-35.7797
+Umbuzeiro do Cruzeiro,-6.6950,-35.7777
+Água Doce da Lua,-6.3822,-35.7764
+Pau Ferro da Esperança,-7.0827,-35.7627
+Aroeira do Vale,-7.4933,-35.7626
+Jerusalém do Triunfo,-6.5215,-35.7626
+Alto Bonito da Conceição,-7.8551,-35.7620
+Conceição da Conceição,-7.7204,-35.7618
+Cachoeira do Cruzeiro,-6.8782,-35.7617
+Sossego do Horizonte,-8.0033,-35.7603
+São Domingos do Riacho,-6.3260,-35.7598
+Jardim de Santa Luzia,-7.3085,-35.7591
+Serra Verde do Cariri,-7.1533,-35.7575
+Pedra Lavrada do Engenho,-6.2254,-35.7572
+São Domingos do Litoral,-6.7294,-35.7572
+Nova Aurora da Fazenda,-6.2892,-35.7567
+Jardim das Águas,-7.0392,-35.7565
+Tabuleiro do Cariri,-6.7481,-35.7562
+Campo Belo da Esperança,-7.1794,-35.7558
+Liberdade do Sítio,-8.1283,-35.7552
+São Francisco do Vale,-6.4563,-35.7547
+Santa Fé do Alto,-7.4090,-35.7547
+Aurora da Glória,-6.1265,-35.7545
+Paraíso do Engenho,-7.6431,-35.7536
+Alto do Cruzeiro da Conceição,-7.4727,-35.7535
+São Bento da Glória,-6.1094,-35.7528
+Alto Branco da Fazenda,-6.9198,-35.7527
+Alto do Cruzeiro do Sol,-6.2641,-35.7527
+Alcantil do Sol,-6.6871,-35.7524
+Santo André da Paz,-6.9980,-35.7520
+São Pedro do Sul,-6.6354,-35.7517
+Água Doce da Fazenda,-7.9315,-35.7504
+Jerusalém do Carmo,-7.5862,-35.7495
+Caridade da Lagoa,-8.1572,-35.7493
+Pedra Lavrada do Oeste,-7.7798,-35.7488
+Alcantil da Paz,-6.1756,-35.7481
+Umbuzeiro das Pedras,-7.3857,-35.7473
+Redenção da Lagoa,-6.4165,-35.7468
+Mangabeira das Flores,-6.8013,-35.7467
+Alto Alegre do Meio,-6.8262,-35.7465
+Umbuzeiro da Barra,-6.3822,-35.7456
+Serra Verde da Lua,-7.3490,-35.7454
+Nazaré do Cruzeiro,-7.6884,-35.7454
+Pedra Branca do Leste,-6.5928,-35.7436
+São Bento da Várzea,-7.6073,-35.7435
+Piedade do Engenho,-7.2590,-35.7431
+Rio Verde da Esperança,-7.2169,-35.7424
+Serrote da Esperança,-7.5409,-35.7422
+Vale Verde da Serra,-6.9449,-35.7415
+Canaã do Campo,-7.8000,-35.7399
+Remígio do Horizonte,-7.1131,-35.7389
+Riacho Fundo da Lua,-8.0740,-35.7383
+Bom Jesus do Sertão,-8.0328,-35.7382
+Soledade da Esperança,-6.5588,-35.7380
+Alto da Serra de Cima,-6.4903,-35.7379
+Soledade da Lagoa,-7.9777,-35.7375
+Alcantil do Triunfo,-7.8885,-35.7375
+Terra Nova do Campo,-6.7139,-35.7239
+Estrela da Mata,-7.1756,-35.7233
+Bom Sucesso da Serra,-8.0127,-35.7232
+Cachoeira da Lagoa,-7.5059,-35.7221
+Caridade da Fazenda,-6.6938,-35.7215
+Vitória da Serra Azul,-7.5347,-35.7205
+Alto Branco da Conceição,-6.9876,-35.7197
+Alto da Serra do Sol,-6.7694,-35.7196
+Pedra Lavrada da Lua,-7.7682,-35.7188
+São Domingos do Vale,-7.6269,-35.7182
+Boa Esperança do Sertão,-6.4421,-35.7178
+São Sebastião do Horizonte,-6.2634,-35.7175
+Graça do Carmo,-6.6451,-35.7169
+Alto da Serra do Curimataú,-7.4654,-35.7163
+Águas Belas da Lua,-8.0453,-35.7163
+São Domingos de Cima,-7.8821,-35.7142
+Fátima do Leste,-7.8203,-35.7138
+Campo Belo do Oeste,-6.3753,-35.7133
+Fortaleza das Águas,-8.0732,-35.7129
+Esperança dos Rios,-7.0266,-35.7120
+Varjota do Sol,-8.1533,-35.7107
+Alcantil dos Rios,-6.8822,-35.7098
+União do Triunfo,-7.7334,-35.7097
+Princesa da Cruz,-7.2298,-35.7096
+Santa Teresinha do Sul,-6.1314,-35.7090
+Fátima do Oeste,-6.9527,-35.7090
+Aurora da Fazenda,-6.8458,-35.7087
+Bom Jesus da Serra,-7.4224,-35.7075
+Flores das Flores,-6.2968,-35.7074
+Piedade do Norte,-6.5231,-35.7071
+Cruz do Meio de Cima,-7.2761,-35.7069
+Floresta do Vale,-7.1411,-35.7061
+Serra Azul do Vale,-6.5770,-35.7057
+Baraúna de Nazaré,-6.8105,-35.7056
+Monte Belo da Esperança,-7.7019,-35.7052
+Barreira do Campo,-6.3312,-35.7052
+Pedra Branca do Norte,-6.6154,-35.7052
+Esperança,-7.5815,-35.7049
+São Vicente da Barra,-7.3371,-35.7048
+Santa Cruz do Horizonte,-8.1114,-35.7041
+Santa Cruz da Lagoa,-6.9235,-35.7041
+Alto Branco do Alto,-7.6498,-35.7034
+Boa Esperança da Mata,-6.1794,-35.7031
+Barreira da Conceição,-7.3170,-35.7026
+Campo Grande do Cariri,-7.9686,-35.7019
+Piedade da Lua,-6.1096,-35.7017
+Monte Alto dos Ventos,-7.9307,-35.7016
+Conceição do Sítio,-6.4906,-35.7014
+Riacho Verde de Nazaré,-7.0728,-35.7009
+Carmo do Riacho,-7.8612,-35.7004
+Lagoa Seca da Esperança,-6.4219,-35.7001
+Nova Aurora do Alto,-7.1188,-35.6998
+Cachoeira do Leste,-7.3812,-35.6992
+Rio Verde do Horizonte,-6.2118,-35.6991
+Alto Branco da Várzea,-7.9306,-35.6848
+Fátima da Serra Azul,-7.4502,-35.6822
+Cachoeira da Esperança,-6.8767,-35.6821
+São José dos Ventos,-6.7101,-35.6818
+Nova Esperança do Agreste,-6.3268,-35.6817
+São Judas do Norte,-7.1466,-35.6802
+São Paulo das Flores,-6.3047,-35.6792
+São Pedro da Esperança,-6.8433,-35.6790
+Aroeira do Sul,-8.1690,-35.6784
+Palmeira da Fazenda,-7.3452,-35.6783
+Primavera da Várzea,-6.4903,-35.6783
+Maravilha das Flores,-6.5647,-35.6780
+Alcantil do Alto,-6.7568,-35.6775
+Rio Verde do Meio,-7.8537,-35.6774
+Barreira do Carmo,-8.0057,-35.6767
+Rio Bonito do Cruzeiro,-7.4912,-35.6752
+Estrela do Sítio,-6.1809,-35.6750
+Serrote do Oeste,-7.1974,-35.6748
+Graça dos Ventos,-7.7377,-35.6748
+São Geraldo do Cruzeiro,-8.0780,-35.6738
+Umbuzeiro dos Rios,-7.8866,-35.6736
+Nazaré do Meio,-7.9744,-35.6730
+Bom Sucesso,-6.5215,-35.6723
+São Judas do Carmo,-7.6886,-35.6718
+Graça das Flores,-8.0457,-35.6717
+Remígio do Agreste,-6.2215,-35.6712
+Lagoa Seca de Baixo,-6.7956,-35.6712
+Santa Rosa do Sítio,-6.0896,-35.6705
+Vitória do Sol,-7.6235,-35.6704
+Vitória do Sítio,-7.6477,-35.6702
+União da Lagoa,-6.4614,-35.6688
+Umbuzeiro da Mata,-7.5397,-35.6681
+Princesa da Paz,-6.1478,-35.6677
+Candeias de Baixo,-7.2710,-35.6674
+Aroeira do Sol,-8.1199,-35.6673
+Alcantil do Brejo,-7.5849,-35.6664
+Nova Aurora do Curimataú,-7.3089,-35.6662
+Luzia de Nazaré,-7.8062,-35.6659
+Bom Sucesso da Serra Azul,-6.4156,-35.6655
+São Sebastião do Riacho,-7.1180,-35.6653
+Paraíso de Baixo,-6.6089,-35.6652
+Santa Teresinha da Fazenda,-7.2159,-35.6646
+Santo André do Sertão,-7.0833,-35.6646
+Conceição do Açude,-6.2655,-35.6633
+Conceição da Fazenda,-6.6426,-35.6632
+Nova Esperança da Barra,-6.9674,-35.6632
+Santa Teresinha de Fátima,-7.0430,-35.6629
+Maravilha da Serra,-6.3614,-35.6602
+Vitória do Litoral,-6.9994,-35.6602
+Serra Azul do Riacho,-7.3908,-35.6600
+Princesa do Triunfo,-6.6896,-35.6597
+Santa Maria do Leste,-7.7830,-35.6597
+Luzia do Litoral,-7.4293,-35.6597
+São João da Lua,-6.9231,-35.6596
+Luzia do Cariri,-6.3225,-35.6459
+Jardim dos Montes,-8.0488,-35.6456
+São Judas da Esperança,-6.4806,-35.6451
+Tabuleiro do Vale,-7.2248,-35.6443
+Independência das Pedras,-6.3841,-35.6442
+Misericórdia da Estrela,-6.9228,-35.6427
+Flores do Cruzeiro,-7.9364,-35.6424
+Aurora das Flores,-6.6423,-35.6420
+Princesa da Lua,-7.6088,-35.6419
+Jerusalém do Cruzeiro,-6.7122,-35.6419
+Esperança do Açude,-7.3792,-35.6416
+São Judas do Engenho,-7.5714,-35.6404
+Terra Nova da Serra,-8.1155,-35.6401
+São Francisco do Oeste,-7.9950,-35.6397
+Ipiranga do Curimataú,-7.8114,-35.6384
+São Paulo do Cruzeiro,-6.8114,-35.6379
+Santo André do Norte,-7.8442,-35.6376
+Águas Belas da Esperança,-7.9546,-35.6376
+Redenção do Campo,-7.5371,-35.6364
+Ipiranga do Norte,-7.1555,-35.6356
+Cedro da Conceição,-7.8793,-35.6355
+Serra Azul do Carmo,-6.8820,-35.6343
+Santa Helena da Várzea,-6.7580,-35.6342
+São Domingos do Norte,-6.2051,-35.6334
+Salgadinho da Várzea,-6.1859,-35.6325
+Baraúna da Glória,-6.1028,-35.6320
+São Domingos do Engenho,-7.0612,-35.6318
+Primavera do Horizonte,-7.4610,-35.6300
+São João da Mata,-7.7063,-35.6299
+Luzia de Santa Luzia,-6.3020,-35.6298
+Rio Bonito do Sol,-6.9529,-35.6275
+Conceição do Bom Jesus,-7.2607,-35.6273
+São Lourenço do Sítio,-7.1047,-35.6271
+Barreira das Águas,-8.1513,-35.6270
+Riacho Fundo do Horizonte,-6.6708,-35.6260
+Esperança da Barra,-6.4175,-35.6246
+Monte Belo da Várzea,-7.7632,-35.6243
+São Braz da Serra Azul,-6.1292,-35.6243
+Alegria da Glória,-7.2934,-35.6230
+São Judas do Litoral,-7.6628,-35.6229
+Pedra Lavrada da Barra,-8.0785,-35.6228
+Santo Antônio do Carmo,-7.3382,-35.6228
+Barreira da Mata,-6.6168,-35.6227
+Boa Esperança da Lua,-7.4197,-35.6227
+Santo André do Sítio,-7.4875,-35.6226
+Paraíso da Serra,-6.2636,-35.6225
+Pilões da Mata,-7.0022,-35.6222
+Alto Branco do Cariri,-7.7345,-35.6222
+Horizonte do Cariri,-7.0266,-35.6214
+Caridade do Sol,-6.5303,-35.6214
+Vale Verde da Várzea,-6.8333,-35.6210
+Vera Cruz da Conceição,-7.1828,-35.6206
+Jardim do Curimataú,-6.5663,-35.6204
+Vitória de Cima,-6.4487,-35.6203
+Canaã do Carmo,-7.3389,-35.6067
+Nova Esperança do Alto,-6.7642,-35.6050
+Rio Bonito das Águas,-6.9133,-35.6047
+Monte Verde da Glória,-7.5340,-35.6045
+Aliança de Baixo,-6.2960,-35.6043
+Campo Belo do Meio,-7.0723,-35.6041
+Fátima do Agreste,-7.3031,-35.6037
+Cruz do Meio da Serra,-6.3404,-35.6026
+São Sebastião do Curimataú,-7.2347,-35.6023
+Caridade da Estrela,-6.5755,-35.6017
+São Pedro dos Rios,-7.4300,-35.6009
+Umbuzeiro dos Ventos,-7.9574,-35.6008
+São Domingos do Brejo,-7.7390,-35.6007
+São Sebastião do Engenho,-6.3716,-35.6004
+Santa Teresinha da Mata,-7.4969,-35.5997
+Santo Antônio do Norte,-7.5720,-35.5993
+Bela Vista do Sítio,-6.8106,-35.5990
+Cristal do Agreste,-6.6148,-35.5984
+Serra Branca do Sul,-6.5256,-35.5975
+Cristal da Lua,-7.6650,-35.5974
+Conceição do Horizonte,-6.7122,-35.5968
+São Judas da Conceição,-6.1423,-35.5967
+Campo Grande da Cruz,-7.0440,-35.5962
+Campo Belo da Paz,-8.1534,-35.5958
+Piedade do Litoral,-7.2728,-35.5954
+Glória dos Ventos,-6.6781,-35.5947
+Barra Grande do Sol,-6.4534,-35.5942
+Fortaleza do Curimataú,-6.8448,-35.5938
+Serra Grande do Sol,-7.7689,-35.5931
+Santa Rosa do Meio,-8.1319,-35.5929
+Alagoa Nova do Horizonte,-7.4558,-35.5924
+Luzia do Carmo,-7.8012,-35.5920
+Riacho Verde do Agreste,-6.9569,-35.5920
+Campo Grande da Serra Azul,-8.0367,-35.5918
+Rio Verde de Nazaré,-7.8967,-35.5918
+Paraíso do Sítio,-6.1018,-35.5915
+Bom Sucesso do Engenho,-6.4946,-35.5915
+São Vicente da Paz,-6.2474,-35.5914
+Serra Grande do Sertão,-6.4138,-35.5912
+Conceição do Riacho,-7.9248,-35.5911
+Triunfo dos Montes,-7.1120,-35.5902
+Monte Verde da Lua,-8.0776,-35.5896
+Cachoeira do Campo,-7.3745,-35.5888
+Ventura do Brejo,-6.9956,-35.5885
+Fátima do Engenho,-7.6880,-35.5881
+Alto Bonito,-7.1933,-35.5874
+Água Branca da Mata,-7.1550,-35.5862
+Baraúna de Baixo,-6.1719,-35.5841
+Salgadinho da Mata,-7.6208,-35.5834
+Ventura do Bom Jesus,-6.8817,-35.5829
+São Geraldo do Horizonte,-6.6365,-35.5826
+Ventura,-7.8611,-35.5823
+Aliança,-6.4385,-35.5674
+Campo Belo das Águas,-7.6576,-35.5670
+Monte Verde de Santa Luzia,-6.4856,-35.5670
+Barreira do Sertão,-6.9592,-35.5661
+Santo Antônio do Sul,-7.1534,-35.5658
+Lagoa Seca dos Rios,-6.3445,-35.5656
+Monte Verde do Triunfo,-7.2394,-35.5653
+São Paulo da Glória,-7.8189,-35.5647
+Luzia da Glória,-8.0544,-35.5646
+Alto Alegre da Barra,-7.3892,-35.5639
+Caridade do Agreste,-7.4490,-35.5620
+Barra Bonita dos Montes,-8.1632,-35.5615
+Maravilha do Horizonte,-6.9972,-35.5612
+Triunfo da Glória,-7.2546,-35.5612
+São José da Esperança,-6.2990,-35.5610
+Esperança da Conceição,-6.3758,-35.5609
+Água Branca do Sol,-7.0207,-35.5606
+Santo Antônio das Flores,-6.8461,-35.5606
+Ipiranga de Santa Luzia,-8.0704,-35.5597
+Monte Alto das Águas,-6.5207,-35.5593
+Cedro de Fátima,-6.1737,-35.5587
+São Vicente do Riacho,-6.2424,-35.5582
+Cruz do Meio da Glória,-6.4137,-35.5582
+Bom Jesus da Fazenda,-7.9539,-35.5580
+Mangabeira do Bom Jesus,-7.5651,-35.5566
+Independência do Sítio,-6.9275,-35.5558
+Paraíso da Barra,-7.7430,-35.5551
+Vitória do Carmo,-7.4134,-35.5550
+Santo André da Conceição,-7.1068,-35.5545
+Conceição da Várzea,-6.7319,-35.5543
+Cristal do Litoral,-6.7496,-35.5526
+Barra do Rio do Sítio,-7.2965,-35.5514
+São João de Fátima,-7.6911,-35.5509
+Jerusalém da Várzea,-7.6079,-35.5498
+Barra do Rio do Bom Jesus,-7.8587,-35.5497
+Vera Cruz das Flores,-7.5095,-35.5495
+Alagoa Grande do Cruzeiro,-6.1363,-35.5494
+Barra Bonita das Águas,-7.8791,-35.5487
+Canaã do Cruzeiro,-7.7634,-35.5486
+São Sebastião da Várzea,-7.1832,-35.5475
+Alto da Serra do Campo,-6.6153,-35.5473
+Cruz do Meio dos Rios,-7.3412,-35.5473
+Varjota,-6.6339,-35.5468
+Nova Aurora do Engenho,-6.2269,-35.5464
+Nova Esperança da Conceição,-6.5537,-35.5458
+Ventura do Cruzeiro,-7.0652,-35.5457
+Alagoa Nova do Açude,-7.5281,-35.5456
+São Francisco do Carmo,-6.8768,-35.5455
+Santa Helena do Campo,-7.9294,-35.5443
+Fátima de Santa Luzia,-8.1171,-35.5443
+Liberdade da Esperança,-8.0052,-35.5434
+Caridade da Esperança,-6.8061,-35.5424
+Baraúna das Águas,-6.6933,-35.5422
+São João do Brejo,-7.3554,-35.5287
+Alagoa Grande dos Ventos,-6.4016,-35.5285
+São Miguel do Sertão,-7.2590,-35.5281
+Santa Maria do Engenho,-6.6945,-35.5279
+São Pedro do Riacho,-6.9609,-35.5274
+Ventura da Serra Azul,-6.1278,-35.5269
+Salgadinho do Curimataú,-7.2151,-35.5265
+São Pedro do Cariri,-7.3104,-35.5263
+São Sebastião do Campo,-6.2854,-35.5255
+Caridade do Alto,-6.5331,-35.5255
+Barra do Rio do Sertão,-7.0280,-35.5254
+Monte Alto do Vale,-6.6539,-35.5251
+Conceição das Pedras,-7.1926,-35.5233
+Santa Helena do Norte,-6.8436,-35.5229
+Floresta do Leste,-8.1573,-35.5222
+Salgadinho de Nazaré,-7.1450,-35.5216
+Paraíso do Açude,-6.7883,-35.5208
+São Pedro do Engenho,-6.2530,-35.5207
+Rio Claro do Bom Jesus,-7.6921,-35.5206
+União da Esperança,-6.1745,-35.5205
+Cruz do Meio do Sítio,-7.3857,-35.5191
+Jardim do Açude,-6.4855,-35.5190
+Vitória do Açude,-7.6591,-35.5179
+Serra Branca do Sítio,-7.9306,-35.5172
+Terra Nova do Sítio,-8.1241,-35.5170
+Águas Belas das Pedras,-7.5470,-35.5158
+Alto do Cruzeiro do Engenho,-8.0398,-35.5139
+Soledade dos Rios,-7.8504,-35.5135
+Santa Luzia do Carmo,-6.9087,-35.5134
+São João do Bom Jesus,-6.7176,-35.5126
+Santa Teresinha do Vale,-6.8731,-35.5125
+Luzia do Norte,-7.8128,-35.5117
+Serra Grande do Triunfo,-6.9927,-35.5116
+Santo Antônio do Cariri,-7.4556,-35.5110
+Santa Maria do Cruzeiro,-7.1101,-35.5089
+Glória do Sertão,-6.6122,-35.5081
+Monte Alto do Bom Jesus,-7.6204,-35.5078
+Jardim do Litoral,-6.4610,-35.5076
+Nova Esperança das Águas,-7.4207,-35.5075
+Aurora do Curimataú,-8.0731,-35.5072
+São Francisco de Santa Luzia,-6.3747,-35.5072
+Baraúna da Lua,-6.1025,-35.5072
+Água Branca de Santa Luzia,-6.5533,-35.5068
+Santa Fé do Agreste,-7.7367,-35.5064
+Serra Azul do Sul,-6.2172,-35.5063
+Terra Nova do Leste,-7.0842,-35.5063
+Serra Grande da Barra,-7.8901,-35.5062
+Palmeira do Agreste,-6.3377,-35.5059
+Água Branca da Glória,-6.7578,-35.5059
+São José do Campo,-7.7627,-35.5054
+Alto da Serra do Sítio,-8.0002,-35.5052
+Pilões do Brejo,-7.9622,-35.5038
+Ventura dos Montes,-7.5779,-35.5034
+Nazaré do Leste,-7.4945,-35.5033
+Cedro de Baixo,-7.0327,-35.4892
+Santo André dos Ventos,-6.9068,-35.4891
+Alto Alegre do Oeste,-7.2181,-35.4883
+Água Branca da Fazenda,-6.4070,-35.4881
+Primavera do Cruzeiro,-6.1727,-35.4866
+Fortaleza de Cima,-6.6086,-35.4866
+Princesa do Carmo,-7.5653,-35.4865
+Nova Aurora da Barra,-7.8957,-35.4861
+Nova Vida do Cariri,-7.9276,-35.4859
+São Lourenço dos Montes,-6.5665,-35.4857
+Conceição do Vale,-7.1023,-35.4851
+São José da Estrela,-7.7211,-35.4847
+Barra Bonita do Triunfo,-6.4497,-35.4841
+Soledade do Curimataú,-6.8416,-35.4841
+Alto Branco de Fátima,-6.5255,-35.4825
+Glória do Açude,-6.8078,-35.4817
+Terra Nova da Conceição,-8.1259,-35.4816
+Sossego da Lua,-7.9570,-35.4807
+Lagoa Seca da Serra,-7.3360,-35.4796
+Baraúna da Várzea,-6.6526,-35.4793
+Fortaleza da Serra,-6.0993,-35.4791
+Flores da Mata,-8.0565,-35.4778
+São Miguel da Lua,-7.8575,-35.4773
+Vale Verde do Meio,-7.8118,-35.4760
+São Bento do Cruzeiro,-7.4640,-35.4759
+Rio Bonito do Horizonte,-6.7168,-35.4756
+Nova Aurora da Serra Azul,-8.0818,-35.4753
+Jerusalém da Estrela,-7.5054,-35.4750
+Pilões do Engenho,-7.4319,-35.4747
+Vera Cruz da Esperança,-7.6598,-35.4745
+Pedra Lavrada do Bom Jesus,-6.4894,-35.4742
+São Vicente do Horizonte,-7.7053,-35.4740
+Remígio do Alto,-6.3714,-35.4723
+Pedra Branca do Litoral,-6.2477,-35.4711
+Paraíso da Glória,-7.5431,-35.4709
+Esperança do Campo,-6.6808,-35.4703
+Alto Branco do Bom Jesus,-7.6235,-35.4702
+São João do Alto,-7.2681,-35.4697
+Nova Vida de Baixo,-6.9650,-35.4695
+Nova Esperança do Bom Jesus,-6.3233,-35.4694
+São Pedro da Paz,-6.2054,-35.4694
+Estrela do Sul,-7.1820,-35.4685
+Cachoeira de Nazaré,-7.3015,-35.4685
+Sossego de Fátima,-7.0018,-35.4681
+Tabuleiro da Mata,-7.1556,-35.4679
+Serrote da Mata,-6.7610,-35.4678
+Pilões do Litoral,-8.0008,-35.4666
+Triunfo do Litoral,-6.3035,-35.4665
+Santa Cruz do Sul,-7.0832,-35.4662
+Santa Maria da Lua,-6.1357,-35.4658
+Serra Azul do Bom Jesus,-8.1589,-35.4650
+Serra Grande do Sítio,-7.7651,-35.4648
+Santa Fé das Flores,-7.3881,-35.4646
+Vitória das Águas,-6.8804,-35.4646
+Monte Verde dos Montes,-6.2495,-35.4507
+Alagoa Nova de Cima,-7.0635,-35.4506
+Aliança da Várzea,-6.2272,-35.4506
+Serra Grande do Curimataú,-6.7936,-35.4505
+Glória de Fátima,-7.4344,-35.4503
+São José das Pedras,-7.3399,-35.4503
+Nova Vida do Brejo,-8.0721,-35.4502
+Riacho Verde do Açude,-6.4811,-35.4497
+Riacho Verde das Flores,-7.1093,-35.4496
+Nova Vida da Cruz,-7.7632,-35.4494
+Ventura da Lagoa,-7.3015,-35.4492
+Glória do Cariri,-6.7276,-35.4490
+Santa Luzia da Cruz,-7.1955,-35.4481
+Alto do Cruzeiro dos Montes,-6.3438,-35.4474
+Candeias da Lagoa,-6.6793,-35.4471
+Jerusalém do Sul,-8.1553,-35.4470
+Umbuzeiro de Santa Luzia,-7.7298,-35.4469
+Cristal do Sítio,-6.2813,-35.4461
+Pau Ferro do Norte,-6.1313,-35.4458
+Vale Verde dos Montes,-8.1162,-35.4441
+Caridade do Açude,-7.8037,-35.4433
+Floresta do Sertão,-6.4369,-35.4428
+Carmo do Cariri,-7.5289,-35.4426
+São Miguel dos Rios,-7.6553,-35.4425
+Baraúna dos Montes,-7.5794,-35.4418
+Riacho Verde da Várzea,-6.5978,-35.4416
+Fortaleza do Alto,-7.8580,-35.4398
+Cristal do Curimataú,-6.9178,-35.4397
+Varjota das Pedras,-6.9673,-35.4390
+Primavera de Baixo,-7.2272,-35.4380
+Luzia do Sul,-7.5094,-35.4379
+Campo Grande da Conceição,-6.5353,-35.4373
+Pedra Branca do Agreste,-7.8891,-35.4368
+Nova Vida do Açude,-6.8813,-35.4360
+Cruz do Meio,-6.4182,-35.4359
+Santa Teresinha do Norte,-7.9716,-35.4352
+Nova Esperança do Litoral,-7.0372,-35.4352
+Conceição do Cruzeiro,-7.4581,-35.4352
+Graça da Estrela,-6.6384,-35.4348
+Canaã da Mata,-7.6957,-35.4347
+Glória dos Montes,-6.5538,-35.4346
+Riacho Fundo do Cruzeiro,-6.8476,-35.4341
+Santa Helena da Esperança,-7.1402,-35.4318
+Serra Verde de Santa Luzia,-6.3827,-35.4315
+Alcantil do Leste,-6.1021,-35.4313
+Alto do Cruzeiro do Sítio,-6.9835,-35.4307
+Nova Esperança do Sítio,-7.3746,-35.4299
+São Pedro das Pedras,-6.7621,-35.4290
+Santa Maria das Flores,-6.1815,-35.4284
+São Lourenço de Cima,-8.0556,-35.4279
+Misericórdia,-7.9286,-35.4272
+Nova Vida dos Montes,-8.0163,-35.4268
+Serra Branca do Riacho,-7.2582,-35.4263
+São Domingos da Várzea,-6.5380,-35.4115
+Conceição da Estrela,-7.3797,-35.4108
+Ipiranga do Sertão,-6.8497,-35.4090
+Horizonte do Vale,-7.4643,-35.4086
+Flores da Barra,-6.8678,-35.4085
+Riacho Fundo dos Ventos,-7.1905,-35.4066
+Nova Vida do Carmo,-8.1503,-35.4065
+Rio Claro do Sertão,-8.0545,-35.4062
+Fortaleza do Campo,-6.4528,-35.4060
+Paraíso do Leste,-7.4897,-35.4057
+Luzia de Baixo,-6.9634,-35.4056
+Umbuzeiro de Cima,-6.1305,-35.4054
+Varjota do Agreste,-7.5683,-35.4051
+Alto do Cruzeiro do Litoral,-6.2649,-35.4051
+Princesa de Santa Luzia,-7.3430,-35.4045
+Nazaré do Horizonte,-6.5663,-35.4037
+Varjota da Serra,-6.6464,-35.4037
+Carmo do Curimataú,-6.1745,-35.4034
+Alto Alegre das Águas,-6.5949,-35.4029
+Vera Cruz do Açude,-6.0935,-35.4027
+Lagoa Seca da Lagoa,-7.6937,-35.4022
+Santa Luzia do Triunfo,-6.2847,-35.4019
+São Francisco da Glória,-7.2756,-35.4018
+São Braz do Riacho,-6.3381,-35.4009
+Alto Bonito da Serra,-6.4154,-35.4008
+Águas Belas dos Montes,-7.4299,-35.3981
+Barra Grande da Serra Azul,-7.6533,-35.3979
+Varjota dos Montes,-6.8027,-35.3970
+Monte Belo do Litoral,-7.2969,-35.3964
+Vera Cruz da Serra,-8.0719,-35.3962
+São Lourenço do Riacho,-7.8976,-35.3962
+Aroeira do Cruzeiro,-7.8476,-35.3949
+Jardim da Lagoa,-7.0612,-35.3949
+Alegria,-6.9090,-35.3942
+Rio Bonito da Esperança,-7.7383,-35.3937
+Riacho Fundo da Mata,-6.9843,-35.3934
+Santo André das Pedras,-7.7626,-35.3930
+Floresta do Oeste,-7.0376,-35.3928
+Alto Branco do Carmo,-7.1429,-35.3924
+Santa Maria do Meio,-6.7237,-35.3923
+Serra Branca do Sol,-7.9683,-35.3919
+Pedra Branca do Campo,-7.5423,-35.3913
+Glória do Alto,-6.6759,-35.3912
+Misericórdia da Glória,-7.1017,-35.3911
+Triunfo do Engenho,-7.2346,-35.3906
+Luzia do Bom Jesus,-8.1192,-35.3902
+Rio Claro dos Rios,-6.2266,-35.3898
+Santa Luzia do Curimataú,-7.9178,-35.3892
+Umbuzeiro do Alto,-6.3792,-35.3876
+Boa Esperança do Horizonte,-8.0047,-35.3869
+Vitória da Barra,-6.7606,-35.3865
+Maravilha de Santa Luzia,-7.8040,-35.3864
+São Lourenço de Santa Luzia,-7.6053,-35.3723
+Liberdade dos Rios,-7.5070,-35.3711
+Santa Maria dos Rios,-6.9476,-35.3710
+Cedro do Riacho,-7.3037,-35.3696
+Santo André da Barra,-7.7233,-35.3695
+Santa Fé do Carmo,-6.6072,-35.3685
+Monte Belo do Agreste,-7.1555,-35.3678
+Paraíso do Carmo,-6.5210,-35.3677
+São Francisco de Fátima,-7.6924,-35.3670
+Rio Verde dos Montes,-6.3753,-35.3669
+Santa Teresinha da Cruz,-6.1406,-35.3656
+São João da Cruz,-6.4409,-35.3655
+Graça do Leste,-7.3486,-35.3655
+Aliança do Cariri,-6.2951,-35.3653
+Monte Belo do Sul,-6.1705,-35.3651
+Alto da Serra da Lagoa,-7.8600,-35.3647
+São Vicente da Lua,-7.5885,-35.3633
+Barra Grande da Estrela,-6.6559,-35.3633
+Terra Nova do Vale,-6.6808,-35.3620
+Santa Cruz do Triunfo,-7.7699,-35.3612
+Redenção do Cariri,-6.2202,-35.3603
+Águas Belas de Cima,-7.4266,-35.3598
+Cedro dos Montes,-7.0437,-35.3598
+Candeias de Cima,-8.1176,-35.3597
+Jerusalém de Fátima,-7.9225,-35.3587
+Estrela de Nazaré,-7.2159,-35.3579
+São Paulo da Fazenda,-7.0027,-35.3578
+São Francisco do Alto,-6.9114,-35.3575
+Nova Aurora do Litoral,-7.1185,-35.3571
+Jardim da Serra,-7.5326,-35.3570
+Prata dos Ventos,-6.8511,-35.3570
+São Vicente do Campo,-6.7547,-35.3570
+Serra Branca da Mata,-7.2542,-35.3568
+Bom Jesus da Mata,-6.7157,-35.3567
+Candeias da Várzea,-6.5568,-35.3565
+Barra Grande de Cima,-7.1807,-35.3550
+Triunfo do Campo,-8.1597,-35.3549
+Alagoa Grande do Litoral,-7.8802,-35.3525
+Alto do Cruzeiro do Campo,-6.2451,-35.3525
+Serra Verde das Águas,-7.3794,-35.3519
+Santa Cruz do Meio,-6.4847,-35.3509
+Serra Verde do Meio,-6.8845,-35.3509
+Barra Grande de Nazaré,-7.9550,-35.3507
+Monte Alto de Santa Luzia,-6.4210,-35.3506
+Sossego da Esperança,-7.0765,-35.3506
+Esperança do Sertão,-8.0870,-35.3494
+Aliança da Fazenda,-6.7886,-35.3494
+Vale Verde,-7.6664,-35.3494
+Primavera da Paz,-8.0063,-35.3488
+Palmeira do Cariri,-6.3224,-35.3483
+Cruz do Meio do Açude,-7.8231,-35.3482
+Santo André do Leste,-8.0528,-35.3480
+Estrela de Cima,-7.4699,-35.3479
+Serra Verde do Sul,-6.0941,-35.3470
+Monte Alto da Mata,-7.7274,-35.3334
+Sossego do Agreste,-7.0267,-35.3325
+Fortaleza do Sol,-7.8954,-35.3320
+Santa Helena da Glória,-6.2259,-35.3319
+Cachoeira da Barra,-8.0550,-35.3316
+São João do Sol,-6.8305,-35.3316
+Vitória do Brejo,-7.5479,-35.3313
+Água Doce da Cruz,-7.1146,-35.3298
+Umbuzeiro de Baixo,-7.6601,-35.3292
+Aliança da Barra,-6.6858,-35.3290
+Rio Bonito da Mata,-8.1247,-35.3288
+Serra Verde da Esperança,-6.7916,-35.3287
+Canaã do Horizonte,-6.4810,-35.3284
+Alto Bonito do Litoral,-8.1543,-35.3283
+Bom Sucesso da Esperança,-7.6938,-35.3274
+Umbuzeiro dos Montes,-6.5331,-35.3270
+Luzia do Riacho,-6.5741,-35.3262
+Primavera das Águas,-7.4203,-35.3252
+Luzia da Esperança,-7.2659,-35.3247
+São Vicente das Pedras,-7.0065,-35.3241
+Horizonte do Sítio,-6.7501,-35.3225
+Barra Clara,-6.4481,-35.3220
+Conceição do Cariri,-6.6013,-35.3220
+São Geraldo do Engenho,-7.9176,-35.3214
+Serra Branca de Baixo,-8.0858,-35.3209
+Rio Bonito da Lagoa,-7.9682,-35.3206
+Santa Teresinha do Agreste,-7.3917,-35.3198
+Baraúna do Campo,-7.3151,-35.3195
+Aroeira de Nazaré,-6.1369,-35.3191
+São Geraldo do Campo,-6.3392,-35.3187
+Fátima dos Rios,-7.1619,-35.3187
+Flores do Curimataú,-6.9160,-35.3184
+Estrela da Conceição,-6.2649,-35.3178
+Redenção dos Rios,-6.9623,-35.3174
+São João do Vale,-7.2284,-35.3168
+Independência do Leste,-6.4033,-35.3166
+Nazaré do Sul,-7.5751,-35.3158
+Tabuleiro da Estrela,-7.0793,-35.3155
+Cruz do Meio do Riacho,-7.8154,-35.3151
+São Pedro do Horizonte,-6.3014,-35.3147
+Esperança do Riacho,-7.8452,-35.3141
+São José do Litoral,-6.1099,-35.3141
+Candeias do Sol,-6.6478,-35.3138
+Carmo do Açude,-8.0081,-35.3137
+Cruz do Meio da Estrela,-6.1677,-35.3129
+Monte Belo da Serra,-6.3701,-35.3129
+Santa Helena da Cruz,-7.6111,-35.3128
+Jerusalém da Mata,-7.3313,-35.3125
+Monte Alto do Brejo,-6.8732,-35.3119
+Estrela do Cruzeiro,-7.4944,-35.3117
+Piedade da Glória,-6.7206,-35.3105
+São Judas da Glória,-7.7589,-35.3103
+Remígio de Santa Luzia,-7.4592,-35.3099
+Rio Bonito da Serra Azul,-7.1946,-35.3096
+Sossego do Leste,-7.5377,-35.2946
+Princesa do Curimataú,-6.7496,-35.2938
+Água Doce do Sertão,-6.0948,-35.2911
+Rio Verde do Riacho,-7.0260,-35.2906
+Cristal da Fazenda,-7.9660,-35.2905
+Terra Nova de Baixo,-7.6672,-35.2900
+Serra Branca do Cruzeiro,-6.4550,-35.2894
+Riacho Verde do Brejo,-8.0843,-35.2882
+Maravilha do Curimataú,-6.2951,-35.2880
+Alcantil da Serra Azul,-6.3337,-35.2879
+Vale Verde do Carmo,-7.1212,-35.2879
+Nova Vida da Mata,-7.8959,-35.2877
+Alagoa Nova da Mata,-7.4921,-35.2875
+Alto Bonito de Fátima,-7.6995,-35.2852
+Canaã do Cariri,-6.1274,-35.2844
+Vera Cruz da Fazenda,-6.6091,-35.2843
+Alagoa Grande do Açude,-7.5807,-35.2838
+Piedade do Brejo,-7.1900,-35.2835
+Santa Luzia de Nazaré,-6.5326,-35.2834
+Vale Verde da Serra Azul,-7.6191,-35.2828
+Aurora do Litoral,-7.9273,-35.2823
+Graça da Barra,-7.4179,-35.2822
+Umbuzeiro da Glória,-6.8405,-35.2813
+Fortaleza de Santa Luzia,-7.3893,-35.2811
+Fortaleza do Horizonte,-6.9836,-35.2810
+Santo André do Cruzeiro,-7.3327,-35.2807
+São Paulo de Nazaré,-7.4558,-35.2805
+Alto do Cruzeiro da Paz,-6.2138,-35.2791
+Santa Helena do Sertão,-6.4807,-35.2789
+Monte Verde do Meio,-7.3073,-35.2787
+Canaã da Glória,-7.0667,-35.2786
+Baraúna de Santa Luzia,-8.0335,-35.2784
+Jerusalém do Engenho,-6.5778,-35.2777
+Canaã do Riacho,-7.2256,-35.2776
+Santa Rosa do Leste,-6.6546,-35.2772
+Santa Fé de Nazaré,-6.7211,-35.2772
+Mangabeira da Conceição,-7.7618,-35.2770
+Pau Ferro do Oeste,-6.6870,-35.2742
+Tabuleiro da Várzea,-6.8747,-35.2736
+Bom Sucesso do Campo,-6.9047,-35.2734
+Nova Esperança da Mata,-8.1483,-35.2733
+Primavera do Campo,-6.8058,-35.2731
+Nova Aurora do Leste,-8.0135,-35.2731
+Glória de Nazaré,-7.8209,-35.2719
+Serra Azul do Oeste,-7.1411,-35.2707
+Paraíso da Estrela,-6.1815,-35.2704
+Aliança do Bom Jesus,-8.1312,-35.2704
+Pedra Lavrada da Serra Azul,-7.2536,-35.2696
+São Judas do Curimataú,-7.7399,-35.2695
+Santa Luzia de Santa Luzia,-6.2659,-35.2693
+Independência do Horizonte,-6.9562,-35.2690
+Jardim do Oeste,-6.3667,-35.2690
+Aroeira do Brejo,-6.4078,-35.2689
+Esperança da Lagoa,-6.5353,-35.2553
+Campo Belo do Carmo,-7.0026,-35.2551
+Barreira da Paz,-6.3200,-35.2550
+São Judas da Fazenda,-7.8796,-35.2543
+Serra Verde dos Ventos,-6.6947,-35.2541
+Conceição do Meio,-7.2310,-35.2539
+Jardim do Brejo,-8.0018,-35.2539
+Alto Branco de Baixo,-6.3988,-35.2523
+Monte Alto de Nazaré,-7.5120,-35.2519
+Serra Grande dos Ventos,-7.6217,-35.2478
+São Bento do Riacho,-7.5366,-35.2472
+Bom Jesus de Baixo,-6.2561,-35.2467
+Pau Ferro das Flores,-7.1117,-35.2467
+Remígio da Esperança,-7.2786,-35.2466
+Prata do Carmo,-8.0392,-35.2463
+Sossego do Carmo,-7.3538,-35.2462
+Boa Esperança do Norte,-6.8647,-35.2449
+Horizonte do Curimataú,-7.5844,-35.2447
+São Domingos da Barra,-6.9285,-35.2440
+Liberdade do Alto,-7.0308,-35.2440
+Campo Belo do Triunfo,-6.8055,-35.2439
+Serra Grande da Serra Azul,-8.1133,-35.2419
+Aurora do Norte,-7.7207,-35.2413
+Santa Fé da Serra Azul,-6.6338,-35.2410
+Conceição do Triunfo,-6.0953,-35.2408
+Alto Branco das Flores,-7.7045,-35.2406
+São Vicente de Nazaré,-7.9329,-35.2403
+Monte Belo das Águas,-8.0763,-35.2403
+Nova Esperança dos Montes,-7.4329,-35.2394
+São Braz dos Rios,-6.4907,-35.2392
+Santa Fé do Oeste,-6.5578,-35.2392
+Ventura das Flores,-7.3877,-35.2389
+São Lourenço da Glória,-7.6496,-35.2388
+Paraíso,-7.1542,-35.2386
+São Pedro,-7.2924,-35.2385
+Nazaré do Oeste,-7.0621,-35.2382
+Santo André da Lagoa,-6.9432,-35.2373
+Independência das Flores,-7.1832,-35.2368
+Santa Cruz da Barra,-7.9571,-35.2365
+Prata dos Montes,-7.8445,-35.2361
+Serrote do Sertão,-6.1899,-35.2361
+Santa Helena da Paz,-6.2113,-35.2361
+Barra do Rio de Baixo,-6.2878,-35.2352
+Carmo do Agreste,-7.7993,-35.2351
+Varjota do Oeste,-6.7213,-35.2351
+Fortaleza da Fazenda,-6.7727,-35.2343
+Cachoeira do Triunfo,-6.3705,-35.2338
+São Lourenço da Serra,-6.8284,-35.2338
+Umbuzeiro do Sol,-7.4628,-35.2336
+Nova Vida da Lagoa,-6.6006,-35.2310
+Riacho Fundo,-8.1719,-35.2308
+Bom Jesus das Águas,-6.4490,-35.2308
+Vera Cruz da Paz,-6.1272,-35.2302
+Água Branca da Várzea,-7.7661,-35.2301
+Santa Luzia dos Montes,-6.7732,-35.2164
+Aroeira do Carmo,-8.1121,-35.2159
+Monte Belo da Paz,-7.7274,-35.2156
+Conceição do Oeste,-7.6585,-35.2137
+Nova Vida da Fazenda,-6.6000,-35.2136
+Caridade de Nazaré,-7.5257,-35.2134
+Santa Fé de Fátima,-6.5155,-35.2127
+Riacho Verde do Riacho,-7.1880,-35.2125
+Jerusalém do Sertão,-8.1701,-35.2122
+União do Engenho,-6.5581,-35.2115
+Jardim de Nazaré,-7.7020,-35.2110
+São Geraldo dos Ventos,-7.0841,-35.2101
+Palmeira das Flores,-7.1611,-35.2099
+Salgadinho da Glória,-6.4043,-35.2095
+Água Doce do Litoral,-7.5825,-35.2093
+Palmeira de Fátima,-7.3030,-35.2092
+Princesa da Barra,-6.3025,-35.2079
+Palmeira do Cruzeiro,-6.4465,-35.2073
+Baraúna do Leste,-7.3826,-35.2069
+Bela Vista das Pedras,-6.3760,-35.2063
+Santo André de Santa Luzia,-6.1288,-35.2058
+Pedra Branca do Triunfo,-7.4671,-35.2058
+Conceição do Sul,-6.6531,-35.2049
+São João do Litoral,-7.8994,-35.2045
+Conceição de Nazaré,-8.0711,-35.2043
+União do Alto,-7.3481,-35.2032
+Aurora da Estrela,-7.9355,-35.2017
+Santa Helena do Sítio,-8.0558,-35.2009
+Alagoa Nova da Paz,-7.0226,-35.2004
+Rio Claro da Barra,-7.4154,-35.2003
+Serra Verde do Bom Jesus,-6.1780,-35.1990
+São João do Sítio,-7.8137,-35.1989
+Triunfo do Bom Jesus,-7.1208,-35.1988
+São Miguel do Bom Jesus,-6.0892,-35.1988
+Liberdade da Serra Azul,-6.9128,-35.1986
+Alto do Cruzeiro do Norte,-7.8518,-35.1976
+Alegria de Fátima,-6.8492,-35.1972
+São Francisco do Meio,-6.9459,-35.1966
+Fátima da Estrela,-7.2370,-35.1960
+Bom Jesus de Nazaré,-7.2789,-35.1951
+Fátima do Açude,-6.6917,-35.1949
+Santa Cruz da Cruz,-6.2638,-35.1949
+Serrote da Paz,-6.2203,-35.1948
+Nova Vida da Barra,-7.5044,-35.1943
+Primavera dos Ventos,-6.9963,-35.1943
+Santa Rosa das Pedras,-6.3431,-35.1939
+Boa Esperança de Baixo,-7.7787,-35.1937
+Monte Verde da Estrela,-6.8094,-35.1930
+São Vicente do Alto,-7.6068,-35.1929
+Olho d'Água do Curimataú,-7.9749,-35.1928
+São João da Barra,-6.8659,-35.1918
+Cruz do Meio da Várzea,-6.7141,-35.1913
+Cruz do Meio dos Montes,-8.0129,-35.1909
+Nova Vida de Cima,-6.4989,-35.1909
+São Geraldo do Alto,-7.5339,-35.1772
+Barra do Rio dos Ventos,-6.1775,-35.1771
+Rio Bonito da Cruz,-7.3059,-35.1766
+Cruz do Meio da Mata,-7.2556,-35.1761
+Alegria de Santa Luzia,-7.1845,-35.1759
+Luzia do Cruzeiro,-7.0771,-35.1757
+Serra Verde do Carmo,-6.2217,-35.1750
+Santa Luzia do Cariri,-6.5752,-35.1748
+Graça do Meio,-7.7236,-35.1742
+Pau Ferro do Campo,-6.1260,-35.1740
+Vitória do Riacho,-6.6748,-35.1738
+Riacho Fundo de Santa Luzia,-6.2664,-35.1736
+Sossego do Norte,-7.6207,-35.1736
+Alegria de Baixo,-6.8437,-35.1735
+Salgadinho do Riacho,-6.7648,-35.1711
+Alagoa Grande do Engenho,-7.9200,-35.1704
+Redenção do Meio,-7.3818,-35.1701
+Serra Branca do Açude,-6.3823,-35.1699
+Águas Belas da Glória,-7.8998,-35.1696
+Serrote do Açude,-7.3546,-35.1696
+Bom Sucesso dos Ventos,-7.2249,-35.1696
+Olho d'Água da Serra,-7.0383,-35.1691
+Cachoeira das Pedras,-6.7343,-35.1691
+Varjota da Mata,-7.1158,-35.1681
+Santa Maria do Riacho,-7.9789,-35.1680
+Maravilha do Sol,-7.9987,-35.1671
+Barra Bonita do Cariri,-6.9827,-35.1661
+Glória da Serra Azul,-6.8667,-35.1656
+Liberdade do Riacho,-6.5011,-35.1656
+Soledade de Fátima,-7.6557,-35.1651
+Jardim das Flores,-7.4537,-35.1646
+Cachoeira da Mata,-6.3029,-35.1640
+Santo André,-6.9493,-35.1633
+Cristal dos Montes,-7.7638,-35.1629
+Fátima da Barra,-6.7941,-35.1626
+São João do Sul,-8.0519,-35.1626
+São Lourenço do Triunfo,-7.5768,-35.1623
+Águas Belas da Estrela,-7.1383,-35.1623
+São Miguel do Oeste,-6.6108,-35.1619
+Serrote do Norte,-8.0950,-35.1617
+Paraíso do Litoral,-6.9143,-35.1605
+Varjota do Cruzeiro,-7.8406,-35.1603
+São Sebastião da Cruz,-6.5312,-35.1598
+Candeias da Glória,-8.1338,-35.1598
+Santo André da Lua,-6.1116,-35.1597
+Serra Verde,-6.4177,-35.1584
+São Braz de Baixo,-6.6509,-35.1563
+Carmo,-6.3386,-35.1546
+Rio Bonito do Campo,-7.5027,-35.1531
+São Domingos dos Ventos,-7.8161,-35.1531
+São Sebastião da Estrela,-6.4609,-35.1523
+Aroeira do Oeste,-8.1510,-35.1522
+Aliança do Sertão,-7.6850,-35.1521
+Serra Grande do Carmo,-7.3087,-35.1385
+Liberdade da Várzea,-8.0888,-35.1379
+Canaã de Nazaré,-6.4610,-35.1369
+Canaã de Baixo,-7.7800,-35.1367
+Alagoa Nova do Cruzeiro,-6.4066,-35.1365
+Prata do Meio,-7.4227,-35.1364
+Santa Helena do Leste,-7.1052,-35.1357
+Caridade da Cruz,-7.3396,-35.1354
+Barra Grande da Mata,-7.3890,-35.1349
+Remígio do Sul,-6.1879,-35.1347
+Soledade da Cruz,-7.0264,-35.1320
+São Domingos do Alto,-6.1414,-35.1316
+Barra Clara do Meio,-6.6411,-35.1315
+São Judas dos Ventos,-7.5344,-35.1314
+Alto do Cruzeiro da Glória,-7.5093,-35.1298
+Pau Ferro da Estrela,-6.7324,-35.1287
+Lagoa Seca do Meio,-7.4596,-35.1286
+Ipiranga do Sol,-6.4951,-35.1275
+Prata da Barra,-6.9678,-35.1274
+Sossego do Bom Jesus,-6.5217,-35.1269
+Santa Maria da Barra,-7.0001,-35.1263
+Pilões do Leste,-6.3413,-35.1262
+Palmeira das Águas,-7.2270,-35.1256
+Primavera do Leste,-6.8445,-35.1254
+Varjota das Flores,-7.6831,-35.1254
+Cruz do Meio de Fátima,-6.2187,-35.1250
+Carmo do Alto,-6.1080,-35.1249
+Rio Verde do Cariri,-7.5728,-35.1241
+Aroeira da Barra,-6.3039,-35.1240
+Conceição do Norte,-6.9163,-35.1227
+Pau Ferro das Águas,-7.6614,-35.1227
+Alcantil do Norte,-7.8894,-35.1216
+Alto do Cruzeiro da Várzea,-8.1692,-35.1213
+Alto do Cruzeiro de Nazaré,-7.1814,-35.1210
+Alagoa Grande do Leste,-6.7960,-35.1209
+Prata da Cruz,-6.8814,-35.1208
+Barreira da Barra,-7.9589,-35.1202
+Barreira do Norte,-7.8419,-35.1201
+Baraúna de Fátima,-8.0314,-35.1201
+Santa Cruz da Várzea,-7.1580,-35.1195
+Remígio da Cruz,-8.1178,-35.1190
+Aroeira do Bom Jesus,-7.6174,-35.1190
+Alagoa Nova do Norte,-7.9145,-35.1184
+Piedade da Conceição,-6.2466,-35.1184
+Barra do Rio do Norte,-6.6074,-35.1178
+Monte Belo do Leste,-7.9966,-35.1176
+Água Doce da Serra Azul,-6.3732,-35.1171
+Terra Nova dos Rios,-7.0767,-35.1162
+Alto da Serra de Santa Luzia,-7.7320,-35.1156
+Ipiranga do Engenho,-6.7696,-35.1149
+Alto do Cruzeiro de Fátima,-6.5632,-35.1146
+São Pedro de Nazaré,-7.8041,-35.1144
+Pedra Branca da Várzea,-6.6705,-35.1143
+Carmo da Conceição,-7.2750,-35.1139
+Campo Belo das Pedras,-6.1017,-35.0995
+Santa Rosa do Horizonte,-6.6923,-35.0994
+Serra Branca das Flores,-6.9931,-35.0993
+Nova Esperança de Nazaré,-7.1566,-35.0992
+Rio Claro do Meio,-7.7308,-35.0989
+Maravilha do Vale,-6.9427,-35.0979
+São Geraldo da Cruz,-6.7257,-35.0977
+Varjota dos Ventos,-7.0771,-35.0975
+Barra Clara das Pedras,-7.1883,-35.0972
+Serra Verde de Baixo,-7.3415,-35.0968
+Canaã das Flores,-8.1196,-35.0968
+Alagoa Grande do Triunfo,-6.5347,-35.0953
+Alto Alegre da Paz,-7.6159,-35.0946
+Alagoa Nova das Águas,-7.9713,-35.0938
+Pedra Lavrada do Horizonte,-6.2647,-35.0932
+Pilões das Flores,-6.7578,-35.0927
+São Miguel do Alto,-6.1689,-35.0921
+Primavera da Conceição,-6.3729,-35.0906
+Serra Grande do Horizonte,-6.4551,-35.0904
+Cruz do Meio do Alto,-6.8699,-35.0902
+Varjota de Santa Luzia,-7.1112,-35.0899
+Estrela da Estrela,-7.3823,-35.0890
+Pedra Branca do Sul,-7.0374,-35.0882
+Caridade do Cruzeiro,-7.4695,-35.0881
+Riacho Fundo do Sol,-8.1569,-35.0879
+Sossego de Cima,-7.5053,-35.0876
+Bom Sucesso do Agreste,-7.5381,-35.0875
+São Sebastião do Sol,-6.6391,-35.0868
+Flores dos Ventos,-6.3214,-35.0868
+Barra Grande da Fazenda,-7.8558,-35.0859
+Alagoa Grande dos Rios,-6.6012,-35.0858
+São Judas da Lagoa,-6.9265,-35.0845
+Riacho Fundo de Nazaré,-6.4041,-35.0835
+Barreira da Lagoa,-7.3145,-35.0834
+São Bento da Esperança,-8.0855,-35.0834
+Água Branca de Cima,-7.6823,-35.0828
+Campo Belo do Bom Jesus,-7.2288,-35.0823
+Aurora do Cariri,-7.9277,-35.0821
+Horizonte da Paz,-6.4798,-35.0815
+Graça do Norte,-6.5759,-35.0806
+Lagoa Seca do Sol,-6.8353,-35.0804
+Aliança do Triunfo,-7.4280,-35.0803
+Cruz do Meio da Fazenda,-7.7750,-35.0787
+Olho d'Água das Pedras,-7.8830,-35.0787
+Alagoa Grande do Sítio,-7.6660,-35.0783
+Floresta do Bom Jesus,-7.7988,-35.0781
+Águas Belas do Sul,-7.9980,-35.0770
+São Braz da Lagoa,-6.7884,-35.0766
+Alto Branco dos Montes,-8.0318,-35.0764
+Cristal do Vale,-6.3060,-35.0760
+Estrela de Santa Luzia,-7.2658,-35.0753
+Independência da Lagoa,-6.2122,-35.0752
+Vale Verde da Conceição,-7.5773,-35.0748
+União de Baixo,-6.1256,-35.0737
+Sossego do Cruzeiro,-6.6547,-35.0591
+Vitória dos Ventos,-8.1114,-35.0587
+Mangabeira dos Rios,-7.6497,-35.0585
+Águas Belas do Meio,-7.1412,-35.0583
+Olho d'Água do Norte,-7.8029,-35.0578
+Varjota do Curimataú,-7.0633,-35.0576
+Fortaleza do Açude,-6.1280,-35.0575
+São Geraldo da Serra,-7.7392,-35.0571
+Alcantil da Mata,-7.5468,-35.0568
+Pau Ferro da Lua,-7.9704,-35.0557
+Caridade do Horizonte,-6.3723,-35.0557
+Aroeira da Lua,-6.4915,-35.0552
+Esperança da Glória,-6.7318,-35.0551
+Conceição da Lagoa,-6.5761,-35.0549
+São Francisco do Litoral,-6.8691,-35.0547
+São Judas do Açude,-7.6262,-35.0542
+São Braz da Barra,-6.2646,-35.0540
+Nova Vida,-7.7764,-35.0538
+Piedade do Oeste,-6.6761,-35.0538
+Canaã das Águas,-8.0537,-35.0531
+Alegria da Várzea,-7.4506,-35.0529
+Olho d'Água das Flores,-6.1093,-35.0520
+Princesa da Serra Azul,-8.1681,-35.0519
+Alto Branco do Agreste,-6.2859,-35.0503
+Soledade do Triunfo,-8.0067,-35.0498
+Pedra Lavrada de Santa Luzia,-6.5185,-35.0497
+Glória de Baixo,-7.3034,-35.0496
+Nazaré do Curimataú,-7.3531,-35.0495
+Serra Azul da Serra Azul,-6.8419,-35.0492
+Liberdade do Norte,-6.9618,-35.0490
+Independência da Mata,-7.1976,-35.0488
+Triunfo de Baixo,-7.2605,-35.0485
+São Bento da Lua,-7.9010,-35.0483
+Terra Nova do Brejo,-6.4622,-35.0482
+Nazaré da Conceição,-6.2266,-35.0468
+Olho d'Água dos Ventos,-6.6116,-35.0463
+Bom Sucesso da Cruz,-7.8536,-35.0455
+Vitória do Vale,-7.7009,-35.0455
+Campo Belo do Cariri,-7.9232,-35.0453
+Cristal da Mata,-6.7714,-35.0451
+Serra Verde de Nazaré,-6.1719,-35.0446
+Bom Sucesso do Curimataú,-7.0342,-35.0440
+Monte Verde do Sítio,-7.5880,-35.0431
+Cruz do Meio do Litoral,-7.2182,-35.0423
+Tabuleiro do Cruzeiro,-7.3787,-35.0422
+Alcantil da Estrela,-7.4273,-35.0409
+Redenção das Águas,-7.1002,-35.0406
+Monte Belo da Estrela,-6.3272,-35.0401
+Alegria da Lagoa,-6.8049,-35.0400
+São Vicente do Carmo,-8.0773,-35.0393
+Vale Verde de Nazaré,-7.5104,-35.0392
+Soledade da Conceição,-6.9915,-35.0373
+Santa Fé do Cariri,-6.9112,-35.0359
+Olho d'Água dos Rios,-6.4031,-35.0351
+Princesa da Serra,-8.0866,-35.0214
+Conceição de Baixo,-7.6497,-35.0207
+São Pedro da Glória,-6.9833,-35.0206
+Princesa do Campo,-6.8383,-35.0206
+Ventura das Pedras,-7.0416,-35.0205
+Candeias do Oeste,-6.5990,-35.0191
+Princesa da Várzea,-7.2366,-35.0191
+São Judas do Sol,-6.3639,-35.0180
+Primavera do Triunfo,-6.3008,-35.0180
+Monte Verde das Pedras,-8.0371,-35.0179
+Alto da Serra do Riacho,-6.3286,-35.0175
+Água Branca do Sertão,-7.3132,-35.0175
+Nazaré do Litoral,-7.1372,-35.0168
+Campo Belo de Nazaré,-7.4204,-35.0166
+Caridade do Triunfo,-7.7342,-35.0160
+Conceição do Agreste,-6.8115,-35.0160
+Barra do Rio da Mata,-7.9711,-35.0147
+São José do Vale,-6.4485,-35.0145
+Nova Esperança da Várzea,-6.8724,-35.0141
+Estrela da Lua,-7.3497,-35.0137
+Cristal da Conceição,-7.6212,-35.0135
+São Paulo do Curimataú,-7.8999,-35.0132
+Nova Esperança do Engenho,-7.4908,-35.0125
+Glória do Curimataú,-7.2547,-35.0124
+Liberdade da Fazenda,-6.2489,-35.0119
+Santa Teresinha de Nazaré,-6.1473,-35.0116
+Salgadinho do Sítio,-6.1887,-35.0111
+Alto Alegre da Mata,-6.5599,-35.0098
+Fátima,-6.9564,-35.0095
+São Francisco da Conceição,-8.0152,-35.0090
+Estrela do Cariri,-7.4497,-35.0084
+Esperança das Pedras,-7.9266,-35.0082
+Pedra Branca de Cima,-7.1944,-35.0079
+Flores do Carmo,-6.9091,-35.0071
+Jerusalém da Paz,-8.1706,-35.0060
+Piedade da Várzea,-7.7687,-35.0058
+Umbuzeiro da Esperança,-7.1152,-35.0044
+Rio Verde das Pedras,-7.5479,-35.0040
+Baraúna do Meio,-6.6435,-35.0030
+Água Branca da Lagoa,-6.2161,-35.0024
+Mangabeira do Alto,-7.5894,-35.0021
+Vitória do Cruzeiro,-6.4923,-35.0015
+Barra do Rio do Triunfo,-7.0631,-35.0013
+Fortaleza das Flores,-6.4031,-35.0011
+Rio Claro da Serra Azul,-6.5343,-35.0010
+Piedade do Triunfo,-7.8550,-35.0007
+Bela Vista da Mata,-6.0923,-35.0007
+Barra Grande do Horizonte,-6.7122,-34.9985
+Alegria dos Ventos,-8.1095,-34.9968
+Vera Cruz do Sítio,-6.7712,-34.9967
+Floresta do Açude,-6.6771,-34.9965
+Cruz do Meio do Oeste,-7.3902,-34.9962
+Barreira do Horizonte,-7.6822,-34.9960
+Vitória do Meio,-7.8181,-34.9960
+Luzia do Oeste,-7.1042,-34.9818
+Santa Maria da Várzea,-6.2897,-34.9814
+Serrote da Fazenda,-7.6566,-34.9803
+Alto Branco do Triunfo,-7.3337,-34.9790
+Carmo do Norte,-7.3055,-34.9787
+São Bento da Serra,-7.2396,-34.9787
+Sossego do Oeste,-6.5271,-34.9785
+Canaã do Meio,-6.6106,-34.9782
+Serrote do Sítio,-6.3629,-34.9772
+São Sebastião do Norte,-7.0300,-34.9771
+Varjota das Águas,-6.9181,-34.9771
+São Geraldo da Estrela,-6.9510,-34.9765
+Floresta do Carmo,-6.3445,-34.9762
+Nazaré dos Rios,-7.4727,-34.9754
+Água Doce das Flores,-6.4123,-34.9742
+Primavera do Meio,-7.2603,-34.9740
+São Judas do Cruzeiro,-7.7726,-34.9732
+Alagoa Grande do Meio,-8.1643,-34.9729
+Barra do Rio,-6.1119,-34.9727
+Varjota da Serra Azul,-6.8667,-34.9724
+Nova Vida do Bom Jesus,-7.0743,-34.9723
+Princesa dos Montes,-6.8428,-34.9722
+Umbuzeiro das Águas,-7.0060,-34.9717
+Alagoa Nova da Serra Azul,-6.1286,-34.9711
+Nova Esperança do Oeste,-7.1505,-34.9703
+Serra Branca da Serra,-6.2578,-34.9700
+Santa Teresinha de Santa Luzia,-6.6389,-34.9700
+Santa Luzia do Sul,-7.9269,-34.9697
+Bela Vista de Nazaré,-7.9553,-34.9688
+Terra Nova de Nazaré,-8.0867,-34.9685
+Vera Cruz de Fátima,-7.4270,-34.9676
+Santa Helena da Serra,-7.8986,-34.9675
+São Bento do Litoral,-7.8003,-34.9666
+Terra Nova do Riacho,-6.5779,-34.9663
+São Francisco do Horizonte,-7.6828,-34.9646
+Alagoa Grande do Carmo,-7.3805,-34.9641
+Bom Sucesso da Lagoa,-6.4484,-34.9639
+Alegria da Conceição,-6.7490,-34.9639
+Esperança da Várzea,-6.4759,-34.9635
+Aurora de Baixo,-7.8438,-34.9632
+Fátima da Glória,-7.5465,-34.9628
+Tabuleiro,-6.2138,-34.9625
+Luzia do Campo,-7.4884,-34.9620
+São Braz do Meio,-8.1335,-34.9618
+Cedro,-6.7109,-34.9617
+Flores da Paz,-6.1827,-34.9613
+Misericórdia da Lagoa,-8.0010,-34.9610
+Bela Vista das Flores,-6.8018,-34.9609
+Jerusalém do Alto,-7.7446,-34.9593
+Rio Claro do Engenho,-7.6283,-34.9590
+Sossego da Cruz,-7.5791,-34.9588
+Salgadinho da Barra,-8.0557,-34.9570
+Remígio da Conceição,-7.1782,-34.9569
